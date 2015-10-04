@@ -5,7 +5,7 @@ category: feed
 ---
 
 *   Triple Canopy: [Speculations (“The future is \______”) book is now out](http://canopycanopycanopy.com/contents/speculations-the-future-is)
-*   Triple Canopy: [New series - Passage of A Rumor Series](http://canopycanopycanopy.com/series/passage-of-a-rumor)
+*   Triple Canopy: [New series - Passage of A Rumor](http://canopycanopycanopy.com/series/passage-of-a-rumor)
 *   A Public Library: [Which book would you take to the square today?](http://www.apubliclibrary.org/event/which-book-would-you-take-to-the-square-today/)
 *   Triple Canopy: [Access to Tools](http://canopycanopycanopy.com/contents/access-to-tools)
 *   A Public Library: [Aufstand aus der Bibliothek](http://www.apubliclibrary.org/event/aufstand-aus-der-bibliothek/)

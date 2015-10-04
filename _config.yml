@@ -10,7 +10,7 @@ tagline:             The Website of Caleb Waldorf
 description:         The Website of Caleb Waldorf
 url:                 http://calebwaldorf.net
 baseurl:             ''
-paginate:            5
+paginate:            100
 
 # About/contact
 author:
