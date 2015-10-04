@@ -55,3 +55,4 @@ category: feed
 *   Triple Canopy: [Slow down the world: announcing Triple Canopy 3.0](http://refresh.canopycanopycanopy.com/)
 *   The Public School: [Participation in Contemporary Art](http://thepublicschool.org/node/34139)
 *   The Public School: [Erotica](http://thepublicschool.org/node/33855)
+
