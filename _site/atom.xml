@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Caleb Waldorf</title>
+ <link href="http://calebwaldorf.net/atom.xml" rel="self"/>
+ <link href="http://calebwaldorf.net/"/>
+ <updated>2015-10-04T23:05:28+02:00</updated>
+ <id>http://calebwaldorf.net</id>
+ <author>
+   <name>Caleb Waldorf</name>
+   <email>thereisnothinglesspassive@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Recent</title>
+   <link href="http://calebwaldorf.net/feed/2015/10/06/projects-feed/"/>
+   <updated>2015-10-06T00:00:00+02:00</updated>
+   <id>http://calebwaldorf.net/feed/2015/10/06/projects-feed</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/contents/speculations-the-future-is&quot;&gt;Speculations (“The future is ______”) book is now out&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/series/passage-of-a-rumor&quot;&gt;New series - Passage of A Rumor Series&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/which-book-would-you-take-to-the-square-today/&quot;&gt;Which book would you take to the square today?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/contents/access-to-tools&quot;&gt;Access to Tools&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/aufstand-aus-der-bibliothek/&quot;&gt;Aufstand aus der Bibliothek&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/contents/dont-you-want-to-have-a-body&quot;&gt;Don’t You Want to Have a Body&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Public School: &lt;a href=&quot;http://thepublicschool.org/node/38594&quot;&gt;Genre-fication&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Public School: &lt;a href=&quot;http://thepublicschool.org/node/38608&quot;&gt;Theoretical Sources of Syriza’s Left Platform&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/afrofuturism-2-0-a-transdisciplinary-agenda-for-africa-and-its-diaspora/&quot;&gt;Afrofuturism 2.0: A Transdisciplinary Agenda for Africa and its Diaspora&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/becoming-book-becoming-animal/&quot;&gt;becoming book, becoming animal, becoming Anthropocene&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/series/on-the-beach&quot;&gt;New series - On the Beach&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/the-future-of-the-book/&quot;&gt;The Future of the Book&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/series/speculations-archive&quot;&gt;New series - Speculations Archive&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/issues/21&quot;&gt;Issue #20: The Long Tomorrow published&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/unearthing-disaster/&quot;&gt;Unearthing Disaster&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/contents/i-call-this-one-happiness&quot;&gt;I Would Call This One “Happiness”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/book-and-things-remixing-the-library-and-labor-bbl-4/&quot;&gt;Book (and Things) Remixing: The Library and Labor #bbl 4&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/readings/&quot;&gt;Readings&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/das-nachbarschaftsregal/&quot;&gt;Das Nachbarschaftsregal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/contents/i-would-draw-her-likeness&quot;&gt;I Would Draw Her Likeness&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/bureau-for-book-liberation-book-remixing-03/&quot;&gt;Bureau for Book Liberation: Book Remixing #03&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/zm02/&quot;&gt;Philosophie zum Mitnehmen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/contents/pointing_machines&quot;&gt;A Note on Pointing Machines&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/zm03/&quot;&gt;Technik zum Mitnehmen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/bureau-for-book-liberation-book-remixing-02/&quot;&gt;Bureau for Book Liberation: Book Remixing #02&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Public School: &lt;a href=&quot;http://thepublicschool.org/node/38436&quot;&gt;Cosmic Tones for Mental Therapy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/zm01/&quot;&gt;Esoterik zum Mitnehmen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/book-remixing-with-the-bureau-for-book-liberation/&quot;&gt;Bureau for Book Liberation: Book Remixing #01&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/public-editing-session-01-mehr-geld-ii-oder-kein-money-mit-ralph-stefan-heidenreich/&quot;&gt;Public Editing Session #01: Mehr Geld II oder Kein Geld mit Ralph &amp;amp; Stefan Heidenreich&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/contents/headless&quot;&gt;Headless book now out&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/contents/the-cinderella-complex-xxx&quot;&gt;The Cinderella Complex&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Public School: &lt;a href=&quot;http://thepublicschool.org/node/37828&quot;&gt;Book’Em: Personal Archives + Open(ing) Access to Books&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/contents/the-motherhood-archives&quot;&gt;The Motherhood Archives&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Public School: &lt;a href=&quot;http://thepublicschool.org/node/37696&quot;&gt;Reading Testo Junkie&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Public School: &lt;a href=&quot;http://thepublicschool.org/node/37457&quot;&gt;WORKSHOP [The EPONYM]&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/contents/an-essay-on-tickling&quot;&gt;A Note on Tickling&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/contents/good_dog_you&quot;&gt;GOOD DOG YOU&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/issues/20&quot;&gt;Issue #20: Pointing Machines published&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/issues/19&quot;&gt;Issue #19: It Speaks of Others published&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://www.canopycanopycanopy.com/contents/hello_world&quot;&gt;Hello, World&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Public School: &lt;a href=&quot;http://thepublicschool.org/node/36064&quot;&gt;Imagining Differing Fictions and Other Bodied Beings&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Public School: &lt;a href=&quot;http://thepublicschool.org/node/35916&quot;&gt;Freedom and Empathy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Public School: &lt;a href=&quot;http://thepublicschool.org/node/35471&quot;&gt;Revolution is also a language&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Public School: &lt;a href=&quot;http://thepublicschool.org/node/34991&quot;&gt;The Egyptian Revolution and its Historical Context - Part 2?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Public School: &lt;a href=&quot;http://thepublicschool.org/node/34508&quot;&gt;WORK: THE SUBJECTIVITIES OF WORK, WAGE LABOR, LEISURE AND A LIFE WITHOUT IT&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/programs/87&quot;&gt;Speculations (“The future is &lt;strong&gt;__&lt;/strong&gt;_____”): Fifty days of lectures, discussions, and debates about the future, May 12 to July 28, 2013, as part of EXPO 1: New York&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/18&quot;&gt;Issue #18: &lt;em&gt;active rot&lt;/em&gt; published&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Architectonics of Answerability &lt;a href=&quot;http://thepublicschool.org/node/34247&quot;&gt;The Architectonics of Answerability&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://refresh.canopycanopycanopy.com/&quot;&gt;Slow down the world: announcing Triple Canopy 3.0&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Public School: &lt;a href=&quot;http://thepublicschool.org/node/34139&quot;&gt;Participation in Contemporary Art&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Public School: &lt;a href=&quot;http://thepublicschool.org/node/33855&quot;&gt;Erotica&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Shock of Victory Symposium @ CCA. Glasgow, Scotland.</title>
+   <link href="http://calebwaldorf.net/post/2015/09/25/TSOV/"/>
+   <updated>2015-09-25T00:00:00+02:00</updated>
+   <id>http://calebwaldorf.net/post/2015/09/25/TSOV</id>
+   <content type="html">&lt;p&gt;25 September 2015&lt;br /&gt;
+CCA&lt;br /&gt;
+With In the Shadow of the Hand, Sacha Kahir, Latitudes, Angeliki Roussou, Caleb Waldorf, and WHW (What, How and For Whom?)&lt;/p&gt;
+
+&lt;p&gt;Accompanying the exhibition &lt;a href=&quot;http://www.cca-glasgow.com/programme/55c0904df3683e640c000001&quot;&gt;The Shock of Victory&lt;/a&gt;, this symposium allows for a timely re-consideration of the complexities of the relations between alternative and established (art) institutions that might have been sparked by political moments such as the Scottish Independence Referendum of 2014.&lt;/p&gt;
+
+&lt;p&gt;The underpinning emphasis is on the ‘organisational turn’, a shift from hierarchical to self-organised models of organisation. In particular the focus is on the potency of radical (artistic) practices and ideas, which propose imaginative ways of organising – collectivism, anarchism, activism, networks, and self-organising. Can we think of a new artistic landscape that might have been formed?&lt;/p&gt;
+
+&lt;p&gt;We have invited international and local curators, artists and academics to think and speak with us on issues of self-determination, empowerment and participation and whether we can we learn from the Independence Referendum in which we saw these structures (re)surfacing or possibly being damaged. How do we organise ourselves in such times?&lt;/p&gt;
+
+&lt;p&gt;Organised in partnership with the University of Edinburgh.&lt;br /&gt;
+Co-convened by Dr Deborah Jackson&lt;br /&gt;
+Funded by The University of Edinburgh’s Innovation Initiative Grant.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.cca-glasgow.com/programme/55c0948cc3cf75272f000001&quot;&gt;Full Program&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Sacred Conspiracy @ Miss Read. Berlin, Germany.</title>
+   <link href="http://calebwaldorf.net/post/2015/06/12/sacred-conspiracy/"/>
+   <updated>2015-06-12T00:00:00+02:00</updated>
+   <id>http://calebwaldorf.net/post/2015/06/12/sacred-conspiracy</id>
+   <content type="html">&lt;p&gt;12 June 2015 @ 20:00
+Miss Read at the ADK.&lt;/p&gt;
+
+&lt;p&gt;Triple Canopy celebrates the publication of Headless, a murder-mystery by the elusive author K. D., with a reading and a rumination on offshore finance and human sacrifice.&lt;/p&gt;
+
+&lt;p&gt;Headless is a delirious romp through the world of offshore finance, conducted by a British ghostwriter who seems to have uncovered a sacrifice-obsessed, Bataille-inspired secret society of global economic elites who will do anything to maintain their power. The ghostwriter, John Barlow, is hired by the Swedish conceptualist artist duo Goldin+Senneby to investigate Headless, an offshore firm registered in the Bahamas. Barlow happily agrees to write up his investigation as a mystery novel, to be published under the name K. D. But soon Barlow is implicated in the decapitation of a police officer in Nassau, and his novel becomes a matter of life and death. The more he struggles to grasp the plot, the further he slips into the dark world of covert capitalism.&lt;/p&gt;
+
+&lt;p&gt;Artist Hito Steyerl, poet Shane Anderson, philosopher Matteo Pasquinelli, and artist Caitlin Berrigan will read from Headless and discuss the mystery genre, the difficulties of ghostwriting (and of employing ghostwriters), the free rein of capital, narratives of financial crises and credit economies, Georges Bataille’s formulation of sovereignty, the concept of xenospace, and the pleasures of fiction that insistently impinges on reality.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.canopycanopycanopy.com/contents/the-sacred-conspiracy&quot;&gt;Full Program&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Public Library</title>
+   <link href="http://calebwaldorf.net/current-projects/2015/01/01/a-public-library/"/>
+   <updated>2015-01-01T00:00:00+01:00</updated>
+   <id>http://calebwaldorf.net/current-projects/2015/01/01/a-public-library</id>
+   <content type="html">&lt;p&gt;A Public Library is not a public library. It is a space for conversations, presentations, the sharing of resources, and for collective reading, viewing, and learning. It hosts an ephemeral collection of publications and other materials, which will provide a foundation for, and expand along with, a series of public programs, workshops, and classes organized in conjunction with The Public School Berlin as well as other collaborators.&lt;/p&gt;
+
+&lt;p&gt;A Public Library is currently located at the Bona-Peiser-Bibliothek in Berlin Kreuzberg (Oranienstraße 72, 10969) and is accessible on Wednesday and Saturday afternoons.&lt;/p&gt;
+
+&lt;p&gt;A Public Library is organized by Fiona Geuß, Fotini Lazaridou-Hatzigoga and Caleb Waldorf. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://apubliclibrary.org&quot;&gt;Find out more&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Earthbound Knowledge-A Forum II @ HKW. Berlin, Germany.</title>
+   <link href="http://calebwaldorf.net/post/2014/11/22/earthbound-knowledge/"/>
+   <updated>2014-11-22T00:00:00+01:00</updated>
+   <id>http://calebwaldorf.net/post/2014/11/22/earthbound-knowledge</id>
+   <content type="html">&lt;p&gt;22 Nov 2015 @ 11:00
+Café Global, HKW.&lt;/p&gt;
+
+&lt;p&gt;In a parallel series of hearings, thematic foci that have been identified at the Campus—that is, foundational concepts for an anthropocenic knowledge, crystallized from the collective development of the curriculum—were thoroughly discussed and analyzed.&lt;/p&gt;
+
+&lt;p&gt;Is it possible to identify a set of overarching terms from which one may then depart in the preparation of future curricula? Would such a “working language” allow for a productive transversality between fields of knowledge as well as an urgent, problem-centered approach towards educational content to take shape?&lt;/p&gt;
+
+&lt;p&gt;Insistently recurring concepts such as scale, complexity, experiment, or global ethics were highlighted and utilized by participants of the Campus and further guests, placed into perspective, stretched and tinkered with to prove their flexibility, measure, and appropriate potential for the dynamic generation of knowledge forms yet to come.&lt;/p&gt;
+
+&lt;p&gt;Statements by Christoph Küffer (Environmental Systems Science, ETH Zurich), Sabine Höhler (Science and Technology Studies, KTH Royal Institute of Technology, Stockholm), Caleb Waldorf (artist, Berlin). Discussion moderated by Christoph Rosol.&lt;/p&gt;
+
+&lt;p&gt;The Anthropocene would practically be nothing without models. Though possessing a wide range of practical meanings — from physical scale models and replicas, to quantitative or descriptive models of collective behavior, to numerical models of climate — models are the heuristic backbone of our knowledge about systems and change, cause and effect, physical interdependencies, and the processes that interconnect entities. Hence, models (together with their Siamese twin: data) play a central role in the natural and social sciences, technical crafts and engineering, urbanism and architecture. It is therefore only logical that they also take on a role in virtually every seminar of the Curriculum.&lt;/p&gt;
+
+&lt;p&gt;A model usually has a practical purpose and is tailored for type-dependent problem solving, thus involving a reliance on highly specialized skills (for example, mathematical treatment, prototype construction, concept composition). They don’t hold – and don’t pretend to hold – universal truth. Generally speaking, models are characterized by simplification, abstraction, and mimesis. Their aim is to be robust. Models provide an approximate understanding and are a solid basis for planning and informed decision making, through modes of representing, visualizing, simulating, or experimenting with (data) objects, processes, risks, and so forth.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Lunchtime Art Forum @ MADA. Melbourne, Australia.</title>
+   <link href="http://calebwaldorf.net/post/2014/03/05/lunchtime-art-forum/"/>
+   <updated>2014-03-05T00:00:00+01:00</updated>
+   <id>http://calebwaldorf.net/post/2014/03/05/lunchtime-art-forum</id>
+   <content type="html">&lt;p&gt;5 March @ 12.30pm
+Lecture Theatre G1.04, MADA Monash Art Design &amp;amp; Architecture
+900 Dandenong Road Caulfield East Victoria
+Free entry / all welcome&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Third, fourth and fifth spaces-Curatorial practices in new public and social (digital) spaces @ Migros Museum fuer Gegenwartskunst. Zurich, Switzerland.</title>
+   <link href="http://calebwaldorf.net/post/2013/11/08/third-fourth-fifth/"/>
+   <updated>2013-11-08T00:00:00+01:00</updated>
+   <id>http://calebwaldorf.net/post/2013/11/08/third-fourth-fifth</id>
+   <content type="html">&lt;p&gt;November, 8-9, 2013, Migros Museum fuer Gegenwartskunst, Zurich.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The symposium will present and discuss current practices of reading, researching, publishing, and curating that have been enabled by the internet and its social technologies; while exploring new formats and advocating the open circulation of knowledge. An emphasis will be placed on contemporary artistic and curatorial practices as being temporary effects of processes of negotiation between subjects, contexts and their relations. How do the proposed new public and social spaces appropriate the territories designated online (and paper) formats of magazines for creative formats of display, criticism, participation, narration and positioning?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The encompassing title “Third, fourth and fifth spaces” marks the trajectory back and fourth from the academic-driven notion of curatorship towards curating and curatorial practices and, consequently, a democratic approach to knowledge and culture despite the commodification of education and the festivalisation of art events. We wish to look at the practices that reassess this notion today and are situated by its urgent (geo)political, humanistic, instigating and controversial potentialities. As well as practices that are informed by subjective drives, subversions, opacities, risks, desires, beliefs and solidarities. We would like to discuss how subjects are positioned in these forms of editorial processes, as producers and as publics who are becoming interchangeable, how affects and participation are positioned and which new forms developed recently.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Concept: Nataša Petrešin-Bachelez (Manifesta foundation, Manifesta Journal) &amp;amp; Dorothee Richter (ZHDK, Postgraduate Programme in Curating, ICS &amp;amp; University of Reading, OnCurating.org)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Panellists: Sepake Angiama, Michael Birchall, Virginie Bobin, Florian Dombois, Marc Herbst, Roberto Jacoby, Jepchumba, Dominique Lämmli, Nataša Petrešin-Bachelez, Kristina Lee Podesva, Dorothee Richter, Alun Rowlands, Sigrid Schade, Christoph Schenker, Michael Schwab, Silvia Simoncelli, Ashok Sukumaran, Caleb Waldorf, Aaajiao (XU Wenkai).&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Neomaterialism book launch @ Archive Kabinet. Berlin, Germany.</title>
+   <link href="http://calebwaldorf.net/post/2013/09/10/Neomaterialism/"/>
+   <updated>2013-09-10T00:00:00+02:00</updated>
+   <id>http://calebwaldorf.net/post/2013/09/10/Neomaterialism</id>
+   <content type="html">&lt;p&gt;10 Septebmer 2013 @ 19:30&lt;br /&gt;
+&lt;a href=&quot;http://www.archivekabinett.org&quot;&gt;Archive Kabinett&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Book launch &amp;amp; discussion of &lt;a href=&quot;http://www.sternberg-press.com/index.php?pageId=1435&amp;amp;l=en&amp;amp;bookId=329&amp;amp;sort=year&quot;&gt;Neomaterialism&lt;/a&gt;, published earlier this summer on &lt;a href=&quot;http://www.sternberg-press.com&quot;&gt;Sternberg Press&lt;/a&gt;, with the author Joshua Simon who will be joined by Federica Bueti, Julia Moritz and me. &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Overtime - A Public Hearing @ Tel Aviv Museum of Art. Tel Aviv, Israel.</title>
+   <link href="http://calebwaldorf.net/post/2013/06/21/Overtime/"/>
+   <updated>2013-06-21T00:00:00+02:00</updated>
+   <id>http://calebwaldorf.net/post/2013/06/21/Overtime</id>
+   <content type="html">&lt;p&gt;21 June 2013 @ 16:00&lt;br /&gt;
+Tel Aviv Museum of Art&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Focusing on the theme of Host &amp;amp; Guest, this event on June 11, 2013 is conceived as a public hearing that negotiates its own status and presence in the museum of art as a guest turning host. Assuming the role of an interrogation committee, the event takes place at the Tel Aviv Museum of Art as a four-hour-long public hearing in three acts, focusing on the Marxist concept of general intellect as social production, which is considered here specifically in relation to the unseen labor done in the museum (by artists, staff, visitors, and the general public).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The hearing takes place in the foyer of the museum’s main building. Following the notion of dark matter, developed by Gregory Sholette in his book, Dark Matter: Art and Politics in the Age of Enterprise Culture, we can say that it is actually the museum that is hosted by artists – as it is dependent not only on the artifacts it collects and exhibits, but also on all those that allow for these materials to appear. Meaning, the logic of the art museum is as dependent on the art it shows as it relies on the art it does not show – the museum of art’s dark matter.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The notions at the heart of Overtime – A Public Hearing stem from the understanding that the art museum illustrates through these host and guest relations, the conditions of labor today. Following the realization that labor has left the employment market to become all-present in our social and mental exchanges, the “overtime” of labor that we each put in is what generates value (even without any system of pricing and compensation, such as remuneration based on working hours as in the employment market).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The hearing will bring together the members of the committee and those of the public to debate a series of questions that are key to understanding the role of the museum in relation to the communities it is hosted by and those it hosts. In Overtime – A Public Hearing a group of nine sits at a long table, performing as a hearing committee, with the audience summoned to testify and debate. Both the committee and the summoned public are constituted primarily by social and cultural activists, artists, critics, teachers, and journalists.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The hearing is divided into three sessions:&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I. THE NEW INTERNATIONAL will focus on new institutions and new demands.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;II. THE OVERQUALIFIED will focus on the generational gap of a workforce that has little place in the employment market, while it never ceases to be working.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;III. POST-POLITICAL POLITICS will address the question of the world to come after capitalism.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Each session begins with three short statement by members of the committee and is then opened as a discussion with comments and questions between the committee members and the summoned public&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The internet is not blue! @ MoMA. New York, USA.</title>
+   <link href="http://calebwaldorf.net/post/2013/04/13/blue-internet/"/>
+   <updated>2013-04-13T00:00:00+02:00</updated>
+   <id>http://calebwaldorf.net/post/2013/04/13/blue-internet</id>
+   <content type="html">&lt;p&gt;13 April 2013&lt;br /&gt;
+Museum of Modern Art&lt;/p&gt;
+
+&lt;p&gt;I just returned from NYC where I participated in a 2-day internal MoMA seminar hosted by C-MAP on the theme of global networks and the new platform that just launched: &lt;strong&gt;&lt;a href=&quot;http://post.at.moma.org/about&quot;&gt;post&lt;/a&gt;&lt;/strong&gt;. In addition to the C-MAP team, participants included Ana Longoni, Zdenka Badovinac, Claire Hsu and myself along with C-MAP’s counselors Homi Bhabha, David Joselit and Mieke Bal.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Productive Behaviors @ Triple Canopy. New York, USA.</title>
+   <link href="http://calebwaldorf.net/post/2013/03/25/productive-behaviors/"/>
+   <updated>2013-03-25T00:00:00+01:00</updated>
+   <id>http://calebwaldorf.net/post/2013/03/25/productive-behaviors</id>
+   <content type="html">&lt;p&gt;25 February 2013 @ 19:00&lt;br /&gt;
+155 Freeman Street &lt;/p&gt;
+
+&lt;p&gt;Anthon Astrom and Lukas Zimmer on new designs for digital publishing with Triple Canopy.&lt;/p&gt;
+
+&lt;p&gt;Triple Canopy is pleased to present a conversation about new directions in digital publishing with its first designers-in-residence, the Zurich-based duo of Anthon Astrom and Lukas Zimmer. Astrom and Zimmer began working together in 2007, when they initiated the Café Society Project, which investigates frameworks for reading, writing, and organizing information on-screen and in print. In 2011, they founded Astrom/Zimmer studio, which works in research, design, and software development. In the past five years, Astrom and Zimmer have won the Swiss Federal Design Award twice, among other accolades. &lt;/p&gt;
+
+&lt;p&gt;Astrom and Zimmer are spending the month of February in Brooklyn, working with Triple Canopy as we develop a new publishing platform to launch in September. Tonight, they will present their work and discuss issues pertaining to the shift from print to digital publishing with Triple Canopy editors. Specifically, they will preview two applications to be launched in conjunction with the forthcoming redesign of Triple Canopy’s website: one that dynamically maps and reinforces relationships—spatial, temporal, thematic, geographic—between various kinds of online content (and representations of events and objects that exist offline); another that enables readers to collate, classify, share, discuss, and print such materials, using a sophisticated yet straightforward columnar interface. &lt;/p&gt;
+
+&lt;p&gt;Along with Triple Canopy editors, Astrom and Zimmer will ask how publishing platforms and applications might not only illuminate but also amplify the fundamental relationships between people, places, objects, and social processes that constitute Triple Canopy’s expanded field of publication. Rather than shoveling all kinds of information onto the Web, how might we design interfaces, and facilitate reading experiences, that make productive use of the ineluctable differences between digital information and tangible things in the world? Moving beyond the naive fantasy of online knowledge production, how might we envision the circulation of information between those realms so as to be meaningful, even socially beneficial?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://canopycanopycanopy.com/programs/80&quot;&gt;Find out more&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Alternative to What? @ Tate Modern. London, UK.</title>
+   <link href="http://calebwaldorf.net/post/2012/12/03/alternative-to-what/"/>
+   <updated>2012-12-03T00:00:00+01:00</updated>
+   <id>http://calebwaldorf.net/post/2012/12/03/alternative-to-what</id>
+   <content type="html">&lt;p&gt;3 December 2012&lt;br /&gt;
+Tate Modern, Starr Auditorium&lt;/p&gt;
+
+&lt;p&gt;This roundtable brings together speakers from established and emerging education initiatives to share their practice and experiences in devising and running so-called alternative education platforms. These include artist-led schools, community initiatives and institutional platforms, with discussions focusing on the history and contexts of self-organised models of education, the political and pedagogical tactics they employ, and their relationship to mainstream education.&lt;/p&gt;
+
+&lt;p&gt;The first panel chaired by Sam Thorne (Associate Editor, Frieze) will query the notion of the alternative, exploring the history and legacy of self-organised education platforms and situating current initiatives in the context of alternative art schools and grassroots projects. Speakers on this panel are Caleb Waldorf (The Public School Berlin), Penny Evans (Assistant Director at Knowle West Media Centre), and Laura Marziale (Community Education and Employment Team Coordinator, The Migrant Resource Centre).&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>TRANSLATION ACTS @ Tempelhofer Feld. Berlin, Germany</title>
+   <link href="http://calebwaldorf.net/post/2012/06/23/translation-acts/"/>
+   <updated>2012-06-23T00:00:00+02:00</updated>
+   <id>http://calebwaldorf.net/post/2012/06/23/translation-acts</id>
+   <content type="html">&lt;p&gt;Organized by Eric Ellingsen, Matthias Friederich, Julian von Klier, Fotini Lazaridou-Hatzigoga, Yves Mettler, Christina Werner for &lt;em&gt;The World Is Not Fair – Die Grosse Weltausstellung 2012&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.raumexperimente.net/programme.html&quot;&gt;Institut für Raumexperimente&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;Unfair Poetry and Other Unfair Things&lt;br /&gt;
+TempelhofSaturday, June 23, 2012&lt;/p&gt;
+
+&lt;p&gt;14.00 - 17.00 Unfair Translation Experiments : Yves Mettler from The Selection; Sharmila Cohen, from Telephone Journal; Luis Berrios-Negron, Jan Bovelet, Patrick Kochlik, Jens Wunderling , Miodrag Kuc from Anxious Prop&lt;/p&gt;
+
+&lt;p&gt;17.00 - 18.00 Unfair Sounds : “How to speak the language of a dead species”, Performance / Workshop by Leon Eixenberger&lt;/p&gt;
+
+&lt;p&gt;18.00 - 19.45 Unfair Roundtable Discussion : making questions and translating ideas into things, with Barbara Buchmaier, Carson Chan, Sandra Huber, John Holten, Camilla Kragelund, Caleb Waldorf&lt;/p&gt;
+
+&lt;p&gt;20.00 - 22.00 Unfair Poetry &amp;amp; Other Art Things: readings and performances by Shane Anderson, Sharmila Cohen, Eric Ellingsen, Christian Hawkey, Martina Hefter, Karl Holmqvist, Gaëlle Kreens, Kirsten Palz, Andreas Töpfer, Uljana Wolf&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.raumexperimente.net/program-inhalt/PROGRAMWORLDFAIR.pdf&quot;&gt;Full Program&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Art & Economy @ KW. Berlin, Germany.</title>
+   <link href="http://calebwaldorf.net/post/2012/05/20/art-and-economy/"/>
+   <updated>2012-05-20T00:00:00+02:00</updated>
+   <id>http://calebwaldorf.net/post/2012/05/20/art-and-economy</id>
+   <content type="html">&lt;p&gt;20 May 2012 @ 19:00&lt;br /&gt;
+KW ArtWiki Room&lt;/p&gt;
+
+&lt;p&gt;With Maria Byk, Stefan Heidenreich, Matteo Pasquinelli, Caleb Waldorf, Joanna Warsza
+moderated by Pit Schultz&lt;/p&gt;
+
+&lt;p&gt;The artist as a role model for the creative industry marks a transformation of the field of artistic production from the creation
+of auratic originals to the heterogenic strategies of applied arts, speculatory self-management, and a bluring of domains and skills. how does the art market relate to the larger economy? which role do digital commons, internet and copyright play? how should public institutions legitimize within a market driven paradigm? the guests will discuss in a open coffee table situation, where visitors can join on site, on air, and online. twitter: @rebootfm&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fragment (on Authorship) @ Archive Kabinett. Berlin, Germany.</title>
+   <link href="http://calebwaldorf.net/post/2012/04/29/fragment/"/>
+   <updated>2012-04-29T00:00:00+02:00</updated>
+   <id>http://calebwaldorf.net/post/2012/04/29/fragment</id>
+   <content type="html">&lt;p&gt;29 April 29 @ 2012.&lt;br /&gt;
+Archive Kabinett&lt;/p&gt;
+
+&lt;p&gt;Fragment (on Authorship) at &lt;a href=&quot;http://www.archivekabinett.org&quot;&gt;Archive Kabinett&lt;/a&gt; for &lt;strong&gt;&lt;a href=&quot;http://journalment.org&quot;&gt;…ment&lt;/a&gt;&lt;/strong&gt; &lt;a href=&quot;http://journalment.org/issue/fragment-authorship&quot;&gt;issue 3&lt;/a&gt; with &lt;a href=&quot;http://www.stefanheidenreich.de&quot;&gt;Stefan Heidenreich&lt;/a&gt;, &lt;a href=&quot;http://www.written-not-written.de&quot;&gt;Augustin Maurs&lt;/a&gt;, and &lt;a href=&quot;http://hilarykoobsassen.com&quot;&gt;Hilary Koob-Sassen&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Learning Together</title>
+   <link href="http://calebwaldorf.net/2012/03/20/learning-together/"/>
+   <updated>2012-03-20T00:00:00+01:00</updated>
+   <id>http://calebwaldorf.net/2012/03/20/learning-together</id>
+   <content type="html">&lt;p&gt;A two-day program focusing on alternative forms of knowledge production and sharing aims to bring together people who have experience or interest in the topics either in institutional settings or through independent platforms and collectives. Potentials of collaborative approach, in educational alternative organizations and in art practices, seem to emerge as a common thread for the presentations and talks. The meetings that will be held during the workshop and the conference aim to open up discussions about art education and invite to imagine other forms of learning initiatives and ways of self-organization.&lt;/p&gt;
+
+&lt;p&gt;The panel discussion and workshop are organized as part of Expanded(art)School project developed together by Aslı Çetinkaya (ortak müfredat - Istanbul) and Marina Sorbello (uqbar – Berlin) as partners of the Tandem Turkey – Cultural Managers Exchange Program.&lt;/p&gt;
+
+&lt;p&gt;Workshop: 21 March 2012 @ 14:00-17:00
+Self Organized Knowledge: Generating Ideas, Proposals, Dissent
+(with Caleb Waldorf, Naomi Hennig, Johannes Paul Raether)
+Halı Atölyesi, Fındıklı&lt;/p&gt;
+
+&lt;p&gt;Panel :  22 March 2012 @ 14:00-19:00&lt;br /&gt;
+Cezayir Büyük Salon,&lt;br /&gt;
+Hayriye Caddesi 12, Galatasaray, Beyoğlu&lt;/p&gt;
+
+&lt;p&gt;14:00-14:30
+Introduction by Aslı Çetinkaya (ortak müfredat, Istanbul) and Marina Sorbello (uqbar, Berlin)&lt;/p&gt;
+
+&lt;p&gt;14:30-15:15&lt;br /&gt;
+ Naomi Hennig will give a subjective account of her experience of self-organized education, speaking of recent activities and the history of the autonomous student organization Interflugs at the University of Arts, Berlin. In her presentation Henning will attempt to locate these activities within a wider discourse on self-organization, collectivity in cultural production and critique of the educational sector, aware of the limitations of describing the life of a collective social organism through an individual voice.&lt;/p&gt;
+
+&lt;p&gt;15:15-16:00&lt;br /&gt;
+Ha za vu zu + atılkunst together with students who participated in Garip bir Pandik project will talk about their own practices and how this particular project came out within a conventionally structured educational institution. The two collectives have collaborated a number of times for other projects and events.&lt;/p&gt;
+
+&lt;p&gt;16:30-17:00&lt;br /&gt;
+ Johannes Paul Raether will discuss his collective and individual performative practices in the context of self-organised structures. Whether in art school or in a local context of the city, artists’ organisations can be seen not only as tools to voice common interests, build a community and serve as structural alternatives to the market and state-funded institutions, but also as a rich context, where collective as well as individual performative artistic practices can develop from. While “performance” as well as “the collective” are heavily branded and circulated in the market and institution, the question also remains on how to organize self-institutions as means to sustain an experimental, socially engaged, locally integrated “artistic politicality” instead of being flown around the network of a genre called “political art” which structurally tends to repeat the forms and notions of national and capitalist culture production.&lt;/p&gt;
+
+&lt;p&gt;17:15-17:45&lt;br /&gt;
+Caleb Waldorf will talk about The Public School which is an open framework for pedagogy started in 2008 in Los Angeles by Telic Arts Exchange. It is a school with no curriculum that works by members of the public proposing things they want to learn or to teach. Once interest has been expressed, the school then organizes and offers the class to the public. Since the school began, it has multiplied to ten cities and contracted from two. I will discuss the history of the project, its mechanics, material infrastructure and the next instantiation of the platform.&lt;/p&gt;
+
+&lt;p&gt;18:00-19:00&lt;br /&gt;
+Panel discussion with all participants, Q&amp;amp;A session&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Interface & Labor @ Salt. Istanbul, Turkey.</title>
+   <link href="http://calebwaldorf.net/post/2012/03/15/interface-labor/"/>
+   <updated>2012-03-15T00:00:00+01:00</updated>
+   <id>http://calebwaldorf.net/post/2012/03/15/interface-labor</id>
+   <content type="html">&lt;p&gt;15-16 March 2012.
+Salt.&lt;/p&gt;
+
+&lt;p&gt;Situated throughout SALTonline.org, SALT Galata, and SALT Beyoğlu, “One day, everything will be free…” consists of a series of projects that engage with the promises of free economies, contemporary finance, and the cultural institution. This much is known: the task at hand is to implicate the relationship between SALT and the funding institution. But in order to do this, the project begins with a detour, a direct detour, directly into that which is made to disappear from view: associative histories and certain technical aspects of the job; knowledge economies, cultural piracy, class relations, and structural contradictions.&lt;/p&gt;
+
+&lt;p&gt;Matteo Pasquinelli, Laurel Ptak, Özgür Uçkan, Caleb Waldorf, and Eva Weinmayr have been invited to give lectures and research presentations for a program titled FUTURES AND OPTIONS, scheduled for March 15th and 16th at SALT Beyoğlu. This series of talks will allow us to hear from a range of protagonists who have variously engaged with the topics under consideration in the long-term research project, “One day, everything will be free…” This program will also provide a setting to invite the range of responses that will carry this project forward, or perhaps derail it entirely.&lt;/p&gt;
+
+&lt;p&gt;MARCH 15&lt;br /&gt;
+18.00 Eva Weinmayr, The Piracy Project&lt;br /&gt;
+19.15	 Laurel Ptak, Publishing In Process: Ownership In Question&lt;/p&gt;
+
+&lt;p&gt;MARCH 16 &lt;br /&gt;
+16.30	 Özgür Uçkan, Big Brother v. Little Brothers&lt;br /&gt;
+18.00	 Caleb Waldorf, Interface and Labor&lt;br /&gt;
+19.15	 Matteo Pasquinelli, Surplus and the Common&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>TPSHU @ HU. Berlin, Germany</title>
+   <link href="http://calebwaldorf.net/post/2011/12/01/TPSHU/"/>
+   <updated>2011-12-01T00:00:00+01:00</updated>
+   <id>http://calebwaldorf.net/post/2011/12/01/TPSHU</id>
+   <content type="html">&lt;p&gt;TPSHU at Humboldt-Universität zu Berlin in Berlin, Germany.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>What is...? @ Museo de Antioquia. Medellín, Colombia.</title>
+   <link href="http://calebwaldorf.net/post/2011/08/10/what-is/"/>
+   <updated>2011-08-10T00:00:00+02:00</updated>
+   <id>http://calebwaldorf.net/post/2011/08/10/what-is</id>
+   <content type="html">&lt;p&gt;As part of &lt;a href=&quot;http://mde11.org&quot;&gt;MDE11&lt;/a&gt; at Museo de Antioquia, Medellín, Colombia with &lt;a href=&quot;http://spd.e-rat.org&quot;&gt;Sean Dockray&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Voice</title>
+   <link href="http://calebwaldorf.net/2011/03/20/voice/"/>
+   <updated>2011-03-20T00:00:00+01:00</updated>
+   <id>http://calebwaldorf.net/2011/03/20/voice</id>
+   <content type="html">&lt;p&gt;Graduate Public Practice presents a weekend of events that continue the “Concentric Conversations” series of dialogic events offered to encourage discourse among L.A. cultural practitioners. On Friday night, Un/Common Projects: Critical Pedagogy, Public Practice, and the Reimagining of Voice in Neoliberal Times, is a presentation by Christopher Robbins, Associate Professor of Social Foundations at Eastern Michigan University, followed by a q&amp;amp;a with artist Chris Johnson.&lt;/p&gt;
+
+&lt;p&gt;Roof is on Fire Presentation by Chair Suzanne Lacy with artists Chris Johnson and Unique Holland&lt;/p&gt;
+
+&lt;p&gt;Case Studies by Chris Johnson of Question Bridge;  Ashley Hunt of The Corrections Documentation Project; Karla Diaz of Slanguage; and Dont Rhine of Ultra-red&lt;/p&gt;
+
+&lt;p&gt;Dismantled Presentation: S.A. Bachman/Krista Caballero and Graduate Public Practice students &lt;/p&gt;
+
+&lt;p&gt;Pedagogy as Art Metaphor, facilitated by Ken Ehrlich with Sean Dockray and Caleb Waldorf of Public School and oher guests&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.otis.edu/calendar/1801-Voice-Critical-Pedagogy-and-Public-Practice.html&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Print & Demand 2 @ P.S.1. New York, USA.</title>
+   <link href="http://calebwaldorf.net/post/2010/11/07/print-and-demand/"/>
+   <updated>2010-11-07T00:00:00+01:00</updated>
+   <id>http://calebwaldorf.net/post/2010/11/07/print-and-demand</id>
+   <content type="html">&lt;p&gt;On November 7, Triple Canopy presented Print &amp;amp; Demand #2, the second in an ongoing series of conversations exploring how print culture is being changed by the manifold forms of online publication and how public spaces are being constituted around those forms. The discussion, which took place at The NY Art Book Fair at MoMA PS1, included James Goggin, Jiminie Ha, and Rob Giampietro, and was moderated by Triple Canopy creative director Caleb Waldorf. It focused on the role played by design in shaping digital forms of publication: How are certain tropes of print publication—and the reading and viewing experiences they have engendered—being translated for new media (while others are being jettisoned entirely)? How has the shift from graphic design to user design, with its focus on interaction and interface, changed the way publications function?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Labyrinths and Rings @ Ptarmigan. Helsinki, Finland.</title>
+   <link href="http://calebwaldorf.net/post/2010/08/10/labyrinths-rings/"/>
+   <updated>2010-08-10T00:00:00+02:00</updated>
+   <id>http://calebwaldorf.net/post/2010/08/10/labyrinths-rings</id>
+   <content type="html">&lt;p&gt;Ptarmigan’s Labyrinths and Rings series continues in August with Giles Bailey and Caleb Waldorf, presenting at Labyrinths and Rings on the 11th and both performing at Ptarmigan on the 12th.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.ptarmigan.ee/events/labyrinths-and-rings-giles-bailey-and-caleb-waldorf&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sender, Carrier, Receiver @ Program. Berlin, Germany.</title>
+   <link href="http://calebwaldorf.net/post/2010/07/20/sender/"/>
+   <updated>2010-07-20T00:00:00+02:00</updated>
+   <id>http://calebwaldorf.net/post/2010/07/20/sender</id>
+   <content type="html">Sender, Carrier, Receiver organized by Triple Canopy. Six events held in conjunction with Program Gallery in Berlin, Germany.
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sender, Carrier, Receiver @ Program. Berlin, Germany.</title>
+   <link href="http://calebwaldorf.net/post/2010/07/20/sender/"/>
+   <updated>2010-07-20T00:00:00+02:00</updated>
+   <id>http://calebwaldorf.net/post/2010/07/20/sender</id>
+   <content type="html">&lt;p&gt;Sender, Carrier, Receiver organized by Triple Canopy. Six events held in conjunction with Program Gallery in Berlin, Germany.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Public School</title>
+   <link href="http://calebwaldorf.net/current-projects/2008/06/01/the-public-school/"/>
+   <updated>2008-06-01T00:00:00+02:00</updated>
+   <id>http://calebwaldorf.net/current-projects/2008/06/01/the-public-school</id>
+   <content type="html">&lt;p&gt;In 2007, The Public School was initiated in Los Angeles in the basement of Telic Arts Exchange. The Public School is a school with no curriculum. It is not accredited, it does not give out degrees, and it has no affiliation with the public school system. It is a framework that supports autodidactic activities, operating under the assumption that everything is in everything.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://thepublicschool.org&quot;&gt;Find out more&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Triple Canopy</title>
+   <link href="http://calebwaldorf.net/current-projects/2007/11/01/triple-canopy/"/>
+   <updated>2007-11-01T00:00:00+01:00</updated>
+   <id>http://calebwaldorf.net/current-projects/2007/11/01/triple-canopy</id>
+   <content type="html">&lt;p&gt;Triple Canopy is a magazine based in New York. Since 2007, Triple Canopy has advanced a model for publication that encompasses digital works of art and literature, public conversations, exhibitions, and books. This model hinges on the development of publishing systems that incorporate networked forms of production and circulation. Working closely with artists, writers, technologists, and designers, Triple Canopy produces projects that demand considered reading and viewing. Triple Canopy resists the atomization of culture and, through sustained inquiry and creative research, strives to enrich the public sphere. Triple Canopy is a nonprofit 501(c)3 organization and a member of Common Practice New York.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://canopycanopycanopy.com&quot;&gt;Find out more&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tourism</title>
+   <link href="http://calebwaldorf.net/projects/2006/11/01/tourism/"/>
+   <updated>2006-11-01T00:00:00+01:00</updated>
+   <id>http://calebwaldorf.net/projects/2006/11/01/tourism</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+
+</feed>

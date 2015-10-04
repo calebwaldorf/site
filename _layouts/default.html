@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  {% include head.html %}
+
+  <body>
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+        <div class="first col-3-12">
+          <div class="container content">
+            <div class="container content">
+            <h2>
+              Current Projects
+            </h2>
+              <ul>
+              {% for post in site.categories.current-projects %}
+                  <a href="{{ post.url }}">{{ post.title }}</a><br/>
+              {% endfor %}
+              </ul>
+              <ul>
+              <li>
+                <a href="/about/index.html">About</a>
+                <br/>
+                <a href="http://twitter.com/calebwaldorf/" target="_blank">Twitter</a>
+              </li>
+            </ul>
+          </div>        
+        </div>
+      </div>
+        <div class="col-3-12">
+          <div class="container content">
+            <h2>
+              Project(s) Feed
+            </h2>
+              {% for post in site.categories.feed %}
+                {{ post.content }}
+              {% endfor %}
+          </div>
+      </div>
+        <div class="col-3-12">
+          <div class="container content">
+            <h2>
+              Talks & Conversations 
+            </h2>
+            <ul>
+              {% for post in site.categories.post %}
+                <li>
+                  <a href="{{ post.url }}">{{ post.title }}</a>
+                </li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+        <div class="col-3-12">
+          <div class="container content">
+            <h2>
+              Miscellaneous
+            </h2>
+            <ul>
+              {% for post in site.categories.misc %}
+                <li>
+                  <a href="{{ post.url }}">{{ post.title }}</a>
+                </li>
+              {% endfor %}
+            </ul>
+            <h2>
+              Publications
+            </h2>
+            <h2>
+              Past Projects
+            </h2>
+            <ul>
+              {% for post in site.categories.past %}
+                <li>
+                  <a href="{{ post.url }}">{{ post.title }}</a>
+                </li>
+              {% endfor %}
+            </ul>
+          </div>
+      </div>
+  </div>
+
+  </body>
+</html>
