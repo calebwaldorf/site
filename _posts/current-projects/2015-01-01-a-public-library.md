@@ -8,6 +8,6 @@ A Public Library is not a public library. It is a space for conversations, prese
 
 A Public Library is currently located at the Bona-Peiser-Bibliothek in Berlin Kreuzberg (Oranienstraße 72, 10969) and is accessible on Wednesday and Saturday afternoons.
 
-A Public Library is organized by Fiona Geuß, Fotini Lazaridou-Hatzigoga and Caleb Waldorf. 
+A Public Library is organized by [Fiona Geuß](http://www.fionageuss.net/), [Fotini Lazaridou-Hatzigoga](http://www.otherspaces.net/) and Caleb Waldorf. 
 
 [Find out more](http://apubliclibrary.org)

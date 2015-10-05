@@ -8,7 +8,7 @@ We met on Saturday, March 15, 2014 for a spontaneous workshop at [Gertrude Conte
 
 As output of the workshop participants decided to create a reader related to topics around corporate funding, alternative institutions, and the social impact of art. Over the course of one week, we collected the group’s contributions for seven chapters that emerged during our discussion. Without having a precise goal this collection could be followed by an annotated publication, be a starting point of a series of public events in different places, or serve as compilation for further discussions—in Melbourne and elsewhere.
 
-The workshop was organized with Fiona Geuss and Sean Dockray.
+The workshop was organized with [Fiona Geuß](http://www.fionageuss.net/) and [Sean Dockray](http://e-rat.org/).
 
 [Reader can be found here](http://aaaaarg.org/thing/53489813334fe0078b2164d4)
 
