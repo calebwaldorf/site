@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Learning Together: Collectives, Open Structures and Self-Organization @ Cezayir Büyük Salon. Istanbul, Turkey.
-category: post
+title: Learning Together - Collectives, Open Structures and Self-Organization @ Cezayir Büyük Salon. Istanbul, Turkey.
+category: talk
 ---
 
 A two-day program focusing on alternative forms of knowledge production and sharing aims to bring together people who have experience or interest in the topics either in institutional settings or through independent platforms and collectives. Potentials of collaborative approach, in educational alternative organizations and in art practices, seem to emerge as a common thread for the presentations and talks. The meetings that will be held during the workshop and the conference aim to open up discussions about art education and invite to imagine other forms of learning initiatives and ways of self-organization.

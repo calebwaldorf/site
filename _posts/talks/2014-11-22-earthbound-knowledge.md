@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Earthbound Knowledge-A Forum II @ HKW. Berlin, Germany.
-category: post
+category: talk
 ---
 
 22 Nov 2015 @ 11:00

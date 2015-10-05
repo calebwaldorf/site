@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Sacred Conspiracy @ Miss Read. Berlin, Germany.
-category: post
+category: talk
 ---
 
 12 June 2015 @ 20:00

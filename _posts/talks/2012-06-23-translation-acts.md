@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TRANSLATION ACTS @ Tempelhofer Feld. Berlin, Germany
-category: post
+category: talk
 ---
 
 Organized by Eric Ellingsen, Matthias Friederich, Julian von Klier, Fotini Lazaridou-Hatzigoga, Yves Mettler, Christina Werner for *The World Is Not Fair – Die Grosse Weltausstellung 2012*.

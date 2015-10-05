@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Productive Behaviors @ Triple Canopy. New York, USA.	
-category: post
+category: talk
 ---
 
 25 February 2013 @ 19:00  

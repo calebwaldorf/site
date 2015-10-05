@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Art & Economy @ KW. Berlin, Germany.
-category: post
+category: talk
 ---
 
 20 May 2012 @ 19:00  

@@ -43,7 +43,7 @@
               Talks & Conversations 
             </h2>
             <ul>
-              {% for post in site.categories.post %}
+              {% for post in site.categories.talk %}
                 <li>
                   <a href="{{ post.url }}">{{ post.title }}</a>
                 </li>
@@ -54,7 +54,7 @@
         <div class="col-3-12">
           <div class="container content">
             <h2>
-              Miscellaneous
+              Misc
             </h2>
             <ul>
               {% for post in site.categories.misc %}
@@ -64,18 +64,26 @@
               {% endfor %}
             </ul>
             <h2>
-              Publications
-            </h2>
-            <h2>
               Past Projects
             </h2>
             <ul>
-              {% for post in site.categories.past %}
+              {% for post in site.categories.past-project %}
                 <li>
                   <a href="{{ post.url }}">{{ post.title }}</a>
                 </li>
               {% endfor %}
             </ul>
+            <h2>
+              Publications
+            </h2>
+            <ul>
+              {% for post in site.categories.publication %}
+                <li>
+                  <a href="{{ post.url }}">{{ post.title }}</a>
+                </li>
+              {% endfor %}
+            </ul>
+            
           </div>
       </div>
   </div>

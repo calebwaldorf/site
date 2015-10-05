@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interface & Labor @ Salt. Istanbul, Turkey.
-category: post
+category: talk
 ---
 
 15-16 March 2012.

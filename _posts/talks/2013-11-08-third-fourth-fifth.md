@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Third, fourth and fifth spaces-Curatorial practices in new public and social (digital) spaces @ Migros Museum fuer Gegenwartskunst. Zurich, Switzerland.
-category: post
+category: talk
 ---
 
 November, 8-9, 2013, Migros Museum fuer Gegenwartskunst, Zurich.

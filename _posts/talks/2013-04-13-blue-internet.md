@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The internet is not blue! @ MoMA. New York, USA.	
-category: post
+category: talk
 ---
 
 13 April 2013  

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lunchtime Art Forum @ MADA. Melbourne, Australia.
-category: post
+category: talk
 ---
 
 5 March @ 12.30pm

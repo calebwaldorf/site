@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Neomaterialism book launch @ Archive Kabinet. Berlin, Germany.
-category: post
+category: talk
 ---
 
 10 Septebmer 2013 @ 19:30  

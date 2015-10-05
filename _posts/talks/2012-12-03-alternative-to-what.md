@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Alternative to What? @ Tate Modern. London, UK.	
-category: post
+category: talk
 ---
 
 3 December 2012  
