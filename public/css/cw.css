@@ -83,3 +83,11 @@ Posts
   margin-top: 0;
   }
 }
+
+
+/* Misc */
+
+h2 .fa-external-link {
+  font-size: .67em;
+  padding-left: 2px;
+}
