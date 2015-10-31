@@ -97,9 +97,8 @@ h2 .fa-external-link {
 h2 .information-overlay {
   background-color: #222222;
   color: #ffffff;
-  cursor: crosshair;
-  display: block;
-
+  cursor: arrow;
+  display: none;
   height: 200px;
   left: -1rem;
   opacity: 0;
@@ -125,4 +124,7 @@ h2 .information-overlay p {
 
 h2:hover .information-overlay {
   opacity: 1;
+  display: block;
+  -webkit-transition: opacity .2s; /* Safari */
+  transition: opacity .2s;
 }
