@@ -83,3 +83,46 @@ Posts
   margin-top: 0;
   }
 }
+
+
+/* Misc */
+
+h2 .fa-external-link {
+  font-size: .67em;
+  padding-left: 2px;
+}
+
+/* Information overlay */
+
+h2 .information-overlay {
+  background-color: #222222;
+  color: #ffffff;
+  cursor: crosshair;
+  display: block;
+
+  height: 200px;
+  left: -1rem;
+  opacity: 0;
+  padding: 1rem;
+  position: absolute;
+  top: -1rem;
+  width: 115%;
+  z-index: 2;
+  -webkit-transition: opacity .2s; /* Safari */
+  transition: opacity .2s;
+}
+
+h2 .information-overlay header {
+  font-weight: bold;
+  margin: 0 0 2rem 0;
+  -webkit-transition: opacity .2s; /* Safari */
+  transition: opacity .2s;
+}
+
+h2 .information-overlay p {
+  font-weight: normal;
+}
+
+h2:hover .information-overlay {
+  opacity: 1;
+}
