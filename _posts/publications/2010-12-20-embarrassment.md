@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Embarrassment 1 - Vulnerability
-category: publication
+category: past
 ---
 
 For a group exhibition at [Gallery Klowden Mann](http://klowdenmann.com/). With [Liz Glynn](https://en.wikipedia.org/wiki/Liz_Glynn).

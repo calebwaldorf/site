@@ -9,6 +9,12 @@
           <div class="container content">
             <h2>
               Current
+              <div class="information-overlay">
+                <header>Current</header>
+                <p>
+                Project description...
+                </p>
+              </div>
             </h2>
               <ul>
               {% for post in site.categories.current-projects %}
@@ -26,6 +32,12 @@
           <div class="container content">
             <h2>
               Project(s) Feed <i class="fa fa-external-link"></i>
+              <div class="information-overlay">
+                <header>Project(s) Feed <i class="fa fa-external-link"></i></header>
+                <p>
+                Project description...
+                </p>
+              </div>
             </h2>
               {% for post in site.categories.feed %}
                 {{ post.content }}
@@ -36,6 +48,12 @@
           <div class="container content">
             <h2>
               Talks & Conversations 
+              <div class="information-overlay">
+                <header>Talks & Conversations</header>
+                <p>
+                Project description...
+                </p>
+              </div>
             </h2>
             <ul>
               {% for post in site.categories.talk %}
@@ -50,19 +68,15 @@
           <div class="container content">
             <h2>
               Past
+              <div class="information-overlay">
+                <header>Past</header>
+                <p>
+                Project description...
+                </p>
+              </div>
             </h2>
             <ul>
               {% for post in site.categories.past-project %}
-                <li>
-                  <a href="{{ post.url }}">{{ post.title }}</a>
-                </li>
-              {% endfor %}
-            </ul>
-            <h2>
-              Publications
-            </h2>
-            <ul>
-              {% for post in site.categories.publication %}
                 <li>
                   <a href="{{ post.url }}">{{ post.title }}</a>
                 </li>

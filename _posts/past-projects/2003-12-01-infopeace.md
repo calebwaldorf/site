@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Infopeace
-category: past-project
+category: past
 ---
 
 **Strategy**

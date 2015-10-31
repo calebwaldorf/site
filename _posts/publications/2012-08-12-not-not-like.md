@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Not Not Like
-category: publication
+category: past
 ---
 
 Not Not Like, a project for Issue 3 of [...ment journal](http://www.journalment.org).

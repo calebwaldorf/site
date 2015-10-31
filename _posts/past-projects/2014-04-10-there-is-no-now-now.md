@@ -1,7 +1,7 @@
 ---
 layout: post
 title: There is no now now
-category: past-project
+category: past
 ---
 
 We met on Saturday, March 15, 2014 for a spontaneous workshop at [Gertrude Contemporary](http://www.gertrude.org.au/news) in Melbourne, which assessed our (artists, writers, curators, academics, etc.) ongoing relationships with cultural institutions of varying scales. The focus was oriented towards how institutional frameworks impact and inform our practices in an ongoing manner, from the perspective of the day to day activities that comprise our work. The conversation departed from the opposition and the resistance mobilised against the Biennale of Sydney's funding by Transfield and the subsequent repercussions, both known and speculative. The desire was to connect the situation taking place in this context to a broader set of concerns facing many who work within, and rely on, contemporary cultural infrastructures. 

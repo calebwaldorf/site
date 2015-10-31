@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Machine Project - A Field Guide to the Los Angeles County Museum
-category: publication
+category: past
 ---
 
 *Machine Project: A Field Guide to the Los Angeles County Museum of Art* exhibition at the Los Angeles County Museum of Art. Los Angeles, California, United States.  *Richard Serra Reading Room* by The Public School. 

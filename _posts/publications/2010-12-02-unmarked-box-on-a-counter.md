@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unmarked Box on a Counter
-category: publication
+category: past
 ---
 
 *Unmarked Box on a Counter* by Jordan Crandall in conversation with Caleb Waldorf. Published in Issue 9 of Triple Canopy. 

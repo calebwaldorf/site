@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Arrangement 2.0
-category: past-project
+category: past
 ---
 
 Arrangement 2.0 for the exhibition [Des Chapitres Du Conflit](http://www.berlinartlink.com/2010/11/05/des-chapitres-du-conflit/) curated by Collasus in Berlin, Germany.

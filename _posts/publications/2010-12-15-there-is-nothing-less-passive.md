@@ -1,7 +1,7 @@
 ---
 layout: post
 title: There is Nothing Less Passive than the Act of Fleeing
-category: publication
+category: past
 ---
 
 *There is Nothing Less Passive than the Act of Fleeing* by [Sean Dockray](http://e-rat.org/), Jason Smith and [Matteo Pasquinelli](http://matteopasquinelli.com/) and Caleb Waldorf. Published in [Issue 1 of ...ment](http://www.journalment.org/CURRENT-ISSUE).

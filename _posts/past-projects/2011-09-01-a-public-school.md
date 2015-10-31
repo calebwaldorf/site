@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Public School
-category: past-project
+category: past
 ---
 
 Para nuestro proyecto, “A Public School,” queremos trabajar con varios grupos e individuos alrededor de la ciudad para hacer la pregunta “¿cómo sería una

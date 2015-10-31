@@ -4,7 +4,7 @@
  <title>Caleb Waldorf</title>
  <link href="http://calebwaldorf.net/atom.xml" rel="self"/>
  <link href="http://calebwaldorf.net/"/>
- <updated>2015-10-05T13:48:03+02:00</updated>
+ <updated>2015-10-17T12:36:53+02:00</updated>
  <id>http://calebwaldorf.net</id>
  <author>
    <name>Caleb Waldorf</name>
@@ -44,43 +44,44 @@ The Snowden revelations have caused a global debate. Yet, what does it mean to h
    <updated>2015-10-06T00:00:00+02:00</updated>
    <id>http://calebwaldorf.net/feed/2015/10/06/projects-feed</id>
    <content type="html">&lt;ul&gt;
+  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/issues/20/contents/the-same-but-similar&quot;&gt;The Same but Similar by Cori Hayden with Matthew Shen Goodman&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/contents/speculations-the-future-is&quot;&gt;Speculations (“The future is ______”) book is now out&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/series/passage-of-a-rumor&quot;&gt;New series - Passage of A Rumor&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/series/passage-of-a-rumor&quot;&gt;New series - Passage of A Rumor with Ralph Lemon&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/which-book-would-you-take-to-the-square-today/&quot;&gt;Which book would you take to the square today?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/contents/access-to-tools&quot;&gt;Access to Tools&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/contents/access-to-tools&quot;&gt;Access to Tools by Mary Mattingly&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/aufstand-aus-der-bibliothek/&quot;&gt;Aufstand aus der Bibliothek&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/contents/dont-you-want-to-have-a-body&quot;&gt;Don’t You Want to Have a Body&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/contents/dont-you-want-to-have-a-body&quot;&gt;Don’t You Want to Have a Body by Alex Provan&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;The Public School: &lt;a href=&quot;http://thepublicschool.org/node/38594&quot;&gt;Genre-fication&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;The Public School: &lt;a href=&quot;http://thepublicschool.org/node/38608&quot;&gt;Theoretical Sources of Syriza’s Left Platform&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/afrofuturism-2-0-a-transdisciplinary-agenda-for-africa-and-its-diaspora/&quot;&gt;Afrofuturism 2.0: A Transdisciplinary Agenda for Africa and its Diaspora&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/becoming-book-becoming-animal/&quot;&gt;becoming book, becoming animal, becoming Anthropocene&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/series/on-the-beach&quot;&gt;New series - On the Beach&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/the-future-of-the-book/&quot;&gt;The Future of the Book&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/afrofuturism-2-0-a-transdisciplinary-agenda-for-africa-and-its-diaspora/&quot;&gt;Afrofuturism 2.0: A Transdisciplinary Agenda for Africa and its Diaspora with Dr. Reynaldo Anderson&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/becoming-book-becoming-animal/&quot;&gt;becoming book, becoming animal, becoming Anthropocene with Ho Tzu Nyen, Vincent Normand, Katharina Tauer, Anna-Sophie Springer &amp;amp; Etienne Turpin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/series/on-the-beach&quot;&gt;New series - On the Beach by Frank Heath&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/the-future-of-the-book/&quot;&gt;The Future of the Book with Bob Stein&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/series/speculations-archive&quot;&gt;New series - Speculations Archive&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/issues/21&quot;&gt;Issue #20: The Long Tomorrow published&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/unearthing-disaster/&quot;&gt;Unearthing Disaster&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/contents/i-call-this-one-happiness&quot;&gt;I Would Call This One “Happiness”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/unearthing-disaster/&quot;&gt;Unearthing Disaster with Angela Anderson and Angela Melitopoulos&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/contents/i-call-this-one-happiness&quot;&gt;I Would Call This One “Happiness” by Steffani Jemison&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/book-and-things-remixing-the-library-and-labor-bbl-4/&quot;&gt;Book (and Things) Remixing: The Library and Labor #bbl 4&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/readings/&quot;&gt;Readings&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/readings/&quot;&gt;Readings with Caitlin Berrigan, Federica Bueti, Fiona Geuß, Assaf Gruber, Stefan Heidenreich, Antonia Hirsch, John Holten, Valentina Karga &amp;amp; Pieterjan Grandry, Deborah Ligorio, Alex Martinis Roe, Matteo Pasquinelli, Caleb Waldorf, Nine Eglantine Yamamoto-Masson&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/das-nachbarschaftsregal/&quot;&gt;Das Nachbarschaftsregal&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/contents/i-would-draw-her-likeness&quot;&gt;I Would Draw Her Likeness&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/contents/i-would-draw-her-likeness&quot;&gt;I Would Draw Her Likeness by Lucy Ives&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/bureau-for-book-liberation-book-remixing-03/&quot;&gt;Bureau for Book Liberation: Book Remixing #03&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/zm02/&quot;&gt;Philosophie zum Mitnehmen&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/contents/pointing_machines&quot;&gt;A Note on Pointing Machines&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/contents/pointing_machines&quot;&gt;A Note on Pointing Machines by Triple Canopy&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/zm03/&quot;&gt;Technik zum Mitnehmen&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/bureau-for-book-liberation-book-remixing-02/&quot;&gt;Bureau for Book Liberation: Book Remixing #02&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;The Public School: &lt;a href=&quot;http://thepublicschool.org/node/38436&quot;&gt;Cosmic Tones for Mental Therapy&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/zm01/&quot;&gt;Esoterik zum Mitnehmen&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/event/book-remixing-with-the-bureau-for-book-liberation/&quot;&gt;Bureau for Book Liberation: Book Remixing #01&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/public-editing-session-01-mehr-geld-ii-oder-kein-money-mit-ralph-stefan-heidenreich/&quot;&gt;Public Editing Session #01: Mehr Geld II oder Kein Geld mit Ralph &amp;amp; Stefan Heidenreich&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A Public Library: &lt;a href=&quot;http://www.apubliclibrary.org/public-editing-session-01-mehr-geld-ii-oder-kein-money-mit-ralph-stefan-heidenreich/&quot;&gt;Public Editing Session #01: Mehr Geld II oder Kein Geld with Ralph &amp;amp; Stefan Heidenreich&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/contents/headless&quot;&gt;Headless book now out&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/contents/the-cinderella-complex-xxx&quot;&gt;The Cinderella Complex&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/contents/the-cinderella-complex-xxx&quot;&gt;The Cinderella Complex by LARA MIMOSA MONTES&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;The Public School: &lt;a href=&quot;http://thepublicschool.org/node/37828&quot;&gt;Book’Em: Personal Archives + Open(ing) Access to Books&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/contents/the-motherhood-archives&quot;&gt;The Motherhood Archives&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/contents/the-motherhood-archives&quot;&gt;The Motherhood Archives by IRENE LUSZTIG&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;The Public School: &lt;a href=&quot;http://thepublicschool.org/node/37696&quot;&gt;Reading Testo Junkie&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;The Public School: &lt;a href=&quot;http://thepublicschool.org/node/37457&quot;&gt;WORKSHOP [The EPONYM]&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/contents/an-essay-on-tickling&quot;&gt;A Note on Tickling&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/contents/good_dog_you&quot;&gt;GOOD DOG YOU&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/contents/an-essay-on-tickling&quot;&gt;A Note on Tickling by AARON KUNIN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/contents/good_dog_you&quot;&gt;GOOD DOG YOU by Will Rawls&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/issues/20&quot;&gt;Issue #20: Pointing Machines published&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://canopycanopycanopy.com/issues/19&quot;&gt;Issue #19: It Speaks of Others published&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Triple Canopy: &lt;a href=&quot;http://www.canopycanopycanopy.com/contents/hello_world&quot;&gt;Hello, World&lt;/a&gt;&lt;/li&gt;
@@ -97,6 +98,15 @@ The Snowden revelations have caused a global debate. Yet, what does it mean to h
   &lt;li&gt;The Public School: &lt;a href=&quot;http://thepublicschool.org/node/33855&quot;&gt;Erotica&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+</content>
+ </entry>
+ 
+ <entry>
+   <title>New website 2015</title>
+   <link href="http://calebwaldorf.net/misc/2015/10/05/new-site/"/>
+   <updated>2015-10-05T00:00:00+02:00</updated>
+   <id>http://calebwaldorf.net/misc/2015/10/05/new-site</id>
+   <content type="html">&lt;p&gt;I just rebuild my website to run on &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub pages&lt;/a&gt; and &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. It still needs some work and much of my past content nees to be fleshed out, but should make things easier for future updates and ongoing maitenance.&lt;/p&gt;
 </content>
  </entry>
  
@@ -147,7 +157,7 @@ Miss Read at the ADK.&lt;/p&gt;
    <link href="http://calebwaldorf.net/publication/2015/05/01/agents-of-alternatives/"/>
    <updated>2015-05-01T00:00:00+02:00</updated>
    <id>http://calebwaldorf.net/publication/2015/05/01/agents-of-alternatives</id>
-   <content type="html">&lt;p&gt;Interview with Katharina Moebus and The Public School Berlin.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Interview with Katharina Moebus and &lt;a href=&quot;http://thepublicschool.org/berlin&quot;&gt;The Public School Berlin&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;An independently published open book exploring the visions, actions, tools and impacts of change agents, thinkers and ‘happeners’ (those who make things happen!). It shows the creative processes and tools for designing positive societal transitions. These transitions are revealed by showing the new hybrid relationships being forged between alternative approaches to learning, living, making, socialising, thinking and working.&lt;/p&gt;
 
@@ -165,7 +175,7 @@ Miss Read at the ADK.&lt;/p&gt;
 
 &lt;p&gt;A Public Library is currently located at the Bona-Peiser-Bibliothek in Berlin Kreuzberg (Oranienstraße 72, 10969) and is accessible on Wednesday and Saturday afternoons.&lt;/p&gt;
 
-&lt;p&gt;A Public Library is organized by Fiona Geuß, Fotini Lazaridou-Hatzigoga and Caleb Waldorf. &lt;/p&gt;
+&lt;p&gt;A Public Library is organized by &lt;a href=&quot;http://www.fionageuss.net/&quot;&gt;Fiona Geuß&lt;/a&gt;, &lt;a href=&quot;http://www.otherspaces.net/&quot;&gt;Fotini Lazaridou-Hatzigoga&lt;/a&gt; and Caleb Waldorf. &lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://apubliclibrary.org&quot;&gt;Find out more&lt;/a&gt;&lt;/p&gt;
 </content>
@@ -202,7 +212,7 @@ Café Global, HKW.&lt;/p&gt;
 
 &lt;p&gt;As output of the workshop participants decided to create a reader related to topics around corporate funding, alternative institutions, and the social impact of art. Over the course of one week, we collected the group’s contributions for seven chapters that emerged during our discussion. Without having a precise goal this collection could be followed by an annotated publication, be a starting point of a series of public events in different places, or serve as compilation for further discussions—in Melbourne and elsewhere.&lt;/p&gt;
 
-&lt;p&gt;The workshop was organized with Fiona Geuss and Sean Dockray.&lt;/p&gt;
+&lt;p&gt;The workshop was organized with &lt;a href=&quot;http://www.fionageuss.net/&quot;&gt;Fiona Geuß&lt;/a&gt; and &lt;a href=&quot;http://e-rat.org/&quot;&gt;Sean Dockray&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://aaaaarg.org/thing/53489813334fe0078b2164d4&quot;&gt;Reader can be found here&lt;/a&gt;&lt;/p&gt;
 
@@ -372,11 +382,7 @@ Tate Modern, Starr Auditorium&lt;/p&gt;
    <link href="http://calebwaldorf.net/publication/2012/08/12/not-not-like/"/>
    <updated>2012-08-12T00:00:00+02:00</updated>
    <id>http://calebwaldorf.net/publication/2012/08/12/not-not-like</id>
-   <content type="html">&lt;p&gt;A project for Issue 3 of &lt;a href=&quot;http://www.journalment.org&quot;&gt;…ment journal&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Issue 3 of …ment investigates current debates and practices surrounding the concept of authorship and the possible modes of resistance attached to it. Looking at broad topics such as intellectual property, collectivity, knowledge production and technology, this issue is concerned with the re-articulation of such themes in a transforming political landscape. What is an author and how do we understand authorship and its politics? &lt;/p&gt;
-
-&lt;p&gt;Contributors: Erica Baum, Gavin Brown, Federica Bueti, Federico Campagna, Övül Dormusoglu, Freee, Marc Garrett, Pedro Neves-Marques, Joseph Redwood-Martinez, Vanessa Place, Jan Verwoert, Caleb Waldorf.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Not Not Like, a project for Issue 3 of &lt;a href=&quot;http://www.journalment.org&quot;&gt;…ment journal&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.journalment.org/issue-3&quot;&gt;Find out more&lt;/a&gt;.&lt;/p&gt;
 </content>
@@ -525,7 +531,7 @@ Salt.&lt;/p&gt;
    <id>http://calebwaldorf.net/past-project/2011/10/05/forex</id>
    <content type="html">&lt;p&gt;EVADING CUSTOMS_MILAN  &lt;/p&gt;
 
-&lt;p&gt;CATALOGUE DOWNLOAD AT http://www.mediafire.com/?44ao4yhh2gw0yvn&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;&quot;&gt;CATALOGUE DOWNLOAD&lt;/a&gt;http://www.mediafire.com/?44ao4yhh2gw0yvn)&lt;/p&gt;
 
 &lt;p&gt;“Evading Customs_Milan” is the Italian edition of the project conceived and curated by two young newyorker curators (Peter J.Russo e Lumi Tan), exhibited at London’s Brown Gallery in October 2009.&lt;/p&gt;
 
@@ -621,7 +627,7 @@ aquí, pero ocuparía muchísimas páginas en este periódico!&lt;/p&gt;
    <link href="http://calebwaldorf.net/publication/2010/12/20/embarrassment/"/>
    <updated>2010-12-20T00:00:00+01:00</updated>
    <id>http://calebwaldorf.net/publication/2010/12/20/embarrassment</id>
-   <content type="html">&lt;p&gt;For a group exhibition at Gallery KM. With Liz Glynn.&lt;/p&gt;
+   <content type="html">&lt;p&gt;For a group exhibition at &lt;a href=&quot;http://klowdenmann.com/&quot;&gt;Gallery Klowden Mann&lt;/a&gt;. With &lt;a href=&quot;https://en.wikipedia.org/wiki/Liz_Glynn&quot;&gt;Liz Glynn&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.gallerykmla.com/exhibitions/embarrassment-1-vulnerability.html&quot;&gt;More information here&lt;/a&gt;.&lt;/p&gt;
 </content>
@@ -632,7 +638,7 @@ aquí, pero ocuparía muchísimas páginas en este periódico!&lt;/p&gt;
    <link href="http://calebwaldorf.net/publication/2010/12/15/there-is-nothing-less-passive/"/>
    <updated>2010-12-15T00:00:00+01:00</updated>
    <id>http://calebwaldorf.net/publication/2010/12/15/there-is-nothing-less-passive</id>
-   <content type="html">&lt;p&gt;Published in &lt;a href=&quot;http://www.journalment.org/CURRENT-ISSUE&quot;&gt;Issue 1 of …ment&lt;/a&gt; with Sean Dockray, Jason Smith and Matteo Pasquinelli.&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;em&gt;There is Nothing Less Passive than the Act of Fleeing&lt;/em&gt; by &lt;a href=&quot;http://e-rat.org/&quot;&gt;Sean Dockray&lt;/a&gt;, Jason Smith and &lt;a href=&quot;http://matteopasquinelli.com/&quot;&gt;Matteo Pasquinelli&lt;/a&gt; and Caleb Waldorf. Published in &lt;a href=&quot;http://www.journalment.org/CURRENT-ISSUE&quot;&gt;Issue 1 of …ment&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;What follows is a condensed and edited version of a text for a panel that was presented at UCIRA’s “Future Tense: Alternative Arts and Economies in the University” conference held in San Diego, California on November 18, 2010. The panel shared the same name as a 13-day itinerant seminar in Berlin organized by Dockray, Waldorf, and Fiona Whitton earlier that year, in July. The seminar began with an excerpt from Tiqqun’s Introduction to Civil War, which was co-translated into English by Smith; and later read a chapter from Pasquinelli’s Animal Spirits: A Bestiary of the Commons. Both authors have also participated in meetings at The Public School in Los Angeles and Berlin.Both the panel and the seminar developed out of longer conversations at The Public School in Los Angeles, which began in late 2007 under Telic Arts Exchange. The Public School is a school with no curriculum, where classes are proposed and organized by the public.&lt;/p&gt;
 
@@ -645,7 +651,7 @@ aquí, pero ocuparía muchísimas páginas en este periódico!&lt;/p&gt;
    <link href="http://calebwaldorf.net/publication/2010/12/02/unmarked-box-on-a-counter/"/>
    <updated>2010-12-02T00:00:00+01:00</updated>
    <id>http://calebwaldorf.net/publication/2010/12/02/unmarked-box-on-a-counter</id>
-   <content type="html">&lt;p&gt;Published in Issue 9 of Triple Canopy. Jordan Crandall in conversation with Caleb Waldorf.&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;em&gt;Unmarked Box on a Counter&lt;/em&gt; by Jordan Crandall in conversation with Caleb Waldorf. Published in Issue 9 of Triple Canopy. &lt;/p&gt;
 
 &lt;p&gt;A genealogy of Blast, a “system of editorial circulation” published between 1991 and 1995. &lt;a href=&quot;http://canopycanopycanopy.com/9/unmarked_box_on_a_counter&quot;&gt;Read here&lt;/a&gt;.&lt;/p&gt;
 </content>
@@ -665,7 +671,7 @@ aquí, pero ocuparía muchísimas páginas en este periódico!&lt;/p&gt;
    <link href="http://calebwaldorf.net/past-project/2010/10/25/arrangements/"/>
    <updated>2010-10-25T00:00:00+02:00</updated>
    <id>http://calebwaldorf.net/past-project/2010/10/25/arrangements</id>
-   <content type="html">&lt;p&gt;Arrangement 2.0 for the exhibition Des Chapitres Du Conflit curated by Collasus in Berlin, Germany.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Arrangement 2.0 for the exhibition &lt;a href=&quot;http://www.berlinartlink.com/2010/11/05/des-chapitres-du-conflit/&quot;&gt;Des Chapitres Du Conflit&lt;/a&gt; curated by Collasus in Berlin, Germany.&lt;/p&gt;
 
 &lt;p&gt;Find out more &lt;a href=&quot;http://calebwaldorf.net/posts/des-chapitres-du-conflit/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+cw+%28website+of+caleb+waldorf%29&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </content>
@@ -696,7 +702,7 @@ aquí, pero ocuparía muchísimas páginas en este periódico!&lt;/p&gt;
    <link href="http://calebwaldorf.net/publication/2009/11/05/learning-from-tijuana/"/>
    <updated>2009-11-05T00:00:00+01:00</updated>
    <id>http://calebwaldorf.net/publication/2009/11/05/learning-from-tijuana</id>
-   <content type="html">Published in Issue 7 of Triple Canopy. By Teddy Cruz in conversation with Caleb Waldorf. 
+   <content type="html">*learning from Tijuana* by Teddy Cruz in conversation with Caleb Waldorf. Published in Issue 7 of Triple Canopy.
 
 From the graveyards of corporate architecture to the informal settlements of Latin America. &lt;a href=&quot;http://canopycanopycanopy.com/7/learning_from_tijuana&quot;&gt;Read here&lt;/a&gt;.</content>
  </entry>
@@ -713,11 +719,11 @@ From the graveyards of corporate architecture to the informal settlements of Lat
  </entry>
  
  <entry>
-   <title>Machine Project - A Field Guide to the Los Angeles County Museum</title>
+   <title>wiederholungszwang</title>
    <link href="http://calebwaldorf.net/publication/2009/05/10/wiederholungszwang/"/>
    <updated>2009-05-10T00:00:00+02:00</updated>
    <id>http://calebwaldorf.net/publication/2009/05/10/wiederholungszwang</id>
-   <content type="html">&lt;p&gt;Published in Issue 6 of Triple Canopy. By Gil Blank with Caleb Waldorf. &lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;em&gt;wiederholungszwang&lt;/em&gt; by &lt;a href=&quot;http://www.gilblank.com/&quot;&gt;Gil Blank&lt;/a&gt; with Caleb Waldorf. Published in Issue 6 of Triple Canopy. &lt;/p&gt;
 
 &lt;p&gt;The trauma of lost histories and the joys of JPEGs. A webcam atop the highest hill in Portland, Maine, transports one public place to another, and another.&amp;lt;a “href=http://canopycanopycanopy.com/6/wiederholungszwang”&amp;gt;Read here&amp;lt;/a&amp;gt;.&lt;/p&gt;
 </content>
@@ -763,9 +769,9 @@ From the graveyards of corporate architecture to the informal settlements of Lat
    <link href="http://calebwaldorf.net/current-projects/2008/06/01/the-public-school/"/>
    <updated>2008-06-01T00:00:00+02:00</updated>
    <id>http://calebwaldorf.net/current-projects/2008/06/01/the-public-school</id>
-   <content type="html">&lt;p&gt;In 2007, The Public School was initiated in Los Angeles in the basement of Telic Arts Exchange. The Public School is a school with no curriculum. It is not accredited, it does not give out degrees, and it has no affiliation with the public school system. It is a framework that supports autodidactic activities, operating under the assumption that everything is in everything.&lt;/p&gt;
+   <content type="html">&lt;p&gt;In 2007, The Public School was initiated in Los Angeles in the basement of &lt;a href=&quot;http://telic.info&quot;&gt;Telic Arts Exchange&lt;/a&gt;. The Public School is a school with no curriculum. It is not accredited, it does not give out degrees, and it has no affiliation with the public school system. It is a framework that supports autodidactic activities, operating under the assumption that everything is in everything.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://thepublicschool.org&quot;&gt;Find out more&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://thepublicschool.org&quot;&gt;Find out more&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
@@ -794,7 +800,7 @@ From the graveyards of corporate architecture to the informal settlements of Lat
    <id>http://calebwaldorf.net/current-projects/2007/11/01/triple-canopy</id>
    <content type="html">&lt;p&gt;Triple Canopy is a magazine based in New York. Since 2007, Triple Canopy has advanced a model for publication that encompasses digital works of art and literature, public conversations, exhibitions, and books. This model hinges on the development of publishing systems that incorporate networked forms of production and circulation. Working closely with artists, writers, technologists, and designers, Triple Canopy produces projects that demand considered reading and viewing. Triple Canopy resists the atomization of culture and, through sustained inquiry and creative research, strives to enrich the public sphere. Triple Canopy is a nonprofit 501(c)3 organization and a member of Common Practice New York.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://canopycanopycanopy.com&quot;&gt;Find out more&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://canopycanopycanopy.com&quot;&gt;Find out more&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
@@ -826,11 +832,27 @@ From the graveyards of corporate architecture to the informal settlements of Lat
  </entry>
  
  <entry>
-   <title>New website 2015</title>
-   <link href="http://calebwaldorf.net/misc/2003/12/01/infopeace/"/>
+   <title>Infopeace</title>
+   <link href="http://calebwaldorf.net/past-project/2003/12/01/infopeace/"/>
    <updated>2003-12-01T00:00:00+01:00</updated>
-   <id>http://calebwaldorf.net/misc/2003/12/01/infopeace</id>
-   <content type="html">&lt;p&gt;I just rebuild my website to run on &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub pages&lt;/a&gt; and &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. It still needs some work and much of my past content nees to be fleshed out, but should make things easier for future updates and ongoing maitenance.&lt;/p&gt;
+   <id>http://calebwaldorf.net/past-project/2003/12/01/infopeace</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;Strategy&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The Information Technology, War and Peace Project, established with support from the Ford Foundation, tracks the effects of Information Technology (IT) on traditional statecraft and new forms of networked global politics. InfoTechWarPeace supports and seeks to extend networks of knowledge and authority that are working to anticipate, analyze and mediate conflicts enabled by global terror, hate media, information warfare, and other bellicose uses of information technology.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;InfoTech Transforms International Relations&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;From the revolution in military affairs to hacktivism, from the virtualization of money to the digital divide, from computer code to genetic code, IT are transforming international relations. IT displays a capacity not only to collapse distance between here and there, near and far, but also between fact and fiction. The public consequences are profound.&lt;/p&gt;
+
+&lt;p&gt;IT played a critical role in the Gulf War, the Kosovo air campaign, and most recently and vividly, in the recent terrorist attack on the World Trade Center and the Pentagon. IT takes many forms in international relations: network wars, computer simulations, smart weapons, sensor arrays, overhead surveillance, live-feeds, media pools, 24/7 news cycles, and other complex combinations of digital information, transmission, and storage.&lt;/p&gt;
+
+&lt;p&gt;IT has the capacity to actualize as well as to virtualize violence in realtime. Ranging from organized warfare to terrorist attacks to coercive diplomacy to netwars, IT enables the continuation of violence through infowar. Used by governmental as well as nongovernmental organizations, trans- and sub-national actors, and a wide variety of virtual communities, IT has also demonstrated a capability to prevent, mediate, and resolve conflicts through infopeace.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Goal of InfoTechWarPeace&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The goal of InfoTechWarPeace is to produce, through rapid internet interventions, online forums, international symposia, videoteleconferences, and documentaries, the kind of networked knowledge, critical thinking, and ethical sensibility that will help raise public awareness and inform new policies on global technological issues in war and peace.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://infopeace.org/index2.cfm&quot;&gt;Find out more&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: learning from Tijuana
-category: publication
+category: past
 ---
 
 *learning from Tijuana* by Teddy Cruz in conversation with Caleb Waldorf. Published in Issue 7 of Triple Canopy.

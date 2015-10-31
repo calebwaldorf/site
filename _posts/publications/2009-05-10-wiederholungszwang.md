@@ -1,7 +1,7 @@
 ---
 layout: post
 title: wiederholungszwang
-category: publication
+category: past
 ---
 
 *wiederholungszwang* by [Gil Blank](http://www.gilblank.com/) with Caleb Waldorf. Published in Issue 6 of Triple Canopy. 
