@@ -4,7 +4,7 @@
  <title>Caleb Waldorf</title>
  <link href="http://calebwaldorf.net/atom.xml" rel="self"/>
  <link href="http://calebwaldorf.net/"/>
- <updated>2015-11-01T00:23:54+01:00</updated>
+ <updated>2015-11-01T13:01:00+01:00</updated>
  <id>http://calebwaldorf.net</id>
  <author>
    <name>Caleb Waldorf</name>
@@ -815,9 +815,9 @@ From the graveyards of corporate architecture to the informal settlements of Lat
  
  <entry>
    <title>Tourism</title>
-   <link href="http://calebwaldorf.net/projects/2006/11/01/tourism/"/>
+   <link href="http://calebwaldorf.net/past/2006/11/01/tourism/"/>
    <updated>2006-11-01T00:00:00+01:00</updated>
-   <id>http://calebwaldorf.net/projects/2006/11/01/tourism</id>
+   <id>http://calebwaldorf.net/past/2006/11/01/tourism</id>
    <content type="html">
 </content>
  </entry>

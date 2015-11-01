@@ -12,7 +12,14 @@ Wrapper
 .wrap {
   position: relative;
   width: 100%;
+  padding-left:20px;
   padding-top: 2rem;
+}
+
+@media (max-width: 38em) {
+  .wrap {
+    padding-left:0;
+  }
 }
 
 
@@ -95,14 +102,15 @@ h2 .fa-external-link {
 /* Information overlay */
 
 h2 .information-overlay {
-  background-color: #222222;
-  color: #ffffff;
-  cursor: arrow;
+  background-color: #fff;
+  border:1px solid #222;
+  color: #222;
+  cursor: help;
   display: none;
-  height: 200px;
+  height: auto;
   left: -1rem;
   opacity: 0;
-  padding: 1rem;
+  padding: 1rem 1rem 0rem 1rem;
   position: absolute;
   top: -1rem;
   width: 115%;
@@ -114,8 +122,6 @@ h2 .information-overlay {
 h2 .information-overlay header {
   font-weight: bold;
   margin: 0 0 2rem 0;
-  -webkit-transition: opacity .2s; /* Safari */
-  transition: opacity .2s;
 }
 
 h2 .information-overlay p {
@@ -123,8 +129,8 @@ h2 .information-overlay p {
 }
 
 h2:hover .information-overlay {
-  opacity: 1;
   display: block;
+  opacity: 1;
   -webkit-transition: opacity .2s; /* Safari */
   transition: opacity .2s;
 }
