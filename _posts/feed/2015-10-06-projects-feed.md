@@ -3,9 +3,10 @@ layout: post
 title: Recent
 category: feed
 ---
-
+*   Triple Canopy: [*Solitude*
+by Martine Syms](https://canopycanopycanopy.com/issues/21/contents/solitude/#title-page)  
 *   Triple Canopy: [*America: The Artist’s Eye*
-by C. Spencer Yeh](https://canopycanopycanopy.com/issues/20/contents/america-the-artists-eye/#title-page)
+by C. Spencer Yeh](https://canopycanopycanopy.com/issues/20/contents/america-the-artists-eye/#title-page)   
 *   Triple Canopy: [*The Same but Similar by Cori Hayden* with Matthew Shen Goodman](http://canopycanopycanopy.com/issues/20/contents/the-same-but-similar)
 *   Triple Canopy: [*Speculations (“The future is \______”)* book is now out](http://canopycanopycanopy.com/contents/speculations-the-future-is)
 *   Triple Canopy: [New series - *Passage of A Rumor with Ralph Lemon*](http://canopycanopycanopy.com/series/passage-of-a-rumor)
