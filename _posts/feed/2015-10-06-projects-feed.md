@@ -3,10 +3,7 @@ layout: post
 title: Recent
 category: feed
 ---
-On Value
-
-by Triple Canopy & Ralph Lemon
-*   A Public Library: [Forderungen [Demands] with Ralph and Stefan Heidenreich.](http://www.apubliclibrary.org/event/forderungen-demands/)
+*   A Public Library: [Forderungen [Demands] with Ralph and Stefan Heidenreich](http://www.apubliclibrary.org/event/forderungen-demands/)
 *   Triple Canopy: [*On Value*, Edited by Triple Canopy & Ralph Lemon](https://canopycanopycanopy.com/contents/on-value)  
 *   Triple Canopy: [*Chronicle of a Traveling Theory*
 by Alexander Provan](https://canopycanopycanopy.com/contents/chronicle-of-a-traveling-theory)  
