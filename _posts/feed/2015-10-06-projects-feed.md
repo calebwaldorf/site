@@ -3,6 +3,14 @@ layout: post
 title: Recent
 category: feed
 ---
+On Value
+
+by Triple Canopy & Ralph Lemon
+*   A Public Library: [Forderungen [Demands] with Ralph and Stefan Heidenreich.](http://www.apubliclibrary.org/event/forderungen-demands/)
+*   Triple Canopy: [*On Value*, Edited by Triple Canopy & Ralph Lemon](https://canopycanopycanopy.com/contents/on-value)  
+*   Triple Canopy: [*Chronicle of a Traveling Theory*
+by Alexander Provan](https://canopycanopycanopy.com/contents/chronicle-of-a-traveling-theory)  
+*   A Public Library: [Library Sprint](http://www.apubliclibrary.org/event/library-sprint/)
 *   Triple Canopy: [*Solitude*
 by Martine Syms](https://canopycanopycanopy.com/issues/21/contents/solitude/#title-page)  
 *   Triple Canopy: [*America: The Artist’s Eye*
