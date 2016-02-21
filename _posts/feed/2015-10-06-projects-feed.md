@@ -3,6 +3,7 @@ layout: post
 title: Recent
 category: feed
 ---
+*   Triple Canopy: [*You Can’t See Any Such Thing* An Interactive Fiction by Matt Sheridan Smith](https://canopycanopycanopy.com/issues/19/contents/you-cant-see-any-such-thing)  
 *   A Public Library: [Forderungen [Demands] with Ralph and Stefan Heidenreich](http://www.apubliclibrary.org/event/forderungen-demands/)
 *   Triple Canopy: [*On Value*, Edited by Triple Canopy & Ralph Lemon](https://canopycanopycanopy.com/contents/on-value)  
 *   Triple Canopy: [*Chronicle of a Traveling Theory*
