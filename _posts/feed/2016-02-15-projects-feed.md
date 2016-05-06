@@ -3,6 +3,8 @@ layout: post
 title: Recent
 category: feed
 ---
+*   Triple Canopy: [*Tropico Vernacular* by Lobregat Balaguer](https://www.canopycanopycanopy.com/contents/tropico-vernacular/) 
+*   Triple Canopy: [*The Twinning Room* by Gwen Muren](https://www.canopycanopycanopy.com/issues/20/contents/the-twinning-room/) 
 *   Triple Canopy: [*Not Dead But Sleeping* by Anna Della Subin (ebook)](https://canopycanopycanopy.com/issues/21/contents/not-dead-but-sleeping) 
 *   Triple Canopy: [*Cloths and Ladders* by Rosa Aiello](https://canopycanopycanopy.com/issues/19/contents/cloths-and-ladders)  
 *   Triple Canopy: [*You Can’t See Any Such Thing* An Interactive Fiction by Matt Sheridan Smith](https://canopycanopycanopy.com/issues/19/contents/you-cant-see-any-such-thing)  
