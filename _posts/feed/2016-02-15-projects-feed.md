@@ -3,6 +3,8 @@ layout: post
 title: Recent
 category: feed
 ---
+*   Triple Canopy: [*Color Goes Electric* by Claire Lehmann](https://www.canopycanopycanopy.com/issues/22/contents/color-goes-electric) 
+*   Triple Canopy: [Issue #22: *Standard Evaluation Materials* published](https://www.canopycanopycanopy.com/issues/22/contents/a-note-on-standard-evaluation-materials)
 *   Triple Canopy: [*Tropico Vernacular* by Lobregat Balaguer](https://www.canopycanopycanopy.com/contents/tropico-vernacular/) 
 *   Triple Canopy: [*The Twinning Room* by Gwen Muren](https://www.canopycanopycanopy.com/issues/20/contents/the-twinning-room/) 
 *   Triple Canopy: [*Not Dead But Sleeping* by Anna Della Subin (ebook)](https://canopycanopycanopy.com/issues/21/contents/not-dead-but-sleeping) 
