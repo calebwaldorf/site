@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Los Lectores Re-Imaginan Su Biblioteca
+title: Los Lectores Re-Imaginan Su Biblioteca @ Casa del Lector. Madrid, Spain.
 category: talk
 ---
 
