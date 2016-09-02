@@ -3,6 +3,9 @@ layout: post
 title: Recent
 category: feed
 ---
+*   Triple Canopy: [*Headless* by K. D. (ebook)](https://www.canopycanopycanopy.com/contents/headless-ebook)
+*   Triple Canopy: [*The Red Detachment of Women* by Jen Liu](https://www.canopycanopycanopy.com/issues/22/contents/the-red-detachment-of-women)
+*   Triple Canopy: [*S as in Samsam* by Sowon Kwon](https://www.canopycanopycanopy.com/issues/22/contents/s-as-in-samsam) 
 *   Triple Canopy: [*Color Goes Electric* by Claire Lehmann](https://www.canopycanopycanopy.com/issues/22/contents/color-goes-electric) 
 *   Triple Canopy: [Issue #22: *Standard Evaluation Materials* published](https://www.canopycanopycanopy.com/issues/22/contents/a-note-on-standard-evaluation-materials)
 *   Triple Canopy: [*Tropico Vernacular* by Lobregat Balaguer](https://www.canopycanopycanopy.com/contents/tropico-vernacular/) 
