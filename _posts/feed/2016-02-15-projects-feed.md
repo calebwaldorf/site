@@ -4,7 +4,7 @@ title: Recent
 category: feed
 ---
 *   Triple Canopy: [Issue #23: *Vanitas* published](https://www.canopycanopycanopy.com/contents/a-note-on-vanitas)
-*   Triple Canopy: [*Say “Ah”* by Abraham Adams)](https://www.canopycanopycanopy.com/issues/20/contents/say--ah)
+*   Triple Canopy: [*Say “Ah”* by Abraham Adams](https://www.canopycanopycanopy.com/issues/20/contents/say--ah)
 *   Triple Canopy: [*Headless* by K. D. (ebook)](https://www.canopycanopycanopy.com/contents/headless-ebook)
 *   Triple Canopy: [*The Red Detachment of Women* by Jen Liu](https://www.canopycanopycanopy.com/issues/22/contents/the-red-detachment-of-women)
 *   Triple Canopy: [*S as in Samsam* by Sowon Kwon](https://www.canopycanopycanopy.com/issues/22/contents/s-as-in-samsam) 
