@@ -3,6 +3,9 @@ layout: post
 title: Recent
 category: feed
 ---
+*   Triple Canopy: [*LANGUAGE Inc.* by Katie Kitamura & Hari Kunzru](https://www.canopycanopycanopy.com/contents/language-inc)
+*   Triple Canopy: [*Triptych: Texas Pool Party* by Namwali Serpell](https://www.canopycanopycanopy.com/contents/triptych-texas-pool-party/#title-page)
+*   Triple Canopy: [*Kari Mette Leu* by Per-Oskar Leu](https://www.canopycanopycanopy.com/contents/kari-mette-leu)
 *   Triple Canopy: [Issue #23: *Vanitas* published](https://www.canopycanopycanopy.com/contents/a-note-on-vanitas)
 *   Triple Canopy: [*Say “Ah”* by Abraham Adams](https://www.canopycanopycanopy.com/issues/20/contents/say--ah)
 *   Triple Canopy: [*Headless* by K. D. (ebook)](https://www.canopycanopycanopy.com/contents/headless-ebook)
