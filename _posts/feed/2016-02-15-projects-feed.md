@@ -4,7 +4,7 @@ title: Recent
 category: feed
 ---
 *   Triple Canopy: [*Pointing Machines (Collected American Elegance)* by Triple Canopy](https://www.canopycanopycanopy.com/contents/pointing-machines/#title-page)
-*   Triple Canopy: [*How to Own a Pool and Like It* by Timothy Leonido ](https://www.canopycanopycanopy.com/contents/issues/22/how-to-own-a-pool-and-like-it)
+*   Triple Canopy: [*How to Own a Pool and Like It* by Timothy Leonido ](https://www.canopycanopycanopy.com//issues/22/contents/how-to-own-a-pool-and-like-it)
 *   Triple Canopy: [*Ask the Stone to Say* by David Horvitz with Alexander Provan](https://www.canopycanopycanopy.com/issues/22/contents/ask-the-stone-to-say/#title-page)
 *   Triple Canopy: [*Triptych: Texas Pool Party* by Namwali Serpell](https://www.canopycanopycanopy.com/issues/23/contents/triptych-texas-pool-party/#title-page)
 *   Triple Canopy: [*Kari Mette Leu* by Per-Oskar Leu](https://www.canopycanopycanopy.com/issues/23/contents/kari-mette-leu)
@@ -12,12 +12,12 @@ category: feed
 *   Triple Canopy: [*Say “Ah”* by Abraham Adams](https://www.canopycanopycanopy.com/issues/20/contents/say--ah)
 *   Triple Canopy: [*Headless* by K. D. (ebook)](https://www.canopycanopycanopy.com/contents/headless-ebook)
 *   Triple Canopy: [*The Red Detachment of Women* by Jen Liu](https://www.canopycanopycanopy.com/issues/22/contents/the-red-detachment-of-women)
-*   Triple Canopy: [*S as in Samsam* by Sowon Kwon](https://www.canopycanopycanopy.com/issues/22/contents/s-as-in-samsam) 
-*   Triple Canopy: [*Color Goes Electric* by Claire Lehmann](https://www.canopycanopycanopy.com/issues/22/contents/color-goes-electric) 
+*   Triple Canopy: [*S as in Samsam* by Sowon Kwon](https://www.canopycanopycanopy.com/issues/22/contents/s-as-in-samsam)
+*   Triple Canopy: [*Color Goes Electric* by Claire Lehmann](https://www.canopycanopycanopy.com/issues/22/contents/color-goes-electric)
 *   Triple Canopy: [Issue #22: *Standard Evaluation Materials* published](https://www.canopycanopycanopy.com/issues/22/contents/a-note-on-standard-evaluation-materials)
-*   Triple Canopy: [*Tropico Vernacular* by Lobregat Balaguer](https://www.canopycanopycanopy.com/contents/tropico-vernacular/) 
-*   Triple Canopy: [*The Twinning Room* by Gwen Muren](https://www.canopycanopycanopy.com/issues/20/contents/the-twinning-room/) 
-*   Triple Canopy: [*Not Dead But Sleeping* by Anna Della Subin (ebook)](https://canopycanopycanopy.com/issues/21/contents/not-dead-but-sleeping) 
+*   Triple Canopy: [*Tropico Vernacular* by Lobregat Balaguer](https://www.canopycanopycanopy.com/contents/tropico-vernacular/)
+*   Triple Canopy: [*The Twinning Room* by Gwen Muren](https://www.canopycanopycanopy.com/issues/20/contents/the-twinning-room/)
+*   Triple Canopy: [*Not Dead But Sleeping* by Anna Della Subin (ebook)](https://canopycanopycanopy.com/issues/21/contents/not-dead-but-sleeping)
 *   Triple Canopy: [*Cloths and Ladders* by Rosa Aiello](https://canopycanopycanopy.com/issues/19/contents/cloths-and-ladders)  
 *   Triple Canopy: [*You Can’t See Any Such Thing* An Interactive Fiction by Matt Sheridan Smith](https://canopycanopycanopy.com/issues/19/contents/you-cant-see-any-such-thing)  
 *   A Public Library: [Forderungen [Demands] with Ralph and Stefan Heidenreich](http://www.apubliclibrary.org/event/forderungen-demands/)
@@ -81,4 +81,3 @@ by C. Spencer Yeh](https://canopycanopycanopy.com/issues/20/contents/america-the
 *   Triple Canopy: [*Slow down the world: announcing Triple Canopy 3.0*](http://refresh.canopycanopycanopy.com/)
 *   The Public School: [Participation in Contemporary Art](http://thepublicschool.org/node/34139)
 *   The Public School: [Erotica](http://thepublicschool.org/node/33855)
-
