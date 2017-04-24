@@ -3,6 +3,8 @@ layout: post
 title: Recent
 category: feed
 ---
+*   Triple Canopy: [*Pointing Machines (Collected American Elegance)* by Triple Canopy](https://www.canopycanopycanopy.com/contents/pointing-machines/#title-page)
+*   Triple Canopy: [*How to Own a Pool and Like It* by Timothy Leonido ](https://www.canopycanopycanopy.com/contents/issues/22/how-to-own-a-pool-and-like-it)
 *   Triple Canopy: [*Ask the Stone to Say* by David Horvitz with Alexander Provan](https://www.canopycanopycanopy.com/issues/22/contents/ask-the-stone-to-say/#title-page)
 *   Triple Canopy: [*Triptych: Texas Pool Party* by Namwali Serpell](https://www.canopycanopycanopy.com/issues/23/contents/triptych-texas-pool-party/#title-page)
 *   Triple Canopy: [*Kari Mette Leu* by Per-Oskar Leu](https://www.canopycanopycanopy.com/issues/23/contents/kari-mette-leu)
