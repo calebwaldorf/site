@@ -5,7 +5,6 @@ category: feed
 ---
 *   Triple Canopy: [*The Amme Talks* by Ulf Stolterfoht with Peter Dittmer, Shane Anderson & Megan Ewing](https://www.canopycanopycanopy.com/contents/the-amme-talks)
 *   Triple Canopy: [*Projections Maybe Postures* by Jen Rosenblit and Kate Brandt](https://www.canopycanopycanopy.com/contents/projections-maybe-postures)
-*   Triple Canopy: [*How to Own a Pool and Like It* by Timothy Leonido](https://www.canopycanopycanopy.com/contents/how-to-own-a-pool-and-like-it/)
 *   Triple Canopy: [*Pointing Machines (Collected American Elegance)* by Triple Canopy](https://www.canopycanopycanopy.com/contents/pointing-machines/#title-page)
 *   Triple Canopy: [*How to Own a Pool and Like It* by Timothy Leonido ](https://www.canopycanopycanopy.com//issues/22/contents/how-to-own-a-pool-and-like-it)
 *   Triple Canopy: [*Ask the Stone to Say* by David Horvitz with Alexander Provan](https://www.canopycanopycanopy.com/issues/22/contents/ask-the-stone-to-say/#title-page)
