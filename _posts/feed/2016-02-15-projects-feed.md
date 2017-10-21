@@ -3,6 +3,11 @@ layout: post
 title: Recent
 category: feed
 ---
+*   Triple Canopy: [*My God Has Another Name* by Kameelah Janan Rasheed](https://www.canopycanopycanopy.com/contents/my-god-has-another-name/#title-page)
+*   Triple Canopy: [*The Greatest Number* by Theodore Porter with Adam Florin](https://www.canopycanopycanopy.com/contents/the-greatest-number/#title-page)
+*   Triple Canopy: [*Workers of the World, Conform!* by Nader Vossoughian](https://www.canopycanopycanopy.com/contents/workers-of-the-world-conform)
+*   Triple Canopy: [*So the Second Thing I Bought Was a Mirror* by Aisha Sasha John](https://www.canopycanopycanopy.com/contents/so-the-second-thing-i-bought-was-a-mirror/#title-page)
+*   Triple Canopy: [*Think of the Lemur* by José Arnaud-Bello](https://www.canopycanopycanopy.com/contents/think-of-the-lemur)
 *   Triple Canopy: [*The Amme Talks* by Ulf Stolterfoht with Peter Dittmer, Shane Anderson & Megan Ewing](https://www.canopycanopycanopy.com/contents/the-amme-talks)
 *   Triple Canopy: [*Projections Maybe Postures* by Jen Rosenblit and Kate Brandt](https://www.canopycanopycanopy.com/contents/projections-maybe-postures)
 *   Triple Canopy: [*Pointing Machines (Collected American Elegance)* by Triple Canopy](https://www.canopycanopycanopy.com/contents/pointing-machines/#title-page)
