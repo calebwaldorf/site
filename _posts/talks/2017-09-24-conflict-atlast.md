@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conflict Atlas: Geopolitics and Contingencies on the Malvinas-Falklands Archipelago @ Friends with Books @ Hamburger Bahnhof. Berlin, Germany.
+title: "Conflict Atlas: Geopolitics and Contingencies on the Malvinas-Falklands Archipelago @ Friends with Books @ Hamburger Bahnhof. Berlin, Germany."
 category: talk
 ---
 
