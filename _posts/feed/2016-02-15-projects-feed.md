@@ -2,7 +2,9 @@
 layout: post
 title: Recent
 category: feed
+published: true
 ---
+*   Triple Canopy: [*High Treason* by Juan Caloca](https://www.canopycanopycanopy.com/contents/high-treason/#title-page)
 *   Triple Canopy: [*My God Has Another Name* by Kameelah Janan Rasheed](https://www.canopycanopycanopy.com/contents/my-god-has-another-name/#title-page)
 *   Triple Canopy: [*The Greatest Number* by Theodore Porter with Adam Florin](https://www.canopycanopycanopy.com/contents/the-greatest-number/#title-page)
 *   Triple Canopy: [*Workers of the World, Conform!* by Nader Vossoughian](https://www.canopycanopycanopy.com/contents/workers-of-the-world-conform)
