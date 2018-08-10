@@ -27,3 +27,5 @@ analytics:
   provider: 		google
   google: 
     tracking_id: 	'UA-7810106-1'
+
+plugins: [jekyll-paginate]

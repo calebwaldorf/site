@@ -5,16 +5,10 @@
 
   <body>
     <div class="wrap">
-        <div class="first col-3-12">
+        <div class="first col-4-12">
           <div class="container content">
             <h2>
               Current
-              <div class="information-overlay">
-                <header>Current</header>
-                <p>
-                Projects that I'm currently working on. In alphabetical order.
-                </p>
-              </div>
             </h2>
               <ul>
               {% for post in site.categories.current-projects %}
@@ -28,32 +22,10 @@
             </ul>      
         </div>
       </div>
-        <div class="col-3-12">
-          <div class="container content">
-            <h2>
-              Project(s) Feed <i class="fa fa-external-link"></i>
-              <div class="information-overlay">
-                <header>Project(s) Feed <i class="fa fa-external-link"></i></header>
-                <p>
-                A selection of projects, classes, and events from A Public Library, The Public School, and Triple Canopy. In reverse chronological order.
-                </p>
-              </div>
-            </h2>
-              {% for post in site.categories.feed %}
-                {{ post.content }}
-              {% endfor %}
-          </div>
-      </div>
-        <div class="col-3-12">
+        <div class="col-4-12">
           <div class="container content">
             <h2>
               Talks & Conversations 
-              <div class="information-overlay">
-                <header>Talks & Conversations</header>
-                <p>
-                A selection of talks, conversations, and workshops that I've participated in. In reverse chronological order.
-                </p>
-              </div>
             </h2>
             <ul>
               {% for post in site.categories.talk %}
@@ -64,16 +36,10 @@
             </ul>
           </div>
         </div>
-        <div class="col-3-12">
+        <div class="col-4-12">
           <div class="container content">
             <h2>
-              Misc
-              <div class="information-overlay">
-                <header>Misc</header>
-                <p>
-                A selection of past projects and publications. In reverse chronological order.
-                </p>
-              </div>
+              Past Projects & Publications
             </h2>
             <ul>
               {% for post in site.categories.past %}
