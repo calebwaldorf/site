@@ -4,13 +4,53 @@
  <title>Caleb Waldorf</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-10-15T18:39:42+02:00</updated>
+ <updated>2019-02-28T19:37:18+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Caleb Waldorf</name>
    <email>thereisnothinglesspassive@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Version History @ ODD. Bucharest, Romania.</title>
+   <link href="http://localhost:4000/talk/2018/10/26/odd-theory/"/>
+   <updated>2018-10-26T00:00:00+02:00</updated>
+   <id>http://localhost:4000/talk/2018/10/26/odd-theory</id>
+   <content type="html">&lt;h2 id=&quot;version-history&quot;&gt;Version History&lt;/h2&gt;
+
+&lt;p&gt;Earlier this year, Triple Canopy celebrated the tenth anniversary of its first issue, “The Medium Was Tedium.” In the ensuing ten years and twenty-five issues, the magazine has explored different conceptual frameworks and developed publishing systems that have operated with (and against) shiftings forms of contemporary networked cultural production, circulation, and reception. As a magazine, Triple Canopy is dedicated to sustained inquiry, careful reading and viewing, resisting and expanding the present. In “The Binder and the Server,” a memoir-manifesto published in 2010, we proclaimed our intention to “slow down the internet”; later, in recognition of the erosion of the line between “online” and “offline,” we pivoted to “slow down the world.” These aims have been reflected in our interfaces and organizational paradigms, which have encouraged prolonged, focused engagement, and extends to our collaborative methods with the contributors to the magazine. In his lecture at ODD, Caleb Waldorf, co-founder and creative director of Triple Canopy, will trace the past, present, and future of Triple Canopy’s approach to post-digital publishing as well as how the magazine is situated within a broader field of publication topologies.&lt;/p&gt;
+
+&lt;p&gt;26/10/2018&lt;br /&gt;
+&lt;a href=&quot;http://www.salonuldeproiecte.ro/&quot;&gt;Salonul de Proiecte&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;b-ber-workshop&quot;&gt;b-ber Workshop&lt;/h2&gt;
+
+&lt;p&gt;In the Winter of 2019, Triple Canopy will release an open-source tool called b-ber that can publish an array of formats—ePubs, mobis, websites, PDFs, and XML files—that are generated from documents written in an extended version of Markdown (based off the ePub3 semantic vocabulary). b-ber’s approach to authoring, editing, and publishing, engenders the possibility for multiple actors—writers, editors, designers, technologists, and machines—to better understand, parse, and collaborate on a given work. b-ber also shifts the focus from print-first, with digital formats as an afterthought (or not considered at all), towards understanding publication formats as mutable and branches off a single source. In the workshop at ODD, Caleb Waldorf will explain the underlying concept of b-ber and demo its capacity and uses. We will also have the opportunity to make some publications together.&lt;/p&gt;
+
+&lt;p&gt;27/10/2018&lt;br /&gt;
+&lt;a href=&quot;http://www.salonuldeproiecte.ro/&quot;&gt;Salonul de Proiecte&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Find out more &lt;a href=&quot;http://www.oddweb.org/activity/odd-theory-12/?fbclid=IwAR156MjoIRCqJEM7rRgpNk0D8-o4DsmnKvsdqUNSDUAu_pjgP2jLEFApp_M&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>On Resentment @ transmediale. Berlin, Germany</title>
+   <link href="http://localhost:4000/talk/2018/02/03/on-resentment/"/>
+   <updated>2018-02-03T00:00:00+01:00</updated>
+   <id>http://localhost:4000/talk/2018/02/03/on-resentment</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.canopycanopycanopy.com/&quot;&gt;Triple Canopy&lt;/a&gt; workshop organized as part of transmediale’s 2018 festival, &lt;a href=&quot;https://2018.pastwebsites.transmediale.de/&quot;&gt;face value&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Resentment is perhaps the predominant affect of today. Much has been made of it on the internet, both as an expression and an experience, even more so with respect to its fundamental role in the surge of right-wing populism in the US and Europe. This, however, may be an all too simplistic account, as it casts resentment as the province of straight white men—as well as an excessive, selfish, and irresponsible feeling to have and express. As part of Triple Canopy’s &lt;a href=&quot;https://www.canopycanopycanopy.com/issues/25&quot;&gt;25th issue&lt;/a&gt;, which will be on the topic of resentment, this workshop aims to address the following questions: Who has a right to be resentful? How is resentment stoked and policed, and how does it circulate among intimates and on larger scales? Can—or should—resentment be useful? How can it serve as a basis for describing a growing community, for cultivating a public? The session will involve an introduction to the topic, short statements by guest participants, readings, video excerpts, and open discussions.&lt;/p&gt;
+
+&lt;p&gt;Participants: Triple Canopy (Matthew Shen Goodman, Caleb Waldorf), Aria Dean, Ana Teixeira Pinto, Michelle Williams Gamaker.&lt;/p&gt;
+
+&lt;p&gt;Find out more &lt;a href=&quot;https://transmediale.de/program/event/triple-canopy-on-resentment&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Conflict Atlas: Geopolitics and Contingencies on the Malvinas-Falklands Archipelago @ Friends with Books @ Hamburger Bahnhof. Berlin, Germany.</title>
@@ -451,7 +491,7 @@ Tate Modern, Starr Auditorium&lt;/p&gt;
    <link href="http://localhost:4000/past/2012/08/12/not-not-like/"/>
    <updated>2012-08-12T00:00:00+02:00</updated>
    <id>http://localhost:4000/past/2012/08/12/not-not-like</id>
-   <content type="html">&lt;p&gt;Not Not Like, a project for Issue 3 of &lt;a href=&quot;http://www.journalment.org&quot;&gt;…ment journal&lt;/a&gt;.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Not Not Like, a project for Issue 3 of &lt;a href=&quot;https://web.archive.org/web/20161202033800/http://journalment.org/article/not-not-like%E2%80%94-browser-extension&quot;&gt;…ment journal&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.journalment.org/issue-3&quot;&gt;Find out more&lt;/a&gt;.&lt;/p&gt;
 </content>
@@ -707,7 +747,7 @@ aquí, pero ocuparía muchísimas páginas en este periódico!&lt;/p&gt;
    <link href="http://localhost:4000/past/2010/12/15/there-is-nothing-less-passive/"/>
    <updated>2010-12-15T00:00:00+01:00</updated>
    <id>http://localhost:4000/past/2010/12/15/there-is-nothing-less-passive</id>
-   <content type="html">&lt;p&gt;&lt;em&gt;There is Nothing Less Passive than the Act of Fleeing&lt;/em&gt; by &lt;a href=&quot;http://e-rat.org/&quot;&gt;Sean Dockray&lt;/a&gt;, Jason Smith and &lt;a href=&quot;http://matteopasquinelli.com/&quot;&gt;Matteo Pasquinelli&lt;/a&gt; and Caleb Waldorf. Published in &lt;a href=&quot;http://www.journalment.org/CURRENT-ISSUE&quot;&gt;Issue 1 of …ment&lt;/a&gt;.&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;em&gt;There is Nothing Less Passive than the Act of Fleeing&lt;/em&gt; by &lt;a href=&quot;http://e-rat.org/&quot;&gt;Sean Dockray&lt;/a&gt;, Jason Smith and &lt;a href=&quot;http://matteopasquinelli.com/&quot;&gt;Matteo Pasquinelli&lt;/a&gt; and Caleb Waldorf. Published in &lt;a href=&quot;https://web.archive.org/web/20170523052416/http://journalment.org/article/there-nothing-less-passive-act-fleeing&quot;&gt;Issue 1 of …ment&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;What follows is a condensed and edited version of a text for a panel that was presented at UCIRA’s “Future Tense: Alternative Arts and Economies in the University” conference held in San Diego, California on November 18, 2010. The panel shared the same name as a 13-day itinerant seminar in Berlin organized by Dockray, Waldorf, and Fiona Whitton earlier that year, in July. The seminar began with an excerpt from Tiqqun’s Introduction to Civil War, which was co-translated into English by Smith; and later read a chapter from Pasquinelli’s Animal Spirits: A Bestiary of the Commons. Both authors have also participated in meetings at The Public School in Los Angeles and Berlin.Both the panel and the seminar developed out of longer conversations at The Public School in Los Angeles, which began in late 2007 under Telic Arts Exchange. The Public School is a school with no curriculum, where classes are proposed and organized by the public.&lt;/p&gt;
 
