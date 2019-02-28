@@ -4,7 +4,7 @@
  <title>Caleb Waldorf</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2019-02-28T19:44:00+01:00</updated>
+ <updated>2019-02-28T19:53:16+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Caleb Waldorf</name>
@@ -447,7 +447,7 @@ Museum of Modern Art&lt;/p&gt;
  </entry>
  
  <entry>
-   <title>post</title>
+   <title>MoMA post</title>
    <link href="http://localhost:4000/past/2013/03/25/post/"/>
    <updated>2013-03-25T00:00:00+01:00</updated>
    <id>http://localhost:4000/past/2013/03/25/post</id>
