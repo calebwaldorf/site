@@ -4,7 +4,7 @@
  <title>Caleb Waldorf</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2019-02-28T19:53:16+01:00</updated>
+ <updated>2019-03-01T22:59:43+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Caleb Waldorf</name>
@@ -345,7 +345,9 @@ Free entry / all welcome&lt;/p&gt;
    <link href="http://localhost:4000/past/2013/12/13/expanded-art-school/"/>
    <updated>2013-12-13T00:00:00+01:00</updated>
    <id>http://localhost:4000/past/2013/12/13/expanded-art-school</id>
-   <content type="html">&lt;p&gt;This book is the final outcome of a project entitled Expanded (art) School by Aslı Çetinkaya and Marina Sorbello, which was carried out between September 2011 and November 2012 as part of the Tandem Turkey, Cultural Managers Exchange Program, a scheme aiming at building long term partnerships among institutions in Turkey and the EU.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Download &lt;a href=&quot;/public/files/expanded_final_corrected2.pdf&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This book is the final outcome of a project entitled Expanded (art) School by Aslı Çetinkaya and Marina Sorbello, which was carried out between September 2011 and November 2012 as part of the Tandem Turkey, Cultural Managers Exchange Program, a scheme aiming at building long term partnerships among institutions in Turkey and the EU.&lt;/p&gt;
 </content>
  </entry>
  
@@ -491,9 +493,12 @@ Tate Modern, Starr Auditorium&lt;/p&gt;
    <link href="http://localhost:4000/past/2012/08/12/not-not-like/"/>
    <updated>2012-08-12T00:00:00+02:00</updated>
    <id>http://localhost:4000/past/2012/08/12/not-not-like</id>
-   <content type="html">&lt;p&gt;Not Not Like, a project for Issue 3 of &lt;a href=&quot;https://web.archive.org/web/20161202033800/http://journalment.org/article/not-not-like%E2%80%94-browser-extension&quot;&gt;…ment journal&lt;/a&gt;.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Published in &lt;a href=&quot;http://www.journalment.org/issue-3&quot;&gt;…ment, issue 3&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.journalment.org/issue-3&quot;&gt;Find out more&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What does it do?&lt;/strong&gt;&lt;br /&gt;
+Removes the Like button on Facebook.&lt;/p&gt;
+
+&lt;p&gt;Download contribution &lt;a href=&quot;/public/files/ment-3-excerpt.pdf&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -638,11 +643,27 @@ Salt.&lt;/p&gt;
    <link href="http://localhost:4000/past/2011/10/05/forex/"/>
    <updated>2011-10-05T00:00:00+02:00</updated>
    <id>http://localhost:4000/past/2011/10/05/forex</id>
-   <content type="html">&lt;p&gt;EVADING CUSTOMS_MILAN&lt;/p&gt;
+   <content type="html">&lt;p&gt;Brown Gallery. London, England.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;&quot;&gt;CATALOGUE DOWNLOAD&lt;/a&gt;http://www.mediafire.com/?44ao4yhh2gw0yvn)&lt;/p&gt;
+&lt;p&gt;Evading Customs, an exhibition of economy and strategy, brings together a selection of works fabricated via instructions from sixteen artists who live and work outside the United Kingdom. Fifty artists were asked to contribute projects, a selection of which were then realized; the only limitation given was that each work be constructed by the curators, gallery staff, or other artists, on-site and at minimal expense. This premise is both commonplace—as artists often rely on others to install or produce works in their absence—and practical, since it effectively eliminates the shipping component of this exhibition. It allowed us to present ambitious works by artists we might not be able to afford to show in the UK otherwise; it also meant these same artists had the opportunity to make works specific to London, to address concepts of exchange, or to explore ideas that diverged greatly from their usual body of work.&lt;/p&gt;
 
-&lt;p&gt;“Evading Customs_Milan” is the Italian edition of the project conceived and curated by two young newyorker curators (Peter J.Russo e Lumi Tan), exhibited at London’s Brown Gallery in October 2009.&lt;/p&gt;
+&lt;p&gt;The exhibition takes root in a number of important art-historical moments, including: George Brecht’s Event Scores, which asked viewers to perform quotidian activities (1958); Sol LeWittÊ¼s Sentences on Conceptual Art (1969); Lucy Lippard’s instructive exhibitions, for which she gave directives to one artist, who in-turn instructed another, and so forth (1969–70); Hans-Ulrich Obrist’s ongoing Do It exhibition and book series (1993–); the New York City non-profit Triple Candie’s unauthorized retrospectives of David Hammons and Cady Noland (both in 2006); amongst many others—relative concepts, proffered here by necessity.&lt;/p&gt;
+
+&lt;p&gt;Artists: José León Cerrillo, Tyler Coburn, Peter Coffin, E.V. Day, Harrell Fletcher, Adam Helms, David Horvitz, Matt Keegan, Tim Kinsella, Sara Greenberger Rafferty, Rachel Owens, Kate Shepherd, Matt Sheridan Smith, Allyson Vieira, Erik Wysocan, and Caleb Waldorf&lt;/p&gt;
+
+&lt;p&gt;With contributions by: Brian Clifton, Joy Drury Cox, Rico Gatson, Samara Golden, Jonah Groeneboer, Timothy Hull, Jon Kessler, Fawn Krieger, Justin Lieberman, Mike Quinn, Andres Laracuente, Per-Oskar Leu, Sam Moyer, Ruairiadh O’Connell, Ry Rocklen, Asha Schechter, Macrae Semans, Nolan Simon, Colby Bird and Joshua Smith, Brina Thurston, Julia Weist, Hannah Whitaker, and Lisa Williamson&lt;/p&gt;
+
+&lt;p&gt;Additional materials by: Dexter Sinister, Serious Issue, Provence, Paperback Magazine, and Landings Journal&lt;/p&gt;
+
+&lt;p&gt;Evading Customs is organized by Peter J. Russo and Lumi Tan.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;EVADING CUSTOMS_MILAN&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/public/files/evading-customs-milan.pdf&quot;&gt;CATALOGUE DOWNLOAD&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;“Evading Customs_Milan” is the Italian edition of the project conceived and curated by two young New York curators (Peter J.Russo and Lumi Tan), exhibited at London’s Brown Gallery in October 2009.&lt;/p&gt;
 
 &lt;p&gt;The exhibition, born in the core of the economic crisis that knocked down the western world two years ago, is now an opportunity of reflection on the need of rethinking about each own artistic practice given some geographic and economic limitations between the creator and the exhibition moment.&lt;/p&gt;
 
@@ -659,22 +680,6 @@ Salt.&lt;/p&gt;
 &lt;p&gt;With contributions from: Alis / Filliol, Salvatore Arancio, Michele Bazzana, Riccardo Benassi, Emily Verla Bovino, Ludovica Carbotta, Arianna Carossa, Paolo Cirio, Danilo Correale, Riccardo Giacconi, Giovanni Giaretta, Giorgio Guidi, Giuseppe Lana, Renato Leotta, Federico Maddalozzo.&lt;/p&gt;
 
 &lt;p&gt;Curated by Guia Cortassa and Barbara Meneghel.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Brown Gallery. London, England.&lt;/p&gt;
-
-&lt;p&gt;Evading Customs, an exhibition of economy and strategy, brings together a selection of works fabricated via instructions from sixteen artists who live and work outside the United Kingdom. Fifty artists were asked to contribute projects, a selection of which were then realized; the only limitation given was that each work be constructed by the curators, gallery staff, or other artists, on-site and at minimal expense. This premise is both commonplace—as artists often rely on others to install or produce works in their absence—and practical, since it effectively eliminates the shipping component of this exhibition. It allowed us to present ambitious works by artists we might not be able to afford to show in the UK otherwise; it also meant these same artists had the opportunity to make works specific to London, to address concepts of exchange, or to explore ideas that diverged greatly from their usual body of work.&lt;/p&gt;
-
-&lt;p&gt;The exhibition takes root in a number of important art-historical moments, including: George Brecht’s Event Scores, which asked viewers to perform quotidian activities (1958); Sol LeWittÊ¼s Sentences on Conceptual Art (1969); Lucy Lippard’s instructive exhibitions, for which she gave directives to one artist, who in-turn instructed another, and so forth (1969–70); Hans-Ulrich Obrist’s ongoing Do It exhibition and book series (1993–); the New York City non-profit Triple Candie’s unauthorized retrospectives of David Hammons and Cady Noland (both in 2006); amongst many others—relative concepts, proffered here by necessity.&lt;/p&gt;
-
-&lt;p&gt;Artists: José León Cerrillo, Tyler Coburn, Peter Coffin, E.V. Day, Harrell Fletcher, Adam Helms, David Horvitz, Matt Keegan, Tim Kinsella, Sara Greenberger Rafferty, Rachel Owens, Kate Shepherd, Matt Sheridan Smith, Allyson Vieira, Erik Wysocan, and Caleb Waldorf&lt;/p&gt;
-
-&lt;p&gt;With contributions by: Brian Clifton, Joy Drury Cox, Rico Gatson, Samara Golden, Jonah Groeneboer, Timothy Hull, Jon Kessler, Fawn Krieger, Justin Lieberman, Mike Quinn, Andres Laracuente, Per-Oskar Leu, Sam Moyer, Ruairiadh O’Connell, Ry Rocklen, Asha Schechter, Macrae Semans, Nolan Simon, Colby Bird and Joshua Smith, Brina Thurston, Julia Weist, Hannah Whitaker, and Lisa Williamson&lt;/p&gt;
-
-&lt;p&gt;Additional materials by: Dexter Sinister, Serious Issue, Provence, Paperback Magazine, and Landings Journal&lt;/p&gt;
-
-&lt;p&gt;Evading Customs is organized by Peter J. Russo and Lumi Tan.&lt;/p&gt;
 </content>
  </entry>
  
@@ -683,7 +688,11 @@ Salt.&lt;/p&gt;
    <link href="http://localhost:4000/past/2011/09/01/a-public-school/"/>
    <updated>2011-09-01T00:00:00+02:00</updated>
    <id>http://localhost:4000/past/2011/09/01/a-public-school</id>
-   <content type="html">&lt;p&gt;Para nuestro proyecto, “A Public School,” queremos trabajar con varios grupos e individuos alrededor de la ciudad para hacer la pregunta “¿cómo sería una
+   <content type="html">&lt;p&gt;&lt;a href=&quot;/public/files/APS-newspaper-final.pdf&quot;&gt;Download newspaper here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Para nuestro proyecto, “A Public School,” queremos trabajar con varios grupos e individuos alrededor de la ciudad para hacer la pregunta “¿cómo sería una
 escuela hecha por y para el pueblo?” Sólo que, en lugar de hacer ésta pregunta directamente, queremos preguntar “¿qué tipo de clases deben ocurrir en ésta
 escuela?”&lt;/p&gt;
 
@@ -697,8 +706,6 @@ A Public School es un proyecto de The Public School, iniciado para el Encuentro
 &lt;p&gt;Para aquellos que nos han apoyado, traducido y acompañado, Viviana Palacio y Carolina Mejía, muchas gracias! Por
 último, nuestro más profundo agradecimiento a Bill Kelly Jr. por invitarnos a participar en MDE11 y a Vivi por todo lo que has hecho. Haríamos una lista
 aquí, pero ocuparía muchísimas páginas en este periódico!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://apublicschool.org/APS-newspaper-final.pdf&quot;&gt;Download newspaper here&lt;/a&gt;.&lt;/p&gt;
 
 </content>
  </entry>
@@ -751,7 +758,7 @@ aquí, pero ocuparía muchísimas páginas en este periódico!&lt;/p&gt;
 
 &lt;p&gt;What follows is a condensed and edited version of a text for a panel that was presented at UCIRA’s “Future Tense: Alternative Arts and Economies in the University” conference held in San Diego, California on November 18, 2010. The panel shared the same name as a 13-day itinerant seminar in Berlin organized by Dockray, Waldorf, and Fiona Whitton earlier that year, in July. The seminar began with an excerpt from Tiqqun’s Introduction to Civil War, which was co-translated into English by Smith; and later read a chapter from Pasquinelli’s Animal Spirits: A Bestiary of the Commons. Both authors have also participated in meetings at The Public School in Los Angeles and Berlin.Both the panel and the seminar developed out of longer conversations at The Public School in Los Angeles, which began in late 2007 under Telic Arts Exchange. The Public School is a school with no curriculum, where classes are proposed and organized by the public.&lt;/p&gt;
 
-&lt;p&gt;Available &lt;a href=&quot;https://anonfiles.com/file/14e5fca5070911ce786d69b10cd3b6e4&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Available &lt;a href=&quot;/public/files/MENT01-web-tpsla.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  

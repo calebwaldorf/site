@@ -3,7 +3,9 @@ layout: post
 title: Not Not Like
 category: past
 ---
+Published in [...ment, issue 3](http://www.journalment.org/issue-3)
 
-Not Not Like, a project for Issue 3 of [...ment journal](https://web.archive.org/web/20161202033800/http://journalment.org/article/not-not-like%E2%80%94-browser-extension).
+**What does it do?**  
+Removes the Like button on Facebook.
 
-[Find out more](http://www.journalment.org/issue-3).
+Download contribution [here](/public/files/ment-3-excerpt.pdf)

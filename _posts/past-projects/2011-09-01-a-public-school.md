@@ -4,6 +4,10 @@ title: A Public School
 category: past
 ---
 
+[Download newspaper here](/public/files/APS-newspaper-final.pdf).
+
+***
+
 Para nuestro proyecto, “A Public School,” queremos trabajar con varios grupos e individuos alrededor de la ciudad para hacer la pregunta “¿cómo sería una
 escuela hecha por y para el pueblo?” Sólo que, en lugar de hacer ésta pregunta directamente, queremos preguntar “¿qué tipo de clases deben ocurrir en ésta
 escuela?”
@@ -18,7 +22,5 @@ A Public School es un proyecto de The Public School, iniciado para el Encuentro
 Para aquellos que nos han apoyado, traducido y acompañado, Viviana Palacio y Carolina Mejía, muchas gracias! Por
 último, nuestro más profundo agradecimiento a Bill Kelly Jr. por invitarnos a participar en MDE11 y a Vivi por todo lo que has hecho. Haríamos una lista
 aquí, pero ocuparía muchísimas páginas en este periódico!
-
-[Download newspaper here](http://apublicschool.org/APS-newspaper-final.pdf).
 
 
