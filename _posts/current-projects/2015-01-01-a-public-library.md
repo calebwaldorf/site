@@ -1,7 +1,7 @@
 ---
 layout: post
-title: <strike>A Public Library</strike>
-category: current-projects
+title: A Public Library
+category: past
 published: true
 ---
 

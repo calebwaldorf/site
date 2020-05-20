@@ -4,13 +4,26 @@
  <title>Caleb Waldorf</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2019-03-01T22:59:43+01:00</updated>
+ <updated>2020-05-20T22:14:29+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Caleb Waldorf</name>
    <email>thereisnothinglesspassive@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Working on Our Thoughts</title>
+   <link href="http://localhost:4000/past/2019/12/12/working-on-our-thoughts/"/>
+   <updated>2019-12-12T00:00:00+01:00</updated>
+   <id>http://localhost:4000/past/2019/12/12/working-on-our-thoughts</id>
+   <content type="html">&lt;p&gt;An introduction to b-ber, a new framework for creating and circulating publications as websites, EPUBs, books, and other formats.&lt;/p&gt;
+
+&lt;p&gt;Read the essay &lt;a href=&quot;https://www.canopycanopycanopy.com/contents/working-on-our-thoughts&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Visit the &lt;a href=&quot;https://github.com/triplecanopy/b-ber&quot;&gt;Github repository&lt;/a&gt; to make your own b-ber publications.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Version History @ ODD. Bucharest, Romania.</title>
@@ -277,9 +290,9 @@ Miss Read at the ADK.&lt;/p&gt;
  
  <entry>
    <title>A Public Library</title>
-   <link href="http://localhost:4000/current-projects/2015/01/01/a-public-library/"/>
+   <link href="http://localhost:4000/past/2015/01/01/a-public-library/"/>
    <updated>2015-01-01T00:00:00+01:00</updated>
-   <id>http://localhost:4000/current-projects/2015/01/01/a-public-library</id>
+   <id>http://localhost:4000/past/2015/01/01/a-public-library</id>
    <content type="html">&lt;p&gt;A Public Library is not a public library. It is a space for conversations, presentations, the sharing of resources, and for collective reading, viewing, and learning. It hosts an ephemeral collection of publications and other materials, which will provide a foundation for, and expand along with, a series of public programs, workshops, and classes organized in conjunction with &lt;a href=&quot;http://berlin.thepublicschool.org&quot;&gt;The Public School Berlin&lt;/a&gt; as well as other collaborators.&lt;/p&gt;
 
 &lt;p&gt;From January through December 2015, A Public Library was located at the Bona-Peiser-Bibliothek in Berlin Kreuzberg.&lt;/p&gt;
@@ -881,7 +894,7 @@ From the graveyards of corporate architecture to the informal settlements of Lat
  </entry>
  
  <entry>
-   <title>The Public School</title>
+   <title><strike>The Public School</strike></title>
    <link href="http://localhost:4000/current-projects/2008/06/01/the-public-school/"/>
    <updated>2008-06-01T00:00:00+02:00</updated>
    <id>http://localhost:4000/current-projects/2008/06/01/the-public-school</id>

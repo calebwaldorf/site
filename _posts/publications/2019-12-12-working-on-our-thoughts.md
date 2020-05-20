@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Working on 0ur Thoughts
+title: Working on Our Thoughts
 category: past
 ---
 
