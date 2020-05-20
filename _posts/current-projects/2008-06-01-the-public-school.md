@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Public School
+title: <strike>The Public School</strike>
 category: current-projects
 ---
 
