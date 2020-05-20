@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Working on Our Thoughts
-category: past
+category: publication
 ---
 
 An introduction to b-ber, a new framework for creating and circulating publications as websites, EPUBs, books, and other formats.

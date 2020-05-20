@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Not Not Like
-category: past
+category: publication
 ---
 Published in [...ment, issue 3](http://www.journalment.org/issue-3)
 

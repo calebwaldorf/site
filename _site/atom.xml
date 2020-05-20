@@ -4,7 +4,7 @@
  <title>Caleb Waldorf</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-05-20T22:21:06+02:00</updated>
+ <updated>2020-05-20T22:40:21+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Caleb Waldorf</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Working on Our Thoughts</title>
-   <link href="http://localhost:4000/past/2019/12/12/working-on-our-thoughts/"/>
+   <link href="http://localhost:4000/publication/2019/12/12/working-on-our-thoughts/"/>
    <updated>2019-12-12T00:00:00+01:00</updated>
-   <id>http://localhost:4000/past/2019/12/12/working-on-our-thoughts</id>
+   <id>http://localhost:4000/publication/2019/12/12/working-on-our-thoughts</id>
    <content type="html">&lt;p&gt;An introduction to b-ber, a new framework for creating and circulating publications as websites, EPUBs, books, and other formats.&lt;/p&gt;
 
 &lt;p&gt;Read the essay &lt;a href=&quot;https://www.canopycanopycanopy.com/contents/working-on-our-thoughts&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -276,9 +276,9 @@ Miss Read at the ADK.&lt;/p&gt;
  
  <entry>
    <title>Agents of Alternatives – Re-designing Our Realities</title>
-   <link href="http://localhost:4000/past/2015/05/01/agents-of-alternatives/"/>
+   <link href="http://localhost:4000/publication/2015/05/01/agents-of-alternatives/"/>
    <updated>2015-05-01T00:00:00+02:00</updated>
-   <id>http://localhost:4000/past/2015/05/01/agents-of-alternatives</id>
+   <id>http://localhost:4000/publication/2015/05/01/agents-of-alternatives</id>
    <content type="html">&lt;p&gt;Interview with Katharina Moebus and &lt;a href=&quot;http://thepublicschool.org/berlin&quot;&gt;The Public School Berlin&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;An independently published open book exploring the visions, actions, tools and impacts of change agents, thinkers and ‘happeners’ (those who make things happen!). It shows the creative processes and tools for designing positive societal transitions. These transitions are revealed by showing the new hybrid relationships being forged between alternative approaches to learning, living, making, socialising, thinking and working.&lt;/p&gt;
@@ -355,9 +355,9 @@ Free entry / all welcome&lt;/p&gt;
  
  <entry>
    <title>GENİŞLETİLMİŞ SANAT OKULU (BİRLİKTE ÖĞRENMEK)/EXPANDED ART SCHOOL (LEARNING TOGETHER)</title>
-   <link href="http://localhost:4000/past/2013/12/13/expanded-art-school/"/>
+   <link href="http://localhost:4000/publication/2013/12/13/expanded-art-school/"/>
    <updated>2013-12-13T00:00:00+01:00</updated>
-   <id>http://localhost:4000/past/2013/12/13/expanded-art-school</id>
+   <id>http://localhost:4000/publication/2013/12/13/expanded-art-school</id>
    <content type="html">&lt;p&gt;Download &lt;a href=&quot;/public/files/expanded_final_corrected2.pdf&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This book is the final outcome of a project entitled Expanded (art) School by Aslı Çetinkaya and Marina Sorbello, which was carried out between September 2011 and November 2012 as part of the Tandem Turkey, Cultural Managers Exchange Program, a scheme aiming at building long term partnerships among institutions in Turkey and the EU.&lt;/p&gt;
@@ -462,7 +462,7 @@ Museum of Modern Art&lt;/p&gt;
  </entry>
  
  <entry>
-   <title>MoMA post</title>
+   <title>post (The Museum of Modern Art)</title>
    <link href="http://localhost:4000/past/2013/03/25/post/"/>
    <updated>2013-03-25T00:00:00+01:00</updated>
    <id>http://localhost:4000/past/2013/03/25/post</id>
@@ -478,9 +478,9 @@ Museum of Modern Art&lt;/p&gt;
  
  <entry>
    <title>TRANSLATION ACTS</title>
-   <link href="http://localhost:4000/past/2013/03/20/translation-acts/"/>
+   <link href="http://localhost:4000/publication/2013/03/20/translation-acts/"/>
    <updated>2013-03-20T00:00:00+01:00</updated>
-   <id>http://localhost:4000/past/2013/03/20/translation-acts</id>
+   <id>http://localhost:4000/publication/2013/03/20/translation-acts</id>
    <content type="html">&lt;p&gt;Catalogue for the TRANSLATION ACTS project for The World Is Not Fair – Die Grosse Weltausstellung 2012 organized by the Institut für Raumexperimente.&lt;/p&gt;
 
 &lt;p&gt;Find out more &lt;a href=&quot;http://www.raumexperimente.net/programme.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -503,9 +503,9 @@ Tate Modern, Starr Auditorium&lt;/p&gt;
  
  <entry>
    <title>Not Not Like</title>
-   <link href="http://localhost:4000/past/2012/08/12/not-not-like/"/>
+   <link href="http://localhost:4000/publication/2012/08/12/not-not-like/"/>
    <updated>2012-08-12T00:00:00+02:00</updated>
-   <id>http://localhost:4000/past/2012/08/12/not-not-like</id>
+   <id>http://localhost:4000/publication/2012/08/12/not-not-like</id>
    <content type="html">&lt;p&gt;Published in &lt;a href=&quot;http://www.journalment.org/issue-3&quot;&gt;…ment, issue 3&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;What does it do?&lt;/strong&gt;&lt;br /&gt;
@@ -640,9 +640,9 @@ Salt.&lt;/p&gt;
  
  <entry>
    <title>A COMPACT VISUAL HISTORY</title>
-   <link href="http://localhost:4000/past/2011/11/01/compact-visual-history/"/>
+   <link href="http://localhost:4000/publication/2011/11/01/compact-visual-history/"/>
    <updated>2011-11-01T00:00:00+01:00</updated>
-   <id>http://localhost:4000/past/2011/11/01/compact-visual-history</id>
+   <id>http://localhost:4000/publication/2011/11/01/compact-visual-history</id>
    <content type="html">&lt;p&gt;&lt;em&gt;A COMPACT VISUAL HISTORY: Towards the relationship between interface&lt;/em&gt; and labor for &lt;em&gt;Volume Number 1: Factual Decoys&lt;/em&gt; by Triple Canopy for Artissima International Fair of Contemporary Art, Oval Lingotto Fiere, Turin, Italy.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://canopycanopycanopy.com/static/files/TripleCanopy-VolumeNumber1.pdf&quot;&gt;Download here&lt;/a&gt;.&lt;/p&gt;
@@ -753,9 +753,9 @@ aquí, pero ocuparía muchísimas páginas en este periódico!&lt;/p&gt;
  
  <entry>
    <title>Embarrassment 1 - Vulnerability</title>
-   <link href="http://localhost:4000/past/2010/12/20/embarrassment/"/>
+   <link href="http://localhost:4000/publication/2010/12/20/embarrassment/"/>
    <updated>2010-12-20T00:00:00+01:00</updated>
-   <id>http://localhost:4000/past/2010/12/20/embarrassment</id>
+   <id>http://localhost:4000/publication/2010/12/20/embarrassment</id>
    <content type="html">&lt;p&gt;For a group exhibition at &lt;a href=&quot;http://klowdenmann.com/&quot;&gt;Gallery Klowden Mann&lt;/a&gt;. With &lt;a href=&quot;https://en.wikipedia.org/wiki/Liz_Glynn&quot;&gt;Liz Glynn&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.gallerykmla.com/exhibitions/embarrassment-1-vulnerability.html&quot;&gt;More information here&lt;/a&gt;.&lt;/p&gt;
@@ -777,9 +777,9 @@ aquí, pero ocuparía muchísimas páginas en este periódico!&lt;/p&gt;
  
  <entry>
    <title>Unmarked Box on a Counter</title>
-   <link href="http://localhost:4000/past/2010/12/02/unmarked-box-on-a-counter/"/>
+   <link href="http://localhost:4000/publication/2010/12/02/unmarked-box-on-a-counter/"/>
    <updated>2010-12-02T00:00:00+01:00</updated>
-   <id>http://localhost:4000/past/2010/12/02/unmarked-box-on-a-counter</id>
+   <id>http://localhost:4000/publication/2010/12/02/unmarked-box-on-a-counter</id>
    <content type="html">&lt;p&gt;&lt;em&gt;Unmarked Box on a Counter&lt;/em&gt; by Jordan Crandall in conversation with Caleb Waldorf. Published in Issue 9 of Triple Canopy.&lt;/p&gt;
 
 &lt;p&gt;A genealogy of Blast, a “system of editorial circulation” published between 1991 and 1995. &lt;a href=&quot;http://canopycanopycanopy.com/9/unmarked_box_on_a_counter&quot;&gt;Read here&lt;/a&gt;.&lt;/p&gt;
@@ -828,9 +828,9 @@ aquí, pero ocuparía muchísimas páginas en este periódico!&lt;/p&gt;
  
  <entry>
    <title>learning from Tijuana</title>
-   <link href="http://localhost:4000/past/2009/11/05/learning-from-tijuana/"/>
+   <link href="http://localhost:4000/publication/2009/11/05/learning-from-tijuana/"/>
    <updated>2009-11-05T00:00:00+01:00</updated>
-   <id>http://localhost:4000/past/2009/11/05/learning-from-tijuana</id>
+   <id>http://localhost:4000/publication/2009/11/05/learning-from-tijuana</id>
    <content type="html">*learning from Tijuana* by Teddy Cruz in conversation with Caleb Waldorf. Published in Issue 7 of Triple Canopy.
 
 From the graveyards of corporate architecture to the informal settlements of Latin America. &lt;a href=&quot;http://canopycanopycanopy.com/7/learning_from_tijuana&quot;&gt;Read here&lt;/a&gt;.</content>
@@ -838,9 +838,9 @@ From the graveyards of corporate architecture to the informal settlements of Lat
  
  <entry>
    <title>Machine Project - A Field Guide to the Los Angeles County Museum</title>
-   <link href="http://localhost:4000/past/2009/06/25/field-guide-to-lacma/"/>
+   <link href="http://localhost:4000/publication/2009/06/25/field-guide-to-lacma/"/>
    <updated>2009-06-25T00:00:00+02:00</updated>
-   <id>http://localhost:4000/past/2009/06/25/field-guide-to-lacma</id>
+   <id>http://localhost:4000/publication/2009/06/25/field-guide-to-lacma</id>
    <content type="html">&lt;p&gt;&lt;em&gt;Machine Project: A Field Guide to the Los Angeles County Museum of Art&lt;/em&gt; exhibition at the Los Angeles County Museum of Art. Los Angeles, California, United States.  &lt;em&gt;Richard Serra Reading Room&lt;/em&gt; by The Public School.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://machineproject.com/files/pdf/MP0806_LACMA_Final.lo-res.pdf&quot;&gt;Download here&lt;/a&gt;.&lt;/p&gt;
@@ -849,9 +849,9 @@ From the graveyards of corporate architecture to the informal settlements of Lat
  
  <entry>
    <title>wiederholungszwang</title>
-   <link href="http://localhost:4000/past/2009/05/10/wiederholungszwang/"/>
+   <link href="http://localhost:4000/publication/2009/05/10/wiederholungszwang/"/>
    <updated>2009-05-10T00:00:00+02:00</updated>
-   <id>http://localhost:4000/past/2009/05/10/wiederholungszwang</id>
+   <id>http://localhost:4000/publication/2009/05/10/wiederholungszwang</id>
    <content type="html">&lt;p&gt;&lt;em&gt;wiederholungszwang&lt;/em&gt; by &lt;a href=&quot;http://www.gilblank.com/&quot;&gt;Gil Blank&lt;/a&gt; with Caleb Waldorf. Published in Issue 6 of Triple Canopy.&lt;/p&gt;
 
 &lt;p&gt;The trauma of lost histories and the joys of JPEGs. A webcam atop the highest hill in Portland, Maine, transports one public place to another, and another.&amp;lt;a “href=http://canopycanopycanopy.com/6/wiederholungszwang”&amp;gt;Read here&amp;lt;/a&amp;gt;.&lt;/p&gt;

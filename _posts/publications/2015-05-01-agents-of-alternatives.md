@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Agents of Alternatives – Re-designing Our Realities
-category: past
+category: publication
 ---
 
 Interview with Katharina Moebus and [The Public School Berlin](http://thepublicschool.org/berlin).

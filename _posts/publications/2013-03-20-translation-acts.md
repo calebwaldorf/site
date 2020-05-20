@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TRANSLATION ACTS
-category: past
+category: publication
 ---
 
 Catalogue for the TRANSLATION ACTS project for The World Is Not Fair – Die Grosse Weltausstellung 2012 organized by the Institut für Raumexperimente. 

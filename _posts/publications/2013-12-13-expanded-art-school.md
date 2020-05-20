@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GENİŞLETİLMİŞ SANAT OKULU (BİRLİKTE ÖĞRENMEK)/EXPANDED ART SCHOOL (LEARNING TOGETHER)
-category: past
+category: publication
 ---
 
 Download [here](/public/files/expanded_final_corrected2.pdf)
