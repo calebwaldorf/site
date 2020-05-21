@@ -67,6 +67,10 @@ Columns and Rows
   font-weight: bold;
 }
 
+.content ul li a.publication {
+  font-style: italic;
+}
+
 /*
 *
 Posts
