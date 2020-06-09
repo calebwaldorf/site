@@ -10,6 +10,6 @@ As output of the workshop participants decided to create a reader related to top
 
 The workshop was organized with [Fiona Geuß](http://www.fionageuss.net/) and [Sean Dockray](http://e-rat.org/).
 
-[Reader can be found here](http://aaaaarg.org/thing/53489813334fe0078b2164d4)
+[Reader can be found here](https://aaaaarg.fail/thing/53489813334fe0078b2164d4)
 
 
