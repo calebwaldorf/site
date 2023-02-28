@@ -1,38 +1,45 @@
----
-layout: default
-title: Home
----
+<!doctype html>
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ site.baseurl }}/{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The website of Caleb Waldorf.</title>
+  <meta name="description" content="The website of Caleb Waldorf.">
+  <meta name="author" content="Caleb Waldorf">
+  <meta property="og:title" content="The website of Caleb Waldorf.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://calebwaldorf.net">
+  <meta property="og:description" content="The website of Caleb Waldorf.">
+  <meta property="og:image" content="https://calebwaldorf.net">
+  <link rel="icon" href="public/favicon.ico">
+  <link rel="icon" href="public/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="public/apple-touch-icon.png">
+  <link rel="stylesheet" href="public/css/caleb-waldorf-home.css">
+  <script src="https://kit.fontawesome.com/af80606c34.js" crossorigin="anonymous"></script>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
+   <!-- Twitter Meta Tags -->
+   <meta name="twitter:card" content="summary_large_image">
+   <meta property="twitter:domain" content="https://calebwaldorf.net">
+   <meta property="twitter:url" content="https://calebwaldorf.net">
+   <meta name="twitter:title" content="The website of Caleb Waldorf.">
+   <meta name="twitter:description" content="The website of Caleb Waldorf.">
+   <meta name="twitter:image" content="https://calebwaldorf.net">
+</head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8LE5VHD5TX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
-
+  gtag('config', 'G-8LE5VHD5TX');
+</script>
+<body>
+  <section>
+  <h1 class="visually-hidden" id="the-website-of-caleb-waldorf">The website of Caleb Waldorf</h1>
+  <p><a href=mailto:thereisnothinglesspassive@gmail.com?subject=Hi%20Caleb>Get in touch.</a></p>
+</section>
+</body>
+<html
