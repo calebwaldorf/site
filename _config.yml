@@ -1,0 +1,31 @@
+# Permalinks
+#
+permalink:           pretty
+
+# Setup
+title:               Caleb Waldorf
+tagline:             The Website of Caleb Waldorf
+description:         The Website of Caleb Waldorf
+url:                 https://calebwaldorf.net/
+baseurl:             ''
+paginate:            100
+
+# About/contact
+author:
+  name:              Caleb Waldorf
+  url:               https://twitter.com/calebwaldorf
+  email:             thereisnothinglesspassive@gmail.com
+
+# Custom vars
+version:             1.0.0
+
+plugins: [jekyll-paginate]
+
+# Settings for analytics helper
+# Set 'provider' to the analytics provider you want to use.
+# Set 'provider' to false to turn analytics off globally.
+#        
+analytics:
+  provider: 		google
+  google: 
+    tracking_id: 	'G-8LE5VHD5TX'
