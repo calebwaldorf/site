@@ -2,9 +2,9 @@
 <feed xmlns="https://www.w3.org/2005/Atom">
 
  <title>Caleb Waldorf</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2023-03-07T15:02:52+01:00</updated>
+ <link href="http://localhost:4000/archive/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/archive/"/>
+ <updated>2023-03-07T15:10:06+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Caleb Waldorf</name>
@@ -16,7 +16,7 @@
    <title>Working on Our Thoughts</title>
    <link href="http://localhost:4000/publication/2019/12/12/working-on-our-thoughts/"/>
    <updated>2019-12-12T00:00:00+01:00</updated>
-   <id>http://localhost:4000/publication/2019/12/12/working-on-our-thoughts</id>
+   <id>http://localhost:4000/archive/publication/2019/12/12/working-on-our-thoughts</id>
    <content type="html">&lt;p&gt;An introduction to b-ber, a new framework for creating and circulating publications as websites, EPUBs, books, and other formats.&lt;/p&gt;
 
 &lt;p&gt;Read the essay &lt;a href=&quot;https://www.canopycanopycanopy.com/contents/working-on-our-thoughts&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -29,7 +29,7 @@
    <title>Version History @ ODD. Bucharest, Romania.</title>
    <link href="http://localhost:4000/talk/2018/10/26/odd-theory/"/>
    <updated>2018-10-26T00:00:00+02:00</updated>
-   <id>http://localhost:4000/talk/2018/10/26/odd-theory</id>
+   <id>http://localhost:4000/archive/talk/2018/10/26/odd-theory</id>
    <content type="html">&lt;h2 id=&quot;version-history&quot;&gt;Version History&lt;/h2&gt;
 
 &lt;p&gt;Earlier this year, Triple Canopy celebrated the tenth anniversary of its first issue, “The Medium Was Tedium.” In the ensuing ten years and twenty-five issues, the magazine has explored different conceptual frameworks and developed publishing systems that have operated with (and against) shiftings forms of contemporary networked cultural production, circulation, and reception. As a magazine, Triple Canopy is dedicated to sustained inquiry, careful reading and viewing, resisting and expanding the present. In “The Binder and the Server,” a memoir-manifesto published in 2010, we proclaimed our intention to “slow down the internet”; later, in recognition of the erosion of the line between “online” and “offline,” we pivoted to “slow down the world.” These aims have been reflected in our interfaces and organizational paradigms, which have encouraged prolonged, focused engagement, and extends to our collaborative methods with the contributors to the magazine. In his lecture at ODD, Caleb Waldorf, co-founder and creative director of Triple Canopy, will trace the past, present, and future of Triple Canopy’s approach to post-digital publishing as well as how the magazine is situated within a broader field of publication topologies.&lt;/p&gt;
@@ -54,7 +54,7 @@
    <title>On Resentment @ transmediale. Berlin, Germany</title>
    <link href="http://localhost:4000/talk/2018/02/03/on-resentment/"/>
    <updated>2018-02-03T00:00:00+01:00</updated>
-   <id>http://localhost:4000/talk/2018/02/03/on-resentment</id>
+   <id>http://localhost:4000/archive/talk/2018/02/03/on-resentment</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.canopycanopycanopy.com/&quot;&gt;Triple Canopy&lt;/a&gt; workshop organized as part of transmediale’s 2018 festival, &lt;a href=&quot;https://2018.pastwebsites.transmediale.de/&quot;&gt;face value&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Resentment is perhaps the predominant affect of today. Much has been made of it on the internet, both as an expression and an experience, even more so with respect to its fundamental role in the surge of right-wing populism in the US and Europe. This, however, may be an all too simplistic account, as it casts resentment as the province of straight white men—as well as an excessive, selfish, and irresponsible feeling to have and express. As part of Triple Canopy’s &lt;a href=&quot;https://www.canopycanopycanopy.com/issues/25&quot;&gt;25th issue&lt;/a&gt;, which will be on the topic of resentment, this workshop aims to address the following questions: Who has a right to be resentful? How is resentment stoked and policed, and how does it circulate among intimates and on larger scales? Can—or should—resentment be useful? How can it serve as a basis for describing a growing community, for cultivating a public? The session will involve an introduction to the topic, short statements by guest participants, readings, video excerpts, and open discussions.&lt;/p&gt;
@@ -69,7 +69,7 @@
    <title>Conflict Atlas: Geopolitics and Contingencies on the Malvinas-Falklands Archipelago @ Friends with Books @ Hamburger Bahnhof. Berlin, Germany.</title>
    <link href="http://localhost:4000/talk/2017/09/24/conflict-atlast/"/>
    <updated>2017-09-24T00:00:00+02:00</updated>
-   <id>http://localhost:4000/talk/2017/09/24/conflict-atlast</id>
+   <id>http://localhost:4000/archive/talk/2017/09/24/conflict-atlast</id>
    <content type="html">&lt;p&gt;I had a conversation with Jasmijn Visser for the book launch of her recently published &lt;a href=&quot;http://www.archivebooks.org/2017/03/16/conflict-atlasgeopolitics-and-contingencies-on-the-malvinas-falklands-archipelagojasmijn-visser/&quot;&gt;&lt;em&gt;Conflict Atlas: Geopolitics and Contingencies on the Malvinas-Falklands Archipelago&lt;/em&gt;&lt;/a&gt; (Archive Books, 2017) as part of the &lt;a href=&quot;http://www.friendswithbooks.org/&quot;&gt;Friends with Books&lt;/a&gt; fair at the Hamburger Bahnhof.&lt;/p&gt;
 </content>
  </entry>
@@ -78,7 +78,7 @@
    <title>The Publishing Sphere @ Haus der Kulturen der Welt. Berlin, Germany.</title>
    <link href="http://localhost:4000/talk/2017/06/13/publishing-sphere/"/>
    <updated>2017-06-13T00:00:00+02:00</updated>
-   <id>http://localhost:4000/talk/2017/06/13/publishing-sphere</id>
+   <id>http://localhost:4000/archive/talk/2017/06/13/publishing-sphere</id>
    <content type="html">&lt;p&gt;I participated in Radio Brouhaha program with Jan-Niklas Howe, moderated by Jamie Allen, as part of the &lt;a href=&quot;http://www.hkw.de/en/programm/projekte/2017/internationaler_literaturpreis_2017/publishing_sphere_1/publishing_sphere.php&quot;&gt;The Publishing Sphere – Ecosystems of Contemporary Literatures&lt;/a&gt; conference at the Haus der Kulturen der Welt. The Publishing Sphere was convened by Lionel Ruffel with Annette Gilbert in cooperation with Franziska Morlok (Fachhochschule Potsdam). Detailed program can be found &lt;a href=&quot;http://www.hkw.de/media/en/texte/pdf/2017_2/programm_2017/the_publishing_sphere_programm.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
@@ -87,7 +87,7 @@
    <title>PUBLIC LIBRARY @ Amerika-Gedenkbibliothek. Berlin, Germany.</title>
    <link href="http://localhost:4000/talk/2016/09/01/public-library/"/>
    <updated>2016-09-01T00:00:00+02:00</updated>
-   <id>http://localhost:4000/talk/2016/09/01/public-library</id>
+   <id>http://localhost:4000/archive/talk/2016/09/01/public-library</id>
    <content type="html">&lt;p&gt;I participated in a symposium as part of the project &lt;a href=&quot;http://www.publiclibrary.de/&quot;&gt;PUBLIC LIBRARY&lt;/a&gt; at the Amerika-Gedenkbibliothek. More information about the symposium can be found &lt;a href=&quot;http://www.publiclibrary.de/wp-content/uploads/2016/08/SYMPOSIUM_PUBLIC_LIBRARY.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
@@ -96,7 +96,7 @@
    <title>Los Lectores Re-Imaginan Su Biblioteca @ Casa del Lector. Madrid, Spain.</title>
    <link href="http://localhost:4000/talk/2016/06/08/readimagine/"/>
    <updated>2016-06-08T00:00:00+02:00</updated>
-   <id>http://localhost:4000/talk/2016/06/08/readimagine</id>
+   <id>http://localhost:4000/archive/talk/2016/06/08/readimagine</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://apubliclibrary.org&quot;&gt;A Public Library&lt;/a&gt; participated in &lt;a href=&quot;http://readmagine.org/&quot;&gt;Readmagine&lt;/a&gt;, a series of lectures and workshops that took place in Madrid, Spain. More information about the program can be found &lt;a href=&quot;http://readmagine.org/miercoles-8-de-junio/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
@@ -105,7 +105,7 @@
    <title>Recent</title>
    <link href="http://localhost:4000/feed/2016/02/15/projects-feed/"/>
    <updated>2016-02-15T00:00:00+01:00</updated>
-   <id>http://localhost:4000/feed/2016/02/15/projects-feed</id>
+   <id>http://localhost:4000/archive/feed/2016/02/15/projects-feed</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;Triple Canopy: &lt;a href=&quot;https://www.canopycanopycanopy.com/contents/high-treason/#title-page&quot;&gt;&lt;em&gt;High Treason&lt;/em&gt; by Juan Caloca&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Triple Canopy: &lt;a href=&quot;https://www.canopycanopycanopy.com/contents/my-god-has-another-name/#title-page&quot;&gt;&lt;em&gt;My God Has Another Name&lt;/em&gt; by Kameelah Janan Rasheed&lt;/a&gt;&lt;/li&gt;
@@ -201,7 +201,7 @@ by C. Spencer Yeh&lt;/a&gt;&lt;/li&gt;
    <title>UN|COMMONS @ Volksbühne at Rosa-Luxemburg Platz.</title>
    <link href="http://localhost:4000/talk/2015/10/22/uncommons/"/>
    <updated>2015-10-22T00:00:00+02:00</updated>
-   <id>http://localhost:4000/talk/2015/10/22/uncommons</id>
+   <id>http://localhost:4000/archive/talk/2015/10/22/uncommons</id>
    <content type="html">&lt;p&gt;I’ll be participating in the “SNOWDEN FILES FOR ALL?” workshop at the &lt;a href=&quot;http://berlinergazette.de/uncommons/&quot;&gt;UN COMMONS&lt;/a&gt; program.&lt;/p&gt;
 
 &lt;p&gt;Workshop on October 22+23, 10 a.m.–6 p.m. and on October 24, 10–12 a.m.&lt;br /&gt;
@@ -227,7 +227,7 @@ The Snowden revelations have caused a global debate. Yet, what does it mean to h
    <title>New website 2015</title>
    <link href="http://localhost:4000/misc/2015/10/05/new-site/"/>
    <updated>2015-10-05T00:00:00+02:00</updated>
-   <id>http://localhost:4000/misc/2015/10/05/new-site</id>
+   <id>http://localhost:4000/archive/misc/2015/10/05/new-site</id>
    <content type="html">&lt;p&gt;I just rebuild my website to run on &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub pages&lt;/a&gt; and &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. It still needs some work and much of my past content nees to be fleshed out, but should make things easier for future updates and ongoing maitenance.&lt;/p&gt;
 </content>
  </entry>
@@ -236,7 +236,7 @@ The Snowden revelations have caused a global debate. Yet, what does it mean to h
    <title>The Shock of Victory Symposium @ CCA. Glasgow, Scotland.</title>
    <link href="http://localhost:4000/talk/2015/09/25/TSOV/"/>
    <updated>2015-09-25T00:00:00+02:00</updated>
-   <id>http://localhost:4000/talk/2015/09/25/TSOV</id>
+   <id>http://localhost:4000/archive/talk/2015/09/25/TSOV</id>
    <content type="html">&lt;p&gt;25 September 2015&lt;br /&gt;
 CCA&lt;br /&gt;
 With In the Shadow of the Hand, Sacha Kahir, Latitudes, Angeliki Roussou, Caleb Waldorf, and WHW (What, How and For Whom?)&lt;/p&gt;
@@ -260,7 +260,7 @@ Funded by The University of Edinburgh’s Innovation Initiative Grant.&lt;/p&gt;
    <title>The Sacred Conspiracy @ Miss Read. Berlin, Germany.</title>
    <link href="http://localhost:4000/talk/2015/06/12/sacred-conspiracy/"/>
    <updated>2015-06-12T00:00:00+02:00</updated>
-   <id>http://localhost:4000/talk/2015/06/12/sacred-conspiracy</id>
+   <id>http://localhost:4000/archive/talk/2015/06/12/sacred-conspiracy</id>
    <content type="html">&lt;p&gt;12 June 2015 @ 20:00
 Miss Read at the ADK.&lt;/p&gt;
 
@@ -278,7 +278,7 @@ Miss Read at the ADK.&lt;/p&gt;
    <title>Agents of Alternatives – Re-designing Our Realities</title>
    <link href="http://localhost:4000/publication/2015/05/01/agents-of-alternatives/"/>
    <updated>2015-05-01T00:00:00+02:00</updated>
-   <id>http://localhost:4000/publication/2015/05/01/agents-of-alternatives</id>
+   <id>http://localhost:4000/archive/publication/2015/05/01/agents-of-alternatives</id>
    <content type="html">&lt;p&gt;Interview with Katharina Moebus and &lt;a href=&quot;http://thepublicschool.org/berlin&quot;&gt;The Public School Berlin&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;An independently published open book exploring the visions, actions, tools and impacts of change agents, thinkers and ‘happeners’ (those who make things happen!). It shows the creative processes and tools for designing positive societal transitions. These transitions are revealed by showing the new hybrid relationships being forged between alternative approaches to learning, living, making, socialising, thinking and working.&lt;/p&gt;
@@ -292,7 +292,7 @@ Miss Read at the ADK.&lt;/p&gt;
    <title>A Public Library</title>
    <link href="http://localhost:4000/past/2015/01/01/a-public-library/"/>
    <updated>2015-01-01T00:00:00+01:00</updated>
-   <id>http://localhost:4000/past/2015/01/01/a-public-library</id>
+   <id>http://localhost:4000/archive/past/2015/01/01/a-public-library</id>
    <content type="html">&lt;p&gt;A Public Library is not a public library. It is a space for conversations, presentations, the sharing of resources, and for collective reading, viewing, and learning. It hosts an ephemeral collection of publications and other materials, which will provide a foundation for, and expand along with, a series of public programs, workshops, and classes organized in conjunction with &lt;a href=&quot;http://berlin.thepublicschool.org&quot;&gt;The Public School Berlin&lt;/a&gt; as well as other collaborators.&lt;/p&gt;
 
 &lt;p&gt;From January through December 2015, A Public Library was located at the Bona-Peiser-Bibliothek in Berlin Kreuzberg.&lt;/p&gt;
@@ -307,7 +307,7 @@ Miss Read at the ADK.&lt;/p&gt;
    <title>Earthbound Knowledge-A Forum II @ HKW. Berlin, Germany.</title>
    <link href="http://localhost:4000/talk/2014/11/22/earthbound-knowledge/"/>
    <updated>2014-11-22T00:00:00+01:00</updated>
-   <id>http://localhost:4000/talk/2014/11/22/earthbound-knowledge</id>
+   <id>http://localhost:4000/archive/talk/2014/11/22/earthbound-knowledge</id>
    <content type="html">&lt;p&gt;22 Nov 2015 @ 11:00
 Café Global, HKW.&lt;/p&gt;
 
@@ -329,7 +329,7 @@ Café Global, HKW.&lt;/p&gt;
    <title>There is no now now</title>
    <link href="http://localhost:4000/past/2014/04/10/there-is-no-now-now/"/>
    <updated>2014-04-10T00:00:00+02:00</updated>
-   <id>http://localhost:4000/past/2014/04/10/there-is-no-now-now</id>
+   <id>http://localhost:4000/archive/past/2014/04/10/there-is-no-now-now</id>
    <content type="html">&lt;p&gt;We met on Saturday, March 15, 2014 for a spontaneous workshop at &lt;a href=&quot;http://www.gertrude.org.au/news&quot;&gt;Gertrude Contemporary&lt;/a&gt; in Melbourne, which assessed our (artists, writers, curators, academics, etc.) ongoing relationships with cultural institutions of varying scales. The focus was oriented towards how institutional frameworks impact and inform our practices in an ongoing manner, from the perspective of the day to day activities that comprise our work. The conversation departed from the opposition and the resistance mobilised against the Biennale of Sydney’s funding by Transfield and the subsequent repercussions, both known and speculative. The desire was to connect the situation taking place in this context to a broader set of concerns facing many who work within, and rely on, contemporary cultural infrastructures.&lt;/p&gt;
 
 &lt;p&gt;As output of the workshop participants decided to create a reader related to topics around corporate funding, alternative institutions, and the social impact of art. Over the course of one week, we collected the group’s contributions for seven chapters that emerged during our discussion. Without having a precise goal this collection could be followed by an annotated publication, be a starting point of a series of public events in different places, or serve as compilation for further discussions—in Melbourne and elsewhere.&lt;/p&gt;
@@ -345,7 +345,7 @@ Café Global, HKW.&lt;/p&gt;
    <title>Lunchtime Art Forum @ MADA. Melbourne, Australia.</title>
    <link href="http://localhost:4000/talk/2014/03/05/lunchtime-art-forum/"/>
    <updated>2014-03-05T00:00:00+01:00</updated>
-   <id>http://localhost:4000/talk/2014/03/05/lunchtime-art-forum</id>
+   <id>http://localhost:4000/archive/talk/2014/03/05/lunchtime-art-forum</id>
    <content type="html">&lt;p&gt;5 March @ 12.30pm
 Lecture Theatre G1.04, MADA Monash Art Design &amp;amp; Architecture
 900 Dandenong Road Caulfield East Victoria
@@ -357,7 +357,7 @@ Free entry / all welcome&lt;/p&gt;
    <title>GENİŞLETİLMİŞ SANAT OKULU (BİRLİKTE ÖĞRENMEK)/EXPANDED ART SCHOOL (LEARNING TOGETHER)</title>
    <link href="http://localhost:4000/publication/2013/12/13/expanded-art-school/"/>
    <updated>2013-12-13T00:00:00+01:00</updated>
-   <id>http://localhost:4000/publication/2013/12/13/expanded-art-school</id>
+   <id>http://localhost:4000/archive/publication/2013/12/13/expanded-art-school</id>
    <content type="html">&lt;p&gt;Download &lt;a href=&quot;/public/files/expanded_final_corrected2.pdf&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This book is the final outcome of a project entitled Expanded (art) School by Aslı Çetinkaya and Marina Sorbello, which was carried out between September 2011 and November 2012 as part of the Tandem Turkey, Cultural Managers Exchange Program, a scheme aiming at building long term partnerships among institutions in Turkey and the EU.&lt;/p&gt;
@@ -368,7 +368,7 @@ Free entry / all welcome&lt;/p&gt;
    <title>Third, fourth and fifth spaces-Curatorial practices in new public and social (digital) spaces @ Migros Museum fuer Gegenwartskunst. Zurich, Switzerland.</title>
    <link href="http://localhost:4000/talk/2013/11/08/third-fourth-fifth/"/>
    <updated>2013-11-08T00:00:00+01:00</updated>
-   <id>http://localhost:4000/talk/2013/11/08/third-fourth-fifth</id>
+   <id>http://localhost:4000/archive/talk/2013/11/08/third-fourth-fifth</id>
    <content type="html">&lt;p&gt;November, 8-9, 2013, Migros Museum fuer Gegenwartskunst, Zurich.&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -393,7 +393,7 @@ Free entry / all welcome&lt;/p&gt;
    <title>Neomaterialism book launch @ Archive Kabinet. Berlin, Germany.</title>
    <link href="http://localhost:4000/talk/2013/09/10/Neomaterialism/"/>
    <updated>2013-09-10T00:00:00+02:00</updated>
-   <id>http://localhost:4000/talk/2013/09/10/Neomaterialism</id>
+   <id>http://localhost:4000/archive/talk/2013/09/10/Neomaterialism</id>
    <content type="html">&lt;p&gt;10 Septebmer 2013 @ 19:30&lt;br /&gt;
 &lt;a href=&quot;http://www.archivekabinett.org&quot;&gt;Archive Kabinett&lt;/a&gt;&lt;/p&gt;
 
@@ -405,7 +405,7 @@ Free entry / all welcome&lt;/p&gt;
    <title>Overtime - A Public Hearing @ Tel Aviv Museum of Art. Tel Aviv, Israel.</title>
    <link href="http://localhost:4000/talk/2013/06/21/Overtime/"/>
    <updated>2013-06-21T00:00:00+02:00</updated>
-   <id>http://localhost:4000/talk/2013/06/21/Overtime</id>
+   <id>http://localhost:4000/archive/talk/2013/06/21/Overtime</id>
    <content type="html">&lt;p&gt;21 June 2013 @ 16:00&lt;br /&gt;
 Tel Aviv Museum of Art&lt;/p&gt;
 
@@ -433,7 +433,7 @@ Tel Aviv Museum of Art&lt;/p&gt;
    <title>The internet is not blue! @ MoMA. New York, USA.</title>
    <link href="http://localhost:4000/talk/2013/04/13/blue-internet/"/>
    <updated>2013-04-13T00:00:00+02:00</updated>
-   <id>http://localhost:4000/talk/2013/04/13/blue-internet</id>
+   <id>http://localhost:4000/archive/talk/2013/04/13/blue-internet</id>
    <content type="html">&lt;p&gt;13 April 2013&lt;br /&gt;
 Museum of Modern Art&lt;/p&gt;
 
@@ -445,7 +445,7 @@ Museum of Modern Art&lt;/p&gt;
    <title>Productive Behaviors @ Triple Canopy. New York, USA.</title>
    <link href="http://localhost:4000/talk/2013/03/25/productive-behaviors/"/>
    <updated>2013-03-25T00:00:00+01:00</updated>
-   <id>http://localhost:4000/talk/2013/03/25/productive-behaviors</id>
+   <id>http://localhost:4000/archive/talk/2013/03/25/productive-behaviors</id>
    <content type="html">&lt;p&gt;25 February 2013 @ 19:00&lt;br /&gt;
 155 Freeman Street&lt;/p&gt;
 
@@ -465,7 +465,7 @@ Museum of Modern Art&lt;/p&gt;
    <title>post (The Museum of Modern Art)</title>
    <link href="http://localhost:4000/past/2013/03/25/post/"/>
    <updated>2013-03-25T00:00:00+01:00</updated>
-   <id>http://localhost:4000/past/2013/03/25/post</id>
+   <id>http://localhost:4000/archive/past/2013/03/25/post</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;post&lt;/strong&gt; is a site for encounters between the established and experimental, the historical and emerging, the local and global, the scholarly and artistic. An online journal, archive, exhibition space, and open forum that takes advantage of the nonhierarchical nature of the Internet, &lt;strong&gt;post&lt;/strong&gt;  seeks to spark in-depth explorations of the ways in which modernism is being redefined. The site’s contents are intended to build nuanced understandings of the histories that shape the practices of artists and institutions today. As a networked platform, &lt;strong&gt;post&lt;/strong&gt;  aims to provide an alternative to the model of a unified art historical narrative.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;post&lt;/strong&gt; begins as the public face of C-MAP, a cross-departmental research program launched in 2009 to expand our reading of art history and, consequently, what we do at MoMA. The scope and methodologies of C-MAP research question the judgments that grow out of the assumption that artistic modernism is or was determined only by the Western European and North American narratives of early twentieth-century avant-gardes. The aim of C-MAP is to understand more fully the historical imperatives and changing conditions of transnational networks of artistic practice and to seek verbal and material accounts of histories that often have been little known outside their countries of origin.&lt;/p&gt;
@@ -480,7 +480,7 @@ Museum of Modern Art&lt;/p&gt;
    <title>TRANSLATION ACTS</title>
    <link href="http://localhost:4000/publication/2013/03/20/translation-acts/"/>
    <updated>2013-03-20T00:00:00+01:00</updated>
-   <id>http://localhost:4000/publication/2013/03/20/translation-acts</id>
+   <id>http://localhost:4000/archive/publication/2013/03/20/translation-acts</id>
    <content type="html">&lt;p&gt;Catalogue for the TRANSLATION ACTS project for The World Is Not Fair – Die Grosse Weltausstellung 2012 organized by the Institut für Raumexperimente.&lt;/p&gt;
 
 &lt;p&gt;Find out more &lt;a href=&quot;http://www.raumexperimente.net/programme.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -491,7 +491,7 @@ Museum of Modern Art&lt;/p&gt;
    <title>Alternative to What? @ Tate Modern. London, UK.</title>
    <link href="http://localhost:4000/talk/2012/12/03/alternative-to-what/"/>
    <updated>2012-12-03T00:00:00+01:00</updated>
-   <id>http://localhost:4000/talk/2012/12/03/alternative-to-what</id>
+   <id>http://localhost:4000/archive/talk/2012/12/03/alternative-to-what</id>
    <content type="html">&lt;p&gt;3 December 2012&lt;br /&gt;
 Tate Modern, Starr Auditorium&lt;/p&gt;
 
@@ -505,7 +505,7 @@ Tate Modern, Starr Auditorium&lt;/p&gt;
    <title>Not Not Like</title>
    <link href="http://localhost:4000/publication/2012/08/12/not-not-like/"/>
    <updated>2012-08-12T00:00:00+02:00</updated>
-   <id>http://localhost:4000/publication/2012/08/12/not-not-like</id>
+   <id>http://localhost:4000/archive/publication/2012/08/12/not-not-like</id>
    <content type="html">&lt;p&gt;Published in &lt;a href=&quot;http://www.journalment.org/issue-3&quot;&gt;…ment, issue 3&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;What does it do?&lt;/strong&gt;&lt;br /&gt;
@@ -519,7 +519,7 @@ Removes the Like button on Facebook.&lt;/p&gt;
    <title>TRANSLATION ACTS @ Tempelhofer Feld. Berlin, Germany</title>
    <link href="http://localhost:4000/talk/2012/06/23/translation-acts/"/>
    <updated>2012-06-23T00:00:00+02:00</updated>
-   <id>http://localhost:4000/talk/2012/06/23/translation-acts</id>
+   <id>http://localhost:4000/archive/talk/2012/06/23/translation-acts</id>
    <content type="html">&lt;p&gt;Organized by Eric Ellingsen, Matthias Friederich, Julian von Klier, Fotini Lazaridou-Hatzigoga, Yves Mettler, Christina Werner for &lt;em&gt;The World Is Not Fair – Die Grosse Weltausstellung 2012&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.raumexperimente.net/programme.html&quot;&gt;Institut für Raumexperimente&lt;/a&gt;&lt;/p&gt;
@@ -544,7 +544,7 @@ TempelhofSaturday, June 23, 2012&lt;/p&gt;
    <title>Art & Economy @ KW. Berlin, Germany.</title>
    <link href="http://localhost:4000/talk/2012/05/20/art-and-economy/"/>
    <updated>2012-05-20T00:00:00+02:00</updated>
-   <id>http://localhost:4000/talk/2012/05/20/art-and-economy</id>
+   <id>http://localhost:4000/archive/talk/2012/05/20/art-and-economy</id>
    <content type="html">&lt;p&gt;20 May 2012 @ 19:00&lt;br /&gt;
 KW ArtWiki Room&lt;/p&gt;
 
@@ -560,7 +560,7 @@ of auratic originals to the heterogenic strategies of applied arts, speculatory 
    <title>Fragment (on Authorship) @ Archive Kabinett. Berlin, Germany.</title>
    <link href="http://localhost:4000/talk/2012/04/29/fragment/"/>
    <updated>2012-04-29T00:00:00+02:00</updated>
-   <id>http://localhost:4000/talk/2012/04/29/fragment</id>
+   <id>http://localhost:4000/archive/talk/2012/04/29/fragment</id>
    <content type="html">&lt;p&gt;29 April 29 @ 2012.&lt;br /&gt;
 Archive Kabinett&lt;/p&gt;
 
@@ -572,7 +572,7 @@ Archive Kabinett&lt;/p&gt;
    <title>Learning Together - Collectives, Open Structures and Self-Organization @ Cezayir Büyük Salon. Istanbul, Turkey.</title>
    <link href="http://localhost:4000/talk/2012/03/20/learning-together/"/>
    <updated>2012-03-20T00:00:00+01:00</updated>
-   <id>http://localhost:4000/talk/2012/03/20/learning-together</id>
+   <id>http://localhost:4000/archive/talk/2012/03/20/learning-together</id>
    <content type="html">&lt;p&gt;A two-day program focusing on alternative forms of knowledge production and sharing aims to bring together people who have experience or interest in the topics either in institutional settings or through independent platforms and collectives. Potentials of collaborative approach, in educational alternative organizations and in art practices, seem to emerge as a common thread for the presentations and talks. The meetings that will be held during the workshop and the conference aim to open up discussions about art education and invite to imagine other forms of learning initiatives and ways of self-organization.&lt;/p&gt;
 
 &lt;p&gt;The panel discussion and workshop are organized as part of Expanded(art)School project developed together by Aslı Çetinkaya (ortak müfredat - Istanbul) and Marina Sorbello (uqbar – Berlin) as partners of the Tandem Turkey – Cultural Managers Exchange Program.&lt;/p&gt;
@@ -610,7 +610,7 @@ Panel discussion with all participants, Q&amp;amp;A session&lt;/p&gt;
    <title>Interface & Labor @ Salt. Istanbul, Turkey.</title>
    <link href="http://localhost:4000/talk/2012/03/15/interface-labor/"/>
    <updated>2012-03-15T00:00:00+01:00</updated>
-   <id>http://localhost:4000/talk/2012/03/15/interface-labor</id>
+   <id>http://localhost:4000/archive/talk/2012/03/15/interface-labor</id>
    <content type="html">&lt;p&gt;15-16 March 2012.
 Salt.&lt;/p&gt;
 
@@ -633,7 +633,7 @@ Salt.&lt;/p&gt;
    <title>TPSHU @ HU. Berlin, Germany</title>
    <link href="http://localhost:4000/talk/2011/12/01/TPSHU/"/>
    <updated>2011-12-01T00:00:00+01:00</updated>
-   <id>http://localhost:4000/talk/2011/12/01/TPSHU</id>
+   <id>http://localhost:4000/archive/talk/2011/12/01/TPSHU</id>
    <content type="html">&lt;p&gt;TPSHU at Humboldt-Universität zu Berlin in Berlin, Germany.&lt;/p&gt;
 </content>
  </entry>
@@ -642,7 +642,7 @@ Salt.&lt;/p&gt;
    <title>A COMPACT VISUAL HISTORY</title>
    <link href="http://localhost:4000/publication/2011/11/01/compact-visual-history/"/>
    <updated>2011-11-01T00:00:00+01:00</updated>
-   <id>http://localhost:4000/publication/2011/11/01/compact-visual-history</id>
+   <id>http://localhost:4000/archive/publication/2011/11/01/compact-visual-history</id>
    <content type="html">&lt;p&gt;&lt;em&gt;A COMPACT VISUAL HISTORY: Towards the relationship between interface&lt;/em&gt; and labor for &lt;em&gt;Volume Number 1: Factual Decoys&lt;/em&gt; by Triple Canopy for Artissima International Fair of Contemporary Art, Oval Lingotto Fiere, Turin, Italy.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://canopycanopycanopy.com/static/files/TripleCanopy-VolumeNumber1.pdf&quot;&gt;Download here&lt;/a&gt;.&lt;/p&gt;
@@ -655,7 +655,7 @@ Salt.&lt;/p&gt;
    <title>Forex</title>
    <link href="http://localhost:4000/past/2011/10/05/forex/"/>
    <updated>2011-10-05T00:00:00+02:00</updated>
-   <id>http://localhost:4000/past/2011/10/05/forex</id>
+   <id>http://localhost:4000/archive/past/2011/10/05/forex</id>
    <content type="html">&lt;p&gt;Brown Gallery. London, England.&lt;/p&gt;
 
 &lt;p&gt;Evading Customs, an exhibition of economy and strategy, brings together a selection of works fabricated via instructions from sixteen artists who live and work outside the United Kingdom. Fifty artists were asked to contribute projects, a selection of which were then realized; the only limitation given was that each work be constructed by the curators, gallery staff, or other artists, on-site and at minimal expense. This premise is both commonplace—as artists often rely on others to install or produce works in their absence—and practical, since it effectively eliminates the shipping component of this exhibition. It allowed us to present ambitious works by artists we might not be able to afford to show in the UK otherwise; it also meant these same artists had the opportunity to make works specific to London, to address concepts of exchange, or to explore ideas that diverged greatly from their usual body of work.&lt;/p&gt;
@@ -700,7 +700,7 @@ Salt.&lt;/p&gt;
    <title>A Public School</title>
    <link href="http://localhost:4000/past/2011/09/01/a-public-school/"/>
    <updated>2011-09-01T00:00:00+02:00</updated>
-   <id>http://localhost:4000/past/2011/09/01/a-public-school</id>
+   <id>http://localhost:4000/archive/past/2011/09/01/a-public-school</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;/public/files/APS-newspaper-final.pdf&quot;&gt;Download newspaper here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -727,7 +727,7 @@ aquí, pero ocuparía muchísimas páginas en este periódico!&lt;/p&gt;
    <title>What is...? @ Museo de Antioquia. Medellín, Colombia.</title>
    <link href="http://localhost:4000/talk/2011/08/10/what-is/"/>
    <updated>2011-08-10T00:00:00+02:00</updated>
-   <id>http://localhost:4000/talk/2011/08/10/what-is</id>
+   <id>http://localhost:4000/archive/talk/2011/08/10/what-is</id>
    <content type="html">&lt;p&gt;As part of &lt;a href=&quot;http://mde11.org&quot;&gt;MDE11&lt;/a&gt; at Museo de Antioquia, Medellín, Colombia with &lt;a href=&quot;http://spd.e-rat.org&quot;&gt;Sean Dockray&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
@@ -736,7 +736,7 @@ aquí, pero ocuparía muchísimas páginas en este periódico!&lt;/p&gt;
    <title>Voice - Critical Pedagogy and Public Practice @ Otis. Los Angeles, USA.</title>
    <link href="http://localhost:4000/talk/2011/03/20/voice/"/>
    <updated>2011-03-20T00:00:00+01:00</updated>
-   <id>http://localhost:4000/talk/2011/03/20/voice</id>
+   <id>http://localhost:4000/archive/talk/2011/03/20/voice</id>
    <content type="html">&lt;p&gt;Graduate Public Practice presents a weekend of events that continue the “Concentric Conversations” series of dialogic events offered to encourage discourse among L.A. cultural practitioners. On Friday night, Un/Common Projects: Critical Pedagogy, Public Practice, and the Reimagining of Voice in Neoliberal Times, is a presentation by Christopher Robbins, Associate Professor of Social Foundations at Eastern Michigan University, followed by a q&amp;amp;a with artist Chris Johnson.&lt;/p&gt;
 
 &lt;p&gt;Roof is on Fire Presentation by Chair Suzanne Lacy with artists Chris Johnson and Unique Holland&lt;/p&gt;
@@ -755,7 +755,7 @@ aquí, pero ocuparía muchísimas páginas en este periódico!&lt;/p&gt;
    <title>Embarrassment 1 - Vulnerability</title>
    <link href="http://localhost:4000/publication/2010/12/20/embarrassment/"/>
    <updated>2010-12-20T00:00:00+01:00</updated>
-   <id>http://localhost:4000/publication/2010/12/20/embarrassment</id>
+   <id>http://localhost:4000/archive/publication/2010/12/20/embarrassment</id>
    <content type="html">&lt;p&gt;For a group exhibition at &lt;a href=&quot;http://klowdenmann.com/&quot;&gt;Gallery Klowden Mann&lt;/a&gt;. With &lt;a href=&quot;https://en.wikipedia.org/wiki/Liz_Glynn&quot;&gt;Liz Glynn&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.gallerykmla.com/exhibitions/embarrassment-1-vulnerability.html&quot;&gt;More information here&lt;/a&gt;.&lt;/p&gt;
@@ -766,7 +766,7 @@ aquí, pero ocuparía muchísimas páginas en este periódico!&lt;/p&gt;
    <title>There is Nothing Less Passive than the Act of Fleeing</title>
    <link href="http://localhost:4000/past/2010/12/15/there-is-nothing-less-passive/"/>
    <updated>2010-12-15T00:00:00+01:00</updated>
-   <id>http://localhost:4000/past/2010/12/15/there-is-nothing-less-passive</id>
+   <id>http://localhost:4000/archive/past/2010/12/15/there-is-nothing-less-passive</id>
    <content type="html">&lt;p&gt;&lt;em&gt;There is Nothing Less Passive than the Act of Fleeing&lt;/em&gt; by &lt;a href=&quot;http://e-rat.org/&quot;&gt;Sean Dockray&lt;/a&gt;, Jason Smith and &lt;a href=&quot;http://matteopasquinelli.com/&quot;&gt;Matteo Pasquinelli&lt;/a&gt; and Caleb Waldorf. Published in &lt;a href=&quot;https://web.archive.org/web/20170523052416/http://journalment.org/article/there-nothing-less-passive-act-fleeing&quot;&gt;Issue 1 of …ment&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;What follows is a condensed and edited version of a text for a panel that was presented at UCIRA’s “Future Tense: Alternative Arts and Economies in the University” conference held in San Diego, California on November 18, 2010. The panel shared the same name as a 13-day itinerant seminar in Berlin organized by Dockray, Waldorf, and Fiona Whitton earlier that year, in July. The seminar began with an excerpt from Tiqqun’s Introduction to Civil War, which was co-translated into English by Smith; and later read a chapter from Pasquinelli’s Animal Spirits: A Bestiary of the Commons. Both authors have also participated in meetings at The Public School in Los Angeles and Berlin.Both the panel and the seminar developed out of longer conversations at The Public School in Los Angeles, which began in late 2007 under Telic Arts Exchange. The Public School is a school with no curriculum, where classes are proposed and organized by the public.&lt;/p&gt;
@@ -779,7 +779,7 @@ aquí, pero ocuparía muchísimas páginas en este periódico!&lt;/p&gt;
    <title>Unmarked Box on a Counter</title>
    <link href="http://localhost:4000/publication/2010/12/02/unmarked-box-on-a-counter/"/>
    <updated>2010-12-02T00:00:00+01:00</updated>
-   <id>http://localhost:4000/publication/2010/12/02/unmarked-box-on-a-counter</id>
+   <id>http://localhost:4000/archive/publication/2010/12/02/unmarked-box-on-a-counter</id>
    <content type="html">&lt;p&gt;&lt;em&gt;Unmarked Box on a Counter&lt;/em&gt; by Jordan Crandall in conversation with Caleb Waldorf. Published in Issue 9 of Triple Canopy.&lt;/p&gt;
 
 &lt;p&gt;A genealogy of Blast, a “system of editorial circulation” published between 1991 and 1995. &lt;a href=&quot;http://canopycanopycanopy.com/9/unmarked_box_on_a_counter&quot;&gt;Read here&lt;/a&gt;.&lt;/p&gt;
@@ -790,7 +790,7 @@ aquí, pero ocuparía muchísimas páginas en este periódico!&lt;/p&gt;
    <title>Print & Demand 2 @ P.S.1. New York, USA.</title>
    <link href="http://localhost:4000/talk/2010/11/07/print-and-demand/"/>
    <updated>2010-11-07T00:00:00+01:00</updated>
-   <id>http://localhost:4000/talk/2010/11/07/print-and-demand</id>
+   <id>http://localhost:4000/archive/talk/2010/11/07/print-and-demand</id>
    <content type="html">&lt;p&gt;On November 7, Triple Canopy presented Print &amp;amp; Demand #2, the second in an ongoing series of conversations exploring how print culture is being changed by the manifold forms of online publication and how public spaces are being constituted around those forms. The discussion, which took place at The NY Art Book Fair at MoMA PS1, included James Goggin, Jiminie Ha, and Rob Giampietro, and was moderated by Triple Canopy creative director Caleb Waldorf. It focused on the role played by design in shaping digital forms of publication: How are certain tropes of print publication—and the reading and viewing experiences they have engendered—being translated for new media (while others are being jettisoned entirely)? How has the shift from graphic design to user design, with its focus on interaction and interface, changed the way publications function?&lt;/p&gt;
 </content>
  </entry>
@@ -799,7 +799,7 @@ aquí, pero ocuparía muchísimas páginas en este periódico!&lt;/p&gt;
    <title>Arrangement 2.0</title>
    <link href="http://localhost:4000/past/2010/10/25/arrangements/"/>
    <updated>2010-10-25T00:00:00+02:00</updated>
-   <id>http://localhost:4000/past/2010/10/25/arrangements</id>
+   <id>http://localhost:4000/archive/past/2010/10/25/arrangements</id>
    <content type="html">&lt;p&gt;Arrangement 2.0 for the exhibition &lt;a href=&quot;http://www.berlinartlink.com/2010/11/05/des-chapitres-du-conflit/&quot;&gt;Des Chapitres Du Conflit&lt;/a&gt; curated by Collasus in Berlin, Germany.&lt;/p&gt;
 
 &lt;p&gt;Find out more &lt;a href=&quot;http://calebwaldorf.net/posts/des-chapitres-du-conflit/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+cw+%28website+of+caleb+waldorf%29&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -810,7 +810,7 @@ aquí, pero ocuparía muchísimas páginas en este periódico!&lt;/p&gt;
    <title>Labyrinths and Rings @ Ptarmigan. Helsinki, Finland.</title>
    <link href="http://localhost:4000/talk/2010/08/10/labyrinths-rings/"/>
    <updated>2010-08-10T00:00:00+02:00</updated>
-   <id>http://localhost:4000/talk/2010/08/10/labyrinths-rings</id>
+   <id>http://localhost:4000/archive/talk/2010/08/10/labyrinths-rings</id>
    <content type="html">&lt;p&gt;Ptarmigan’s Labyrinths and Rings series continues in August with Giles Bailey and Caleb Waldorf, presenting at Labyrinths and Rings on the 11th and both performing at Ptarmigan on the 12th.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.ptarmigan.ee/events/labyrinths-and-rings-giles-bailey-and-caleb-waldorf&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
@@ -821,7 +821,7 @@ aquí, pero ocuparía muchísimas páginas en este periódico!&lt;/p&gt;
    <title>Sender, Carrier, Receiver @ Program. Berlin, Germany.</title>
    <link href="http://localhost:4000/talk/2010/07/20/sender/"/>
    <updated>2010-07-20T00:00:00+02:00</updated>
-   <id>http://localhost:4000/talk/2010/07/20/sender</id>
+   <id>http://localhost:4000/archive/talk/2010/07/20/sender</id>
    <content type="html">&lt;p&gt;Sender, Carrier, Receiver organized by Triple Canopy. Six events held in conjunction with Program Gallery in Berlin, Germany.&lt;/p&gt;
 </content>
  </entry>
@@ -830,7 +830,7 @@ aquí, pero ocuparía muchísimas páginas en este periódico!&lt;/p&gt;
    <title>learning from Tijuana</title>
    <link href="http://localhost:4000/publication/2009/11/05/learning-from-tijuana/"/>
    <updated>2009-11-05T00:00:00+01:00</updated>
-   <id>http://localhost:4000/publication/2009/11/05/learning-from-tijuana</id>
+   <id>http://localhost:4000/archive/publication/2009/11/05/learning-from-tijuana</id>
    <content type="html">*learning from Tijuana* by Teddy Cruz in conversation with Caleb Waldorf. Published in Issue 7 of Triple Canopy.
 
 From the graveyards of corporate architecture to the informal settlements of Latin America. &lt;a href=&quot;http://canopycanopycanopy.com/7/learning_from_tijuana&quot;&gt;Read here&lt;/a&gt;.</content>
@@ -840,7 +840,7 @@ From the graveyards of corporate architecture to the informal settlements of Lat
    <title>Machine Project - A Field Guide to the Los Angeles County Museum</title>
    <link href="http://localhost:4000/publication/2009/06/25/field-guide-to-lacma/"/>
    <updated>2009-06-25T00:00:00+02:00</updated>
-   <id>http://localhost:4000/publication/2009/06/25/field-guide-to-lacma</id>
+   <id>http://localhost:4000/archive/publication/2009/06/25/field-guide-to-lacma</id>
    <content type="html">&lt;p&gt;&lt;em&gt;Machine Project: A Field Guide to the Los Angeles County Museum of Art&lt;/em&gt; exhibition at the Los Angeles County Museum of Art. Los Angeles, California, United States.  &lt;em&gt;Richard Serra Reading Room&lt;/em&gt; by The Public School.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://machineproject.com/files/pdf/MP0806_LACMA_Final.lo-res.pdf&quot;&gt;Download here&lt;/a&gt;.&lt;/p&gt;
@@ -851,7 +851,7 @@ From the graveyards of corporate architecture to the informal settlements of Lat
    <title>wiederholungszwang</title>
    <link href="http://localhost:4000/publication/2009/05/10/wiederholungszwang/"/>
    <updated>2009-05-10T00:00:00+02:00</updated>
-   <id>http://localhost:4000/publication/2009/05/10/wiederholungszwang</id>
+   <id>http://localhost:4000/archive/publication/2009/05/10/wiederholungszwang</id>
    <content type="html">&lt;p&gt;&lt;em&gt;wiederholungszwang&lt;/em&gt; by &lt;a href=&quot;http://www.gilblank.com/&quot;&gt;Gil Blank&lt;/a&gt; with Caleb Waldorf. Published in Issue 6 of Triple Canopy.&lt;/p&gt;
 
 &lt;p&gt;The trauma of lost histories and the joys of JPEGs. A webcam atop the highest hill in Portland, Maine, transports one public place to another, and another.&amp;lt;a “href=http://canopycanopycanopy.com/6/wiederholungszwang”&amp;gt;Read here&amp;lt;/a&amp;gt;.&lt;/p&gt;
@@ -862,7 +862,7 @@ From the graveyards of corporate architecture to the informal settlements of Lat
    <title>Version</title>
    <link href="http://localhost:4000/past/2009/03/01/version/"/>
    <updated>2009-03-01T00:00:00+01:00</updated>
-   <id>http://localhost:4000/past/2009/03/01/version</id>
+   <id>http://localhost:4000/archive/past/2009/03/01/version</id>
    <content type="html">&lt;p&gt;Version is an online journal for short-form writing and media work. It presents scenes, incidents, encounters, and sensory experiences drawn from everyday life, in which concepts are not only elaborated but enacted.&lt;/p&gt;
 
 &lt;p&gt;Version works in close-up, cultivating moods, atmospheres, and various forms of bodily apprehension and awareness. It aims for a quality of intimacy, presence, and affective charge: a material openness to unexpected forms of encounter. At the same time, it works laterally, conducting transversal operations across object-boundaries, attuned to the rhythms, flows, and layered ecologies that constitute the phenomenal world.&lt;/p&gt;
@@ -875,7 +875,7 @@ From the graveyards of corporate architecture to the informal settlements of Lat
    <title>Occupy Everything</title>
    <link href="http://localhost:4000/past/2009/01/01/occupy-everything/"/>
    <updated>2009-01-01T00:00:00+01:00</updated>
-   <id>http://localhost:4000/past/2009/01/01/occupy-everything</id>
+   <id>http://localhost:4000/archive/past/2009/01/01/occupy-everything</id>
    <content type="html">&lt;p&gt;Occupy Everything [and/or Evacuate] is an editorial collective established in 2009 as “Occupy Everything” (OE) to produce an online platform for militant research, critical pedagogy, feminism, media interventions, dissent and prefigurative action. It’s also a place for collecting resources.&lt;/p&gt;
 
 &lt;p&gt;Find out more &lt;a href=&quot;http://occupyeverything.org/about/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -886,7 +886,7 @@ From the graveyards of corporate architecture to the informal settlements of Lat
    <title>I love you ...but do you know what love really means?</title>
    <link href="http://localhost:4000/past/2008/12/25/i-love-you/"/>
    <updated>2008-12-25T00:00:00+01:00</updated>
-   <id>http://localhost:4000/past/2008/12/25/i-love-you</id>
+   <id>http://localhost:4000/archive/past/2008/12/25/i-love-you</id>
    <content type="html">&lt;p&gt;&lt;em&gt;I love you […but do you know what love really means?]&lt;/em&gt; for the group exhibition* I Love You [rev.eng]*, Museum of Contemporary Art Novi Sad, Serbia.&lt;/p&gt;
 
 &lt;p&gt;Previously shown at &lt;a href=&quot;http://infopeace.org/ppn/&quot;&gt;i love you [rev.eng]&lt;/a&gt; at the Watson Institute for International Studies.&lt;/p&gt;
@@ -897,7 +897,7 @@ From the graveyards of corporate architecture to the informal settlements of Lat
    <title><strike>The Public School</strike></title>
    <link href="http://localhost:4000/current-projects/2008/06/01/the-public-school/"/>
    <updated>2008-06-01T00:00:00+02:00</updated>
-   <id>http://localhost:4000/current-projects/2008/06/01/the-public-school</id>
+   <id>http://localhost:4000/archive/current-projects/2008/06/01/the-public-school</id>
    <content type="html">&lt;p&gt;In 2007, The Public School was initiated in Los Angeles in the basement of &lt;a href=&quot;http://telic.info&quot;&gt;Telic Arts Exchange&lt;/a&gt;. The Public School is a school with no curriculum. It is not accredited, it does not give out degrees, and it has no affiliation with the public school system. It is a framework that supports autodidactic activities, operating under the assumption that everything is in everything.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://thepublicschool.org&quot;&gt;Find out more&lt;/a&gt;.&lt;/p&gt;
@@ -908,7 +908,7 @@ From the graveyards of corporate architecture to the informal settlements of Lat
    <title>Tower 4</title>
    <link href="http://localhost:4000/past/2007/12/01/tower-4/"/>
    <updated>2007-12-01T00:00:00+01:00</updated>
-   <id>http://localhost:4000/past/2007/12/01/tower-4</id>
+   <id>http://localhost:4000/archive/past/2007/12/01/tower-4</id>
    <content type="html">&lt;p&gt;&lt;em&gt;Tower #4&lt;/em&gt; for the group exhibition &lt;em&gt;MFA07 @ The Egyptian&lt;/em&gt;, University Art Gallery, University of California, San Diego, United States.&lt;/p&gt;
 </content>
  </entry>
@@ -917,7 +917,7 @@ From the graveyards of corporate architecture to the informal settlements of Lat
    <title>PALMS</title>
    <link href="http://localhost:4000/past/2007/12/01/palms/"/>
    <updated>2007-12-01T00:00:00+01:00</updated>
-   <id>http://localhost:4000/past/2007/12/01/palms</id>
+   <id>http://localhost:4000/archive/past/2007/12/01/palms</id>
    <content type="html">&lt;p&gt;&lt;em&gt;PALMS&lt;/em&gt; solo exhibition at the Marcuse Gallery, University of California, San Diego, United States.&lt;/p&gt;
 </content>
  </entry>
@@ -926,7 +926,7 @@ From the graveyards of corporate architecture to the informal settlements of Lat
    <title>Triple Canopy</title>
    <link href="http://localhost:4000/current-projects/2007/11/01/triple-canopy/"/>
    <updated>2007-11-01T00:00:00+01:00</updated>
-   <id>http://localhost:4000/current-projects/2007/11/01/triple-canopy</id>
+   <id>http://localhost:4000/archive/current-projects/2007/11/01/triple-canopy</id>
    <content type="html">&lt;p&gt;Triple Canopy is a magazine based in New York. Since 2007, Triple Canopy has advanced a model for publication that encompasses digital works of art and literature, public conversations, exhibitions, and books. This model hinges on the development of publishing systems that incorporate networked forms of production and circulation. Working closely with artists, writers, technologists, and designers, Triple Canopy produces projects that demand considered reading and viewing. Triple Canopy resists the atomization of culture and, through sustained inquiry and creative research, strives to enrich the public sphere. Triple Canopy is a nonprofit 501(c)3 organization and a member of Common Practice New York.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://canopycanopycanopy.com&quot;&gt;Find out more&lt;/a&gt;.&lt;/p&gt;
@@ -937,7 +937,7 @@ From the graveyards of corporate architecture to the informal settlements of Lat
    <title>Codes of Suspicion</title>
    <link href="http://localhost:4000/past/2007/05/01/codes-of-suspicion/"/>
    <updated>2007-05-01T00:00:00+02:00</updated>
-   <id>http://localhost:4000/past/2007/05/01/codes-of-suspicion</id>
+   <id>http://localhost:4000/archive/past/2007/05/01/codes-of-suspicion</id>
    <content type="html">&lt;p&gt;&lt;em&gt;Codes of Suspicion&lt;/em&gt; solo exhibition at the Marcuse Gallery, University of California, San Diego, United States.&lt;/p&gt;
 </content>
  </entry>
@@ -946,7 +946,7 @@ From the graveyards of corporate architecture to the informal settlements of Lat
    <title>Tourism</title>
    <link href="http://localhost:4000/past/2006/11/01/tourism/"/>
    <updated>2006-11-01T00:00:00+01:00</updated>
-   <id>http://localhost:4000/past/2006/11/01/tourism</id>
+   <id>http://localhost:4000/archive/past/2006/11/01/tourism</id>
    <content type="html">
 </content>
  </entry>
@@ -955,7 +955,7 @@ From the graveyards of corporate architecture to the informal settlements of Lat
    <title>UnderFire 3</title>
    <link href="http://localhost:4000/past/2006/10/01/underfire-3/"/>
    <updated>2006-10-01T00:00:00+02:00</updated>
-   <id>http://localhost:4000/past/2006/10/01/underfire-3</id>
+   <id>http://localhost:4000/archive/past/2006/10/01/underfire-3</id>
    <content type="html">&lt;p&gt;UnderFire 3 for the biennial &lt;em&gt;BIACS2, International Biennial of Contemporary Art&lt;/em&gt;, Seville, Spain. Co-organizer with Jordan Crandall.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://jordancrandall.com/main/+UNDERFIRE/site/files/underfire.html&quot;&gt;Website&lt;/a&gt;.&lt;/p&gt;
@@ -981,7 +981,7 @@ terms of the repetitive, embodied internalization of expressive acts, or symboli
    <title>Infopeace</title>
    <link href="http://localhost:4000/past/2003/12/01/infopeace/"/>
    <updated>2003-12-01T00:00:00+01:00</updated>
-   <id>http://localhost:4000/past/2003/12/01/infopeace</id>
+   <id>http://localhost:4000/archive/past/2003/12/01/infopeace</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Strategy&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;The Information Technology, War and Peace Project, established with support from the Ford Foundation, tracks the effects of Information Technology (IT) on traditional statecraft and new forms of networked global politics. InfoTechWarPeace supports and seeks to extend networks of knowledge and authority that are working to anticipate, analyze and mediate conflicts enabled by global terror, hate media, information warfare, and other bellicose uses of information technology.&lt;/p&gt;
