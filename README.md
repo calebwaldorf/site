@@ -1,3 +1,3 @@
 # About
 
-The personal website of Caleb Waldorf.
+This is the repository for [the website of Caleb Waldorf](https://calebwaldorf.net).
