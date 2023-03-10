@@ -30,6 +30,7 @@
 }
 
  /* https://www.theleagueofmoveabletype.com/league-spartan */
+ 
  @font-face {
   font-family: Spartan;
   src: url(fonts/LeagueSpartan-VF.ttf);
@@ -105,28 +106,23 @@ a {
 
 a:hover {
   color: var(--pink);
-  outline: none;
-  
+  outline: none; 
 }
 
 a.footnote {
   cursor: pointer;
   border-bottom: none;
- }
+}
 
  a.footnote:hover {
-   color:var(--black)
- }
+  color:var(--black)
+}
 
  a.background-link-color {
   background-color: var(--black);
   color:var(--white);
   text-decoration: none;
- }
-/*a:after {
-  border-bottom: 1px solid black;
-  content:"";
-}*/
+}
 
 /* Footnotes */
 
@@ -136,7 +132,7 @@ a.footnote {
   color: inherit; 
   cursor: default; 
   outline: none; 
- }
+}
 
 [aria-describedby="footnote-label"]::after {
   content: '|' counter(footnotes) '|'; 
@@ -150,14 +146,11 @@ a.footnote {
   font-size: clamp(.5rem, 1.5vw, .75rem);
   letter-spacing: 0.05em;
   font-variation-settings: "wght" 600;
- }
+}
 
  [aria-describedby="footnote-label"]:hover:after {
   color:var(--pink);
   transition: color .2s ease-in-out;
- }
-
-footer {
 }
 
 footer ol {
@@ -183,15 +176,12 @@ footer ol li::marker {
   letter-spacing: 0em;
 }
 
- 
-/* Style  on return */
-
 [aria-describedby="footnote-label"]:focus::after {
   outline: none;
   outline-offset: 3px;
   outline-color: var(--black);
   color:var(--pink);
- }
+}
  
 [aria-label="Back to content"] {
   font-size: 0.8em;
@@ -200,31 +190,28 @@ footer ol li::marker {
   margin-left: .5em;
   position:relative; 
   top:.1em;
- }
+}
  
 [aria-label="Back to content"]:hover {
   color:var(--pink);
   transition: color .2s ease-in-out;
- }
+}
 
- 
-/* Target note style */
+/* Text selection */
 
-footer :target {
- } 
+::selection {
+  background-color: var(--pink);
+  color: var(--white);
+  -webkit-text-fill-color: var(--white);
+}
 
- /*  Visually hidden accessible content */
+/*  Visually hidden accessible content */
+
 .visually-hidden {
   position: absolute;
   clip: rect(0 0 0 0);
   visibility: hidden;
   opacity: 0;
- }
- 
-.p {
-  text-align: center;
-  font-size: .75em;
-  padding-top: 150px;
  }
 
 /* Small mobile adjuments  */
