@@ -49,7 +49,7 @@ body {
   background-color: var(--white);
   line-height: 1.1;
   font-weight:normal;
-  width: min(1200px, calc(50% + 250px));
+  width: min(1200px, calc(50% + 300px));
   padding:2vh 1vw 2vh 2vw;
   font-size: clamp(1rem, 4vw, 2rem);
 }
