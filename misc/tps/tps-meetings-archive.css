@@ -1,0 +1,172 @@
+:root {
+  --white:#fff;
+  --black:#111;
+  --light-grey:rgb(221, 221, 221);
+ }
+ ul, ol, li, h1, h2, h3, p {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+ }
+ p {
+  margin-bottom: 2em;
+ }
+ html {
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
+  font-size:160%;
+  scroll-behavior: smooth;
+  background-color: var(--white);
+  /*background: linear-gradient(-90deg, #faeae5, #fbe2eb, #f0fafd, #dcfff7);
+  background-size:400% 400%;
+  animation: gradient 30s ease infinite;*/
+ }
+ body {
+  display: grid;
+  width: min(1000px, calc(70% + 100px));
+  font-size: max(.7rem, 1.2vw); 
+  line-height: 1.3;
+  grid-gap:25px;
+  grid-template-columns: 300px 300px 300px;
+  padding:2rem;
+ }
+ header {
+  grid-column: 1;
+  font-size: .7rem;
+  line-height: 1;
+  text-transform: uppercase;
+  position: sticky;
+  position:-webkit-sticky;
+  top:50px;
+ }
+ header h1 a {
+  color: var(--black);
+  text-decoration:none;
+ }
+ .site-description, .meetings-years, .meetings-contents  {
+  grid-column: 2 / span 2;
+ }
+ .site-description a {
+  color:var(--black);
+ }
+ .meetings-contents {
+  position: relative;
+ }
+ nav {
+  position: sticky;
+  position:-webkit-sticky;
+  top:55px;
+  z-index: 1;
+  margin-top: 25px;
+ }
+ nav a {
+  background-color: var(--white);
+  color:var(--black);
+  padding:10px 20px;
+  border:1px solid var(--black);
+  text-decoration: none;
+  font-size: .5rem;
+  border-radius: 10px;
+  margin:5px 0;
+  mix-blend-mode:screen;
+  display: inline-block;
+ }
+ nav a:hover {
+  background-color: var(--black);
+  color: var(--white);
+ }
+ article {
+  scroll-margin-top: 125px;
+  margin:25px 0 125px 0;
+ }
+ article h2 {
+  border-bottom: 2px solid var(--black);
+  width:100%;
+  margin-bottom:1rem;
+  font-size: 2em;
+  position: sticky;
+  position:-webkit-sticky;
+ }
+ article a {
+  color: var(--black);
+  text-decoration: none;
+ }
+ article a:hover {
+  color: var(--white);
+  background-color: var(--black);
+ }
+ article .day {
+  position: absolute;
+  left:0;
+  width: 2ch;
+  display: inline-block;
+  mix-blend-mode: multiply;
+  font-size: max(.5rem, 1.2vw);
+ }
+ article .day + a {
+  position: relative;
+  left:80px;
+  display: inline-block;
+  width: calc(100% - 80px);
+ }
+ /* Month */
+ article ul li div ul li {
+  font-weight: normal;
+  color:var(--light-grey);
+  display: block;
+  margin-bottom:1rem;
+  width: auto;
+  mix-blend-mode: multiply;
+  font-size: max(.5rem, 1.2vw);
+}
+/* Month List */
+article ul li div ul li div {
+ font-weight: normal;
+ width: auto;
+ margin:10px 0 20px 0;
+}
+/* Meeting */
+article ul li div ul li div ul li {
+ margin: 0;
+ font-weight: normal;
+ width: auto;
+ padding:0 0 10px 0;
+ font-size: max(.7rem, 1.2vw);
+}
+@media only screen and (max-width: 860px) {
+  body {
+    grid-template-columns:minmax(00px, 1fr);
+    grid-gap:0;
+    padding:0.5rem;
+  }
+  header {
+    grid-column: 1 / span 3;
+    position: inherit;
+    margin-bottom: 1rem;
+  }
+  .site-description, .meetings-years, .meetings-contents {
+    grid-column: 1 / span 3;
+  }
+  nav a {
+    display: inline-block;
+    margin-bottom: 5px;
+  }
+  article {
+    scroll-margin-top: 150px;
+  }
+  article .day + a {
+    left:25px;
+  }
+}
+/*
+ @keyframes gradient {
+  0% {
+   background-position: 0% 50%;
+  }
+  50% {
+   background-position: 100% 50%;
+  }
+  100% {
+   background-position: 0% 50%;
+  }
+ }
+ */
