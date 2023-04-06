@@ -135,8 +135,8 @@ a.footnote {
 }
 
 [aria-describedby="footnote-label"]::after {
-  content: '|' counter(footnotes) '|'; 
-  /*content: counter(footnotes);*/ 
+  /*content: '|' counter(footnotes) '|'; */
+  content: counter(footnotes); 
   vertical-align: super; 
   margin-left: 0.1em; 
   color: var(--black); 
