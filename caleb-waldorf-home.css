@@ -51,11 +51,11 @@ body {
   font-weight:normal;
   width: min(1200px, calc(50% + 300px));
   padding:2vh 1vw 2vh 2vw;
-  font-size: clamp(1rem, 4.8vw, 1.5rem);
+  font-size: clamp(1rem, 4.8vw, 1.8rem);
 }
 
 section {
-  max-width: 40ch;
+  max-width: 35ch;
   counter-reset: footnotes;
 }
 
