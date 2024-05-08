@@ -1,0 +1,830 @@
+<html>
+<head>
+<style>
+/* -----------------------------------------------------------------------
+
+
+ Blueprint CSS Framework 0.9
+ http://blueprintcss.org
+
+   * Copyright (c) 2007-Present. See LICENSE for more info.
+   * See README for instructions on how to use Blueprint.
+   * For credits and origins, see AUTHORS.
+   * This is a compressed file. See the sources in the 'src' directory.
+
+----------------------------------------------------------------------- */
+
+/* reset.css */
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, code, del, dfn, em, img, q, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, dialog, figure, footer, header, hgroup, nav, section {margin:0;padding:0;border:0;font-weight:inherit;font-style:inherit;font-size:100%;font-family:inherit;vertical-align:baseline;}
+article, aside, dialog, figure, footer, header, hgroup, nav, section {display:block;}
+body {line-height:1.5;background-color: #f7f7f7; 
+
+}
+table {border-collapse:separate;border-spacing:0;}
+caption, th, td {text-align:left;font-weight:normal;}
+table, td, th {vertical-align:middle;}
+blockquote:before, blockquote:after, q:before, q:after {content:"";}
+blockquote, q {quotes:"" "";}
+a img {border:none;}
+
+/* typography.css */
+html {font-size:100.01%;}
+body {font-size:75%;color:#222;background:#fff;font-family:"Helvetica Neue", Arial, Helvetica, sans-serif;width: 100%;}
+h1, h2, h3, h4, h5, h6 {font-weight:normal;color:#111;}
+h1 {font-size:2em;
+font-weight:bold;
+line-height:1;
+margin-bottom:0.5em;
+text-transform:uppercase;
+color: #666;
+}
+h2 {font-size:1.5em;text-transform: uppercase;color:#999;font-weight: bold;}
+h3 {font-size:1.5em;line-height:1;margin-bottom:1em;}
+h4 {font-size:1.2em;line-height:1.25;margin-bottom:1.25em;}
+h5 {font-size:1em;font-weight:bold;margin-bottom:1.5em;}
+h6 {font-size:1em;font-weight:bold;}
+h1 img, h2 img, h3 img, h4 img, h5 img, h6 img {margin:0;}
+p {margin:0 0 1.5em;}
+p img.left {float:left;margin:1.5em 1.5em 1.5em 0;padding:0;}
+p img.right {float:right;margin:1.5em 0 1.5em 1.5em;}
+a:focus, a:hover {color:#000;}
+a {color:#0084ff;text-decoration:none;font-weight: bold;}
+blockquote {margin:1.5em;color:#666;font-style:italic;}
+strong {font-weight:bold;}
+em, dfn {font-style:italic;}
+dfn {font-weight:bold;}
+sup, sub {line-height:0;}
+abbr, acronym {border-bottom:1px dotted #666;}
+address {margin:0 0 1.5em;font-style:italic;}
+del {color:#666;}
+pre {margin:1.5em 0;white-space:pre;}
+pre, code, tt {font:1em 'andale mono', 'lucida console', monospace;line-height:1.5;}
+li ul, li ol {margin:0;}
+ul, ol {margin:0 1.5em 1.5em 0;padding-left:3.333em;}
+ul {list-style-type:disc;}
+ol {list-style-type:decimal;}
+dl {margin:0 0 1.5em 0;}
+dl dt {font-weight:bold;}
+dd {margin-left:1.5em;}
+table {margin-bottom:1.4em;width:100%;}
+th {font-weight:bold;}
+thead th {background:#c3d9ff;}
+th, td, caption {padding:4px 10px 4px 5px;}
+tr.even td {background:#e5ecf9;}
+tfoot {font-style:italic;}
+caption {background:#eee;}
+.small {font-size:.8em;margin-bottom:1.875em;line-height:1.875em;}
+.large {font-size:1.2em;line-height:2.5em;margin-bottom:1.25em;}
+.hide {display:none;}
+.quiet {color:#666;}
+.loud {color:#000;}
+.highlight {background:#ff0;}
+.added {background:#060;color:#fff;}
+.removed {background:#900;color:#fff;}
+.first {margin-left:0;padding-left:0;}
+.last {margin-right:0;padding-right:0;}
+.top {margin-top:0;padding-top:0;}
+.bottom {margin-bottom:0;padding-bottom:0;}
+
+/* forms.css */
+label {font-weight:bold;}
+fieldset {padding:1.4em;margin:0 0 1.5em 0;border:1px solid #ccc;}
+legend {font-weight:bold;font-size:1.2em;}
+input[type=text], input[type=password], input.text, input.title, textarea, select {background-color:#fff;border:1px solid #bbb;}
+input[type=text]:focus, input[type=password]:focus, input.text:focus, input.title:focus, textarea:focus, select:focus {border-color:#666;}
+input[type=text], input[type=password], input.text, input.title, textarea, select {margin:0.5em 0;}
+input.text, input.title {width:300px;padding:5px;}
+input.title {font-size:1.5em;}
+textarea {width:390px;height:250px;padding:5px;}
+input[type=checkbox], input[type=radio], input.checkbox, input.radio {position:relative;top:.25em;}
+form.inline {line-height:3;}
+form.inline p {margin-bottom:0;}
+.error, .notice, .success {padding:.8em;margin-bottom:1em;border:2px solid #ddd;}
+.error {background:#FBE3E4;color:#8a1f11;border-color:#FBC2C4;}
+.notice {background:#FFF6BF;color:#514721;border-color:#FFD324;}
+.success {background:#E6EFC2;color:#264409;border-color:#C6D880;}
+.error a {color:#8a1f11;}
+.notice a {color:#514721;}
+.success a {color:#264409;}
+
+/* grid.css */
+.container {width:950px;margin:0 auto;}
+.showgrid {background:url(src/grid.png);}
+.column, .span-1, .span-2, .span-3, .span-4, .span-5, .span-6, .span-7, .span-8, .span-9, .span-10, .span-11, .span-12, .span-13, .span-14, .span-15, .span-16, .span-17, .span-18, .span-19, .span-20, .span-21, .span-22, .span-23, .span-24 {float:left;margin-right:10px;}
+.last {margin-right:0;}
+.span-1 {width:30px;}
+.span-2 {width:70px;}
+.span-3 {width:110px;}
+.span-4 {width:150px;}
+.span-5 {width:190px;}
+.span-6 {width:230px;}
+.span-7 {width:270px;}
+.span-8 {width:310px;}
+.span-9 {width:350px;}
+.span-10 {width:390px;}
+.span-11 {width:430px;}
+.span-12 {width:470px;}
+.span-13 {width:510px;}
+.span-14 {width:550px;}
+.span-15 {width:590px;}
+.span-16 {width:630px;}
+.span-17 {width:670px;}
+.span-18 {width:710px;}
+.span-19 {width:750px;}
+.span-20 {width:790px;}
+.span-21 {width:830px;}
+.span-22 {width:870px;}
+.span-23 {width:910px;}
+.span-24 {width:950px;margin-right:0;}
+input.span-1, textarea.span-1, input.span-2, textarea.span-2, input.span-3, textarea.span-3, input.span-4, textarea.span-4, input.span-5, textarea.span-5, input.span-6, textarea.span-6, input.span-7, textarea.span-7, input.span-8, textarea.span-8, input.span-9, textarea.span-9, input.span-10, textarea.span-10, input.span-11, textarea.span-11, input.span-12, textarea.span-12, input.span-13, textarea.span-13, input.span-14, textarea.span-14, input.span-15, textarea.span-15, input.span-16, textarea.span-16, input.span-17, textarea.span-17, input.span-18, textarea.span-18, input.span-19, textarea.span-19, input.span-20, textarea.span-20, input.span-21, textarea.span-21, input.span-22, textarea.span-22, input.span-23, textarea.span-23, input.span-24, textarea.span-24 {border-left-width:1px;border-right-width:1px;padding-left:5px;padding-right:5px;}
+input.span-1, textarea.span-1 {width:18px;}
+input.span-2, textarea.span-2 {width:58px;}
+input.span-3, textarea.span-3 {width:98px;}
+input.span-4, textarea.span-4 {width:138px;}
+input.span-5, textarea.span-5 {width:178px;}
+input.span-6, textarea.span-6 {width:218px;}
+input.span-7, textarea.span-7 {width:258px;}
+input.span-8, textarea.span-8 {width:298px;}
+input.span-9, textarea.span-9 {width:338px;}
+input.span-10, textarea.span-10 {width:378px;}
+input.span-11, textarea.span-11 {width:418px;}
+input.span-12, textarea.span-12 {width:458px;}
+input.span-13, textarea.span-13 {width:498px;}
+input.span-14, textarea.span-14 {width:538px;}
+input.span-15, textarea.span-15 {width:578px;}
+input.span-16, textarea.span-16 {width:618px;}
+input.span-17, textarea.span-17 {width:658px;}
+input.span-18, textarea.span-18 {width:698px;}
+input.span-19, textarea.span-19 {width:738px;}
+input.span-20, textarea.span-20 {width:778px;}
+input.span-21, textarea.span-21 {width:818px;}
+input.span-22, textarea.span-22 {width:858px;}
+input.span-23, textarea.span-23 {width:898px;}
+input.span-24, textarea.span-24 {width:938px;}
+.append-1 {padding-right:40px;}
+.append-2 {padding-right:80px;}
+.append-3 {padding-right:120px;}
+.append-4 {padding-right:160px;}
+.append-5 {padding-right:200px;}
+.append-6 {padding-right:240px;}
+.append-7 {padding-right:280px;}
+.append-8 {padding-right:320px;}
+.append-9 {padding-right:360px;}
+.append-10 {padding-right:400px;}
+.append-11 {padding-right:440px;}
+.append-12 {padding-right:480px;}
+.append-13 {padding-right:520px;}
+.append-14 {padding-right:560px;}
+.append-15 {padding-right:600px;}
+.append-16 {padding-right:640px;}
+.append-17 {padding-right:680px;}
+.append-18 {padding-right:720px;}
+.append-19 {padding-right:760px;}
+.append-20 {padding-right:800px;}
+.append-21 {padding-right:840px;}
+.append-22 {padding-right:880px;}
+.append-23 {padding-right:920px;}
+.prepend-1 {padding-left:40px;}
+.prepend-2 {padding-left:80px;}
+.prepend-3 {padding-left:120px;}
+.prepend-4 {padding-left:160px;}
+.prepend-5 {padding-left:200px;}
+.prepend-6 {padding-left:240px;}
+.prepend-7 {padding-left:280px;}
+.prepend-8 {padding-left:320px;}
+.prepend-9 {padding-left:360px;}
+.prepend-10 {padding-left:400px;}
+.prepend-11 {padding-left:440px;}
+.prepend-12 {padding-left:480px;}
+.prepend-13 {padding-left:520px;}
+.prepend-14 {padding-left:560px;}
+.prepend-15 {padding-left:600px;}
+.prepend-16 {padding-left:640px;}
+.prepend-17 {padding-left:680px;}
+.prepend-18 {padding-left:720px;}
+.prepend-19 {padding-left:760px;}
+.prepend-20 {padding-left:800px;}
+.prepend-21 {padding-left:840px;}
+.prepend-22 {padding-left:880px;}
+.prepend-23 {padding-left:920px;}
+.border {padding-right:4px;margin-right:5px;border-right:1px solid #eee;}
+.colborder {padding-right:24px;margin-right:25px;border-right:1px solid #eee;}
+.pull-1 {margin-left:-40px;}
+.pull-2 {margin-left:-80px;}
+.pull-3 {margin-left:-120px;}
+.pull-4 {margin-left:-160px;}
+.pull-5 {margin-left:-200px;}
+.pull-6 {margin-left:-240px;}
+.pull-7 {margin-left:-280px;}
+.pull-8 {margin-left:-320px;}
+.pull-9 {margin-left:-360px;}
+.pull-10 {margin-left:-400px;}
+.pull-11 {margin-left:-440px;}
+.pull-12 {margin-left:-480px;}
+.pull-13 {margin-left:-520px;}
+.pull-14 {margin-left:-560px;}
+.pull-15 {margin-left:-600px;}
+.pull-16 {margin-left:-640px;}
+.pull-17 {margin-left:-680px;}
+.pull-18 {margin-left:-720px;}
+.pull-19 {margin-left:-760px;}
+.pull-20 {margin-left:-800px;}
+.pull-21 {margin-left:-840px;}
+.pull-22 {margin-left:-880px;}
+.pull-23 {margin-left:-920px;}
+.pull-24 {margin-left:-960px;}
+.pull-1, .pull-2, .pull-3, .pull-4, .pull-5, .pull-6, .pull-7, .pull-8, .pull-9, .pull-10, .pull-11, .pull-12, .pull-13, .pull-14, .pull-15, .pull-16, .pull-17, .pull-18, .pull-19, .pull-20, .pull-21, .pull-22, .pull-23, .pull-24 {float:left;position:relative;}
+.push-1 {margin:0 -40px 1.5em 40px;}
+.push-2 {margin:0 -80px 1.5em 80px;}
+.push-3 {margin:0 -120px 1.5em 120px;}
+.push-4 {margin:0 -160px 1.5em 160px;}
+.push-5 {margin:0 -200px 1.5em 200px;}
+.push-6 {margin:0 -240px 1.5em 240px;}
+.push-7 {margin:0 -280px 1.5em 280px;}
+.push-8 {margin:0 -320px 1.5em 320px;}
+.push-9 {margin:0 -360px 1.5em 360px;}
+.push-10 {margin:0 -400px 1.5em 400px;}
+.push-11 {margin:0 -440px 1.5em 440px;}
+.push-12 {margin:0 -480px 1.5em 480px;}
+.push-13 {margin:0 -520px 1.5em 520px;}
+.push-14 {margin:0 -560px 1.5em 560px;}
+.push-15 {margin:0 -600px 1.5em 600px;}
+.push-16 {margin:0 -640px 1.5em 640px;}
+.push-17 {margin:0 -680px 1.5em 680px;}
+.push-18 {margin:0 -720px 1.5em 720px;}
+.push-19 {margin:0 -760px 1.5em 760px;}
+.push-20 {margin:0 -800px 1.5em 800px;}
+.push-21 {margin:0 -840px 1.5em 840px;}
+.push-22 {margin:0 -880px 1.5em 880px;}
+.push-23 {margin:0 -920px 1.5em 920px;}
+.push-24 {margin:0 -960px 1.5em 960px;}
+.push-1, .push-2, .push-3, .push-4, .push-5, .push-6, .push-7, .push-8, .push-9, .push-10, .push-11, .push-12, .push-13, .push-14, .push-15, .push-16, .push-17, .push-18, .push-19, .push-20, .push-21, .push-22, .push-23, .push-24 {float:right;position:relative;}
+.prepend-top {margin-top:1.5em;}
+.append-bottom {margin-bottom:1.5em;}
+.box {padding:1.5em;margin-bottom:1.5em;background:#E5ECF9;}
+hr {background:#ddd;color:#ddd;clear:both;float:none;width:100%;height:.1em;margin:0 0 1.45em;border:none;}
+hr.space {background:#fff;color:#fff;visibility:hidden;}
+.clearfix:after, .container:after {content:"\0020";display:block;height:0;clear:both;visibility:hidden;overflow:hidden;}
+.clearfix, .container {display:block;}
+.clear {clear:both;}
+
+.wrapper {
+margin: 0 auto;
+width: 950px;
+padding-top: 20px;
+
+}
+
+a.anchor {text-decoration: none;color: #666;}
+
+
+/******TPS SPECIFIC STYLES*******/
+
+h2.tps_logo {
+font-weight: bold;
+color: #000000;
+font-size: 3em;
+line-height: 1em;
+padding-bottom: 20px;
+}
+
+.contact {
+line-height: 1.08em;
+}
+
+.contact a {
+font-size: .98em;
+}
+
+.contact .grey {
+font-weight: bold;
+color: #cccccc;
+font-size: .92em;}
+
+.top-right {
+padding-top: 85px;
+padding-left: 20px;
+padding-bottom: 10px;
+}
+
+.top-right .title {
+padding-bottom: 20px;
+}
+
+.top-right p {
+font-size: 1em;
+line-height: 1.5em;
+margin-bottom:10px;
+}
+
+.date {
+padding-top: 20px;
+text-align: right;
+}
+
+.content {
+margin-left: 20px;
+line-height: 1.33em;
+font-weight: bold;
+text-transform: uppercase;
+font-size: 1em;
+}
+
+.day {
+border-bottom: 1px dotted #000;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+
+.text {
+padding-bottom: 10px;
+}
+
+.info {
+}
+
+
+
+span.thing {
+width: 80px;
+padding: 0px;
+float: left;
+}
+
+.row {
+}
+
+.italics {
+font-style: italic;}
+
+.location {
+color: #999;
+font-size: .92em;}
+
+
+</style>
+
+<title>There is nothing less passive than the act of fleeing...</title>
+
+</head>
+
+<body>
+<div class="wrapper">
+
+	<div class="span-24">
+	
+		<div class="span-4 top-left">
+			<h2 class="tps_logo">THE PUBLIC SCHOOL</h2>
+			<div class="contact">
+				<p>
+				<a href="http://thepublicschool.org">The Public School Website</a><br/>
+				<a href="http://telic.org">Telic Website</a>
+				</p>
+				<p>
+				<a href="http://maps.google.com">Map of activities</a><br/>
+				<a href="http://love.com">Contact</a>
+				</p>
+				<p class="grey">
+				Organized by Sean Dockray, Caleb Waldorf and Fiona Whitton
+				</p>
+			</div>
+		</div>
+		
+		<div class="span-16 top-right">
+			<img src="images/title.png" class="title">
+			<p>
+			Deadlock: perpetual war, failing economies, the crumbling of eduction, capitalist realism, our environment in ruin, hostility everywhere. </p>
+
+<p>We are the crisis. </p>
+
+<p>Resistance? Confrontation? Insurrection? </p>
+
+<p>Exodus: silence, autonomy, occupation, withdrawl, exodus, invisibility, friendship. </p>
+
+<p>We are the escape plan. </p>
+
+<p>The Public School is organizing a 13-day seminar, meeting each day at a different location in Berlin. This seminar takes the form of an open reading group, where the texts discussed each day resonate with the site selected. On 18 July The Public School and The Office will host an event to be held at Salon Populaire. The day will unfold as a series of participatory conversations and workshops.</p>
+
+<p>Please join us in Berlin or at The Public School(s) to sketch, scheme and build new imaginaries. </p>
+
+<p style="font-size:.88em; color:#999;line-height:1em;">Space will be limited for the reading group and the event on the 18th.  Please let us know if you plan on attending. In the event that too many people want to participate, we will adjust our program to accommodate as many as possible. Those who can attend the entire seminar will get priority. Please let us know by filling out the form below.</p>
+		</div>
+	</div>
+	
+	<div class="span-24">
+		
+		<div class="span-24 row">
+		
+			<div class="span-4 date" style="border-top:4px solid #000;">
+			<img src="images/1.png">
+			</div>
+			<div class="span-16 last content" style="border-top:4px solid #000;">
+			<div class="day">
+			
+					<div class="text">
+						
+						<span class="info italics"><a href="#">Introduction to Civil War</a></span><br/>
+						
+						<span class="info">Tiqqun</span>
+					</div>
+					
+					
+					
+					
+					<div class="location">
+						
+						<span class="info">Location coming soon...</span><br/>
+						
+						<span class="info">Time To Be Determined...</span>
+					</div>
+			</div>
+			</div>
+		</div>
+		
+		<div class="span-24 row">
+			<div class="span-4 date">
+			<img src="images/2.png">
+			</div>
+			<div class="span-16 last content">
+			<div class="day">
+					<div class="text">
+						
+						<span class="info italics"><a href="#">Speculations on the Stationary State</a></span><br/>
+						
+						<span class="info">Gopal Balakrishnan</span>
+					</div>
+					<div class="location">
+						
+						<span class="info">Location coming soon...</span><br/>
+						
+						<span class="info">Time To Be Determined...</span>
+					</div>
+			</div>
+			</div>
+		</div>
+		
+				<div class="span-24 row">
+			<div class="span-4 date">
+			<img src="images/3.png">
+			</div>
+			<div class="span-16 last content">
+			<div class="day">
+					<div class="text">
+						
+						<span class="info italics"><a href="#">The Friend</a></span><br/>
+						
+						<span class="info">Georgio Agamben</span>
+					</div>
+					<div class="location">
+						
+						<span class="info">Location coming soon...</span><br/>
+						
+						<span class="info">Time To Be Determined...</span>
+					</div>
+			</div>
+			</div>
+		</div>
+		
+				<div class="span-24 row">
+			<div class="span-4 date">
+			<img src="images/4.png">
+			</div>
+			<div class="span-16 last content">
+			<div class="day">
+					<div class="text">
+						
+						<span class="info italics"><a href="#">Support, Participation, and Relationships to Equality</a></span><br/>
+						
+						<span class="info">Celine Condorelli & Eyal Weizman</span>
+					</div>
+					<div class="text">
+						
+						<span class="info italics"><a href="#">Theory of the Quasi-Object</a></span><br/>
+						
+						<span class="info">Michel Serres</span>
+					</div>
+					<div class="location">
+						
+						<span class="info">Location coming soon...</span><br/>
+						
+						<span class="info">Time To Be Determined...</span>
+					</div>
+			</div>
+			</div>
+		</div>
+		
+				<div class="span-24 row">
+			<div class="span-4 date">
+			<img src="images/5.png">
+			</div>
+			<div class="span-16 last content">
+			<div class="day">
+					<div class="text">
+						
+						<span class="info italics"><a href="#">Politics of the Common</a></span><br/>
+						
+						<span class="info">Michael Hardt</span>
+					</div>
+					<div class="text">
+						
+						<span class="info italics"><a href="#">Life in Limbo</a></span><br/>
+						
+						<span class="info">Turbulence Editors</span>
+					</div>
+					<div class="location">
+						
+						<span class="info">Location coming soon...</span><br/>
+						
+						<span class="info">Time To Be Determined...</span>
+					</div>
+			</div>
+			</div>
+		</div>
+		
+				<div class="span-24 row">
+			<div class="span-4 date">
+			<img src="images/6.png">
+			</div>
+			<div class="span-16 last content">
+			<div class="day">
+					<div class="text">
+						
+						<span class="info italics"><a href="#">Animal Spirits: A Bestiary of the Commons [excerpt]</a></span><br/>
+						
+						<span class="info">Matteo Pasquinelli</span>
+					</div>
+					<div class="location">
+						
+						<span class="info">Location coming soon...</span><br/>
+						
+						<span class="info">Time To Be Determined...</span>
+					</div>
+			</div>
+			</div>
+		</div>
+		
+				<div class="span-24 row">
+			<div class="span-4 date">
+			<img src="images/7.png">
+			</div>
+			<div class="span-16 last content">
+			<div class="day">
+					<div class="text">
+						
+						<span class="info italics"><a href="#">Communique from an absent future</a></span><br/>
+						
+						<span class="info">Research and Destroy</span>
+					</div>
+					<div class="text">
+						
+						<span class="info italics"><a href="#">Prolegomena to Any Future Philosophy </a></span><br/>
+						
+						<span class="info">A lot of people</span>
+					</div>
+					<div class="text">
+						
+						<span class="info italics"><a href="#">Intellectuals and Power </a></span><br/>
+						
+						<span class="info">Michel Foucault & Gilles Delueze</span>
+					</div>					
+					<div class="location">
+						
+						<span class="info">Location coming soon...</span><br/>
+						
+						<span class="info">Time To Be Determined...</span>
+					</div>
+			</div>
+			</div>
+		</div>
+		
+				<div class="span-24 row">
+			<div class="span-4 date">
+			<img src="images/8.png">
+			</div>
+			<div class="span-16 last content">
+			<div class="day">
+					<div class="text">
+						
+						<span class="info italics"><a href="#">Virtuosity and Revolutions: The Political Theory of Exodus</a></span><br/>
+						
+						<span class="info">Paulo Virno</span>
+					</div>
+					<div class="location">
+						
+						<span class="info">Location coming soon...</span><br/>
+						
+						<span class="info">Time To Be Determined...</span>
+					</div>
+			</div>
+			</div>
+		</div>
+		
+				<div class="span-24 row">
+			<div class="span-4 date">
+			<img src="images/9.png">
+			</div>
+			<div class="span-16 last content">
+			<div class="day">
+					<div class="text">
+						
+						<span class="info italics"><a href="#">Slouching Towards Bethlehem</a></span><br/>
+						
+						<span class="info">Joan Didion</span>
+					</div>
+					<div class="text">
+						
+						<span class="info italics"><a href="#">Analyticon (from Seminar XVII)</a></span><br/>
+						
+						<span class="info">Jacques Lacan</span>
+					</div>
+					<div class="text">
+						
+						<span class="info italics"><a href="#">The Neutral (excerpt)</a></span><br/>
+						
+						<span class="info">Roland Barthes </span>
+					</div>
+					<div class="location">
+						
+						<span class="info">Location coming soon...</span><br/>
+						
+						<span class="info">Time To Be Determined...</span>
+					</div>
+			</div>
+			</div>
+		</div>
+		
+				<div class="span-24 row">
+			<div class="span-4 date">
+			<img src="images/10.png">
+			</div>
+			<div class="span-16 last content">
+			<div class="day">
+					<div class="text">
+						
+						<span class="info italics"><a href="#">Quitting: A Conversation with Alex Koch on the Paradoxes of Dropping Out
+</a></span><br/>
+						
+						<span class="info">Stephen Wright & Alex Koch with a response by Brian Holmes</span>
+					</div>
+					<div class="text">
+						
+						<span class="info italics"><a href="#">The Scene of a Flight*
+</a></span><br/>
+						
+						<span class="info">Georges Perec</span>
+					</div>
+					<div class="text">
+						
+						<span class="info italics"><a href="#">Boredom
+</a></span><br/>
+						
+						<span class="info">Sigfried Kracauer </span>
+					</div>
+					<div class="location">
+						
+						<span class="info">Location coming soon...</span><br/>
+						
+						<span class="info">Time To Be Determined...</span>
+					</div>
+			</div>
+			</div>
+		</div>
+		
+		
+				<div class="span-24 row">
+			<div class="span-4 date">
+			<img src="images/11.png">
+			</div>
+			<div class="span-16 last content">
+			<div class="day">
+					<div class="text">
+						
+						<span class="info italics"><a href="#">To Have Done With the Massacre of the Body
+</a></span><br/>
+						
+						<span class="info">Felix Guattari</span>
+					</div>
+					<div class="text">
+						
+						<span class="info italics"><a href="#">The Affectivist Manifesto: Artistic Critique for the 21st Century
+</a></span><br/>
+						
+						<span class="info">Brian Holmes </span>
+					</div>
+					<div class="text">
+												<span class="info italics"><a href="#">The City in the Female Gender</a></span><br/>
+						
+						<span class="info">Lia Magale</span>
+					</div>										
+					<div class="location">
+						
+						<span class="info">Location coming soon...</span><br/>
+						
+						<span class="info">Time To Be Determined...</span>
+					</div>
+			</div>
+			</div>
+		</div>
+		
+		
+				<div class="span-24 row">
+			<div class="span-4 date">
+			<img src="images/12.png">
+			</div>
+			<div class="span-16 last content">
+			<div class="day">
+					<div class="text">
+						
+						<span class="info italics"><a href="#">Ready-Made Artist and Human Strike: A Few Clarifications</a></span><br/>
+						
+						<span class="info">Claire Fontaine</span>
+					</div>
+					<div class="text">
+						
+						<span class="info italics"><a href="#">Invisible Man (prologue)</a></span><br/>
+						
+						<span class="info"> Ralph Ellison</span>
+					</div>					
+					<div class="location">
+						
+						<span class="info">Location coming soon...</span><br/>
+						
+						<span class="info">Time To Be Determined...</span>
+					</div>
+			</div>
+			</div>
+		</div>
+		
+		
+				<div class="span-24 row">
+			<div class="span-4 date">
+			<img src="images/13.png">
+			</div>
+			<div class="span-16 last content">
+			<div class="day">
+					<div class="text">
+						
+						<span class="info italics"><a href="#">Who Cares</a></span><br/>
+						
+						<span class="info">Multiple Authors (conversation organized by Creative Time)</span>
+					</div>
+					<div class="location">
+						
+						<span class="info">APPARTEMENT, <a href="#">map</a></span><br/>
+						
+						<span class="info">7:00pm</span>
+					</div>
+			</div>
+			</div>
+		</div>
+		
+		
+
+		
+		
+		<div class="span-24 row">
+			<div class="span-4 date">
+			<img src="images/15.png">
+			</div>
+			<div class="span-16 last content">
+			<div class="day">
+					<div class="text">
+						<span class="thing">Event</span>
+						<span class="info">There Is No Now, Now</a></span><br/>
+						<span class="thing">Hosted by</span>
+						<span class="info">The Public School & The Office</a></span>
+					</div>
+					<div class="location">
+						
+						<span class="info"><a href="http://salonpopulaire.de/" target="_blank">SALON POPULAIRE</a>, <a href="http://maps.google.com/maps?client=safari&q=Berlin+Sch%C3%B6neberg,+B%C3%BClowstra%C3%9Fe+90&oe=UTF-8&ie=UTF8&hq=&hnear=B%C3%BClowstra%C3%9Fe+90,+Berlin+10783+Berlin,+Germany&gl=us&ei=EwQITKXIN4S4Na3VgbYE&ved=0CBYQ8gEwAA&z=16" target="_blank" >map</a></span><br/>
+						
+						<span class="info">12:00-8:00pm</span>
+					</div>
+			</div>
+			</div>
+		</div>
+		<div class="span-24 row" style="padding-top:30px;margin-bottom:50px;">
+		<div class="span-4" style="display:block;float:left;border-top:4px solid #000;"><div class="span-4 date">
+			<img src="images/qa.png">
+			</div></div>
+		<div class="span-16 row last" style="border-top:4px solid #000;display:block;margin-left:20px;">
+		<iframe src="http://spreadsheets.google.com/embeddedform?formkey=dGZqNFo5MDFwb1duZUl3cW5IMTN6bnc6MQ" width="630" height="630" frameborder="0" marginheight="0" marginwidth="0" style="padding-top:20px;">Loading...</iframe>
+		</div>
+		</div>
+		
+		<div class="span-24 row" style="padding-top:30px;margin-bottom:50px;">
+			<div class="span-4 date" style="border-top:4px solid #000;">
+			<img src="images/map.png">
+			</div>
+			<div class="span-16 last content" style="border-top:4px solid #000;">
+			<iframe style="padding:20px 0px 0px 0px;" width="630" height="530" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=berlin&amp;sll=34.076951,-118.251944&amp;sspn=0.01189,0.022724&amp;ie=UTF8&amp;hq=&amp;hnear=Berlin,+Germany&amp;t=h&amp;ll=52.523324,13.41156&amp;spn=0.110712,0.209084&amp;z=12&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=berlin&amp;sll=34.076951,-118.251944&amp;sspn=0.01189,0.022724&amp;ie=UTF8&amp;hq=&amp;hnear=Berlin,+Germany&amp;t=h&amp;ll=52.523324,13.41156&amp;spn=0.110712,0.209084&amp;z=12&amp;iwloc=A" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+			
+			
+						</div>
+		</div>
+		
+</div>
+</body>
+
+
+</html>

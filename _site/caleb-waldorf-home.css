@@ -1,0 +1,241 @@
+:root {
+ --white:rgb(254, 254, 254);
+ --black:rgba(17, 17, 17, 1);
+ --light-grey:rgba(250, 250, 250, 1);
+ --background-grey:rgb(235, 235, 235);
+ --pink: rgba(238, 107, 255, 1);
+ --serif: Fanwood, serif;
+ --sans: Spartan, sans-serif;
+}
+
+/* https://www.theleagueofmoveabletype.com/fanwood */
+
+@font-face {
+  font-family: Fanwood;
+  src: url('fonts/fanwood_text-webfont.eot'); /* IE9 Compat Modes */
+  src: url('fonts/fanwood_text-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/fanwood_text-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+       url('fonts/fanwood_text-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('fonts/fanwood_text-webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+  font-family: Fanwood;
+  font-style: italic;
+  src: url('fonts/fanwood_text_italic-webfont.eot'); /* IE9 Compat Modes */
+  src: url('fonts/fanwood_text_italic-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/fanwood_text_italic-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+       url('fonts/fanwood_text_italic-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('fonts/fanwood_text_italic-webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+ /* https://www.theleagueofmoveabletype.com/league-spartan */
+ 
+ @font-face {
+  font-family: Spartan;
+  src: url(fonts/LeagueSpartan-VF.ttf);
+ }
+
+html {
+  font-size: 160%;
+  scroll-behavior: smooth;
+  scroll-snap-align: start;
+  scroll-padding-top:auto;
+}
+
+body {
+  font-family: var(--serif);
+  color: var(--black);
+  background-color: var(--white);
+  line-height: 1.1;
+  font-weight:normal;
+  width: min(1200px, calc(50% + 300px));
+  padding:2vh 1vw 2vh 2vw;
+  font-size: clamp(1rem, 4.8vw, 1.8rem);
+}
+
+section {
+  max-width: 35ch;
+  counter-reset: footnotes;
+}
+
+footer {
+  margin-top: 2rem;
+  padding:0;
+}
+
+p {
+  margin:0;
+  display: inline;
+  font-feature-settings: "liga", "clig", "kern", "lnum";
+}
+
+p:after {
+  content: "¶";
+  display: inline-block;
+  padding:0 .2em;
+}
+
+section p:nth-child(7):after {
+  content: "";
+}
+
+a.email {
+  position:fixed;
+  right:2vw;
+  bottom:0vh;
+}
+
+a.email .material-symbols-sharp {
+  font-variation-settings:
+  'FILL' 1,
+  'wght' 200,
+  'GRAD' 200,
+  'opsz' 48;
+  font-size: .85em;
+}
+
+/* Link styles */
+
+a {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  color: var(--black);
+  transition: color .2s ease-in-out;
+}
+
+a:hover {
+  color: var(--pink);
+  outline: none; 
+}
+
+a.footnote {
+  cursor: pointer;
+  border-bottom: none;
+}
+
+ a.footnote:hover {
+  color:var(--black)
+}
+
+ a.background-link-color {
+  background-color: var(--black);
+  color:var(--white);
+  text-decoration: none;
+}
+
+/* Footnotes */
+
+[aria-describedby="footnote-label"] {
+  counter-increment: footnotes; 
+  text-decoration: none; 
+  color: inherit; 
+  cursor: default; 
+  outline: none; 
+}
+
+[aria-describedby="footnote-label"]::after {
+  /*content: '|' counter(footnotes) '|'; */
+  content: counter(footnotes); 
+  vertical-align: super; 
+  margin-left: 0.1em; 
+  color: var(--black); 
+  text-decoration: none; 
+  cursor: pointer; 
+  font-family: var(--sans);
+  font-size: clamp(.5rem, 1.5vw, .65rem);
+  letter-spacing: 0.05em;
+  font-variation-settings: "wght" 600;
+}
+
+ [aria-describedby="footnote-label"]:hover:after {
+  color:var(--pink);
+  transition: color .2s ease-in-out;
+}
+
+footer ol {
+  padding:0 0 0 .2em;
+}
+
+footer ol li  {
+  font-family: var(--sans);
+  font-size: clamp(.7rem, 1.5vw, .75rem);
+  font-variation-settings: "wght" 600;
+  line-height: 1.2;
+  margin-bottom: 1em;
+  width: 48ch;
+  text-transform: none;
+  font-feature-settings: "liga", "case", "cpsp", "kern";
+  counter-increment: section;
+  padding-left: 1em;
+  padding-top:1em;
+}
+
+footer ol li::marker {
+  content: counter(section);
+  letter-spacing: 0em;
+}
+
+[aria-describedby="footnote-label"]:focus::after {
+  outline: none;
+  outline-offset: 3px;
+  outline-color: var(--black);
+  color:var(--pink);
+}
+ 
+[aria-label="Back to content"] {
+  font-size: 0.8em;
+  text-decoration: none;  
+  border-bottom: none;
+  margin-left: .5em;
+  position:relative; 
+  top:.1em;
+}
+ 
+[aria-label="Back to content"]:hover {
+  color:var(--pink);
+  transition: color .2s ease-in-out;
+}
+
+/* Text selection */
+
+::selection {
+  background-color: var(--pink);
+  color: var(--white);
+  -webkit-text-fill-color: var(--white);
+}
+
+/*  Visually hidden accessible content */
+
+.visually-hidden {
+  position: absolute;
+  clip: rect(0 0 0 0);
+  visibility: hidden;
+  opacity: 0;
+ }
+
+/* Small mobile adjuments  */
+
+@media only screen and (max-width: 860px) {
+  body {
+  width: auto;
+  padding-right:8vw;
+  }
+  a.email .material-symbols-sharp {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 200,
+    'GRAD' 200,
+    'opsz' 48;
+    font-size: 1em;
+  }
+  footer ol {
+    padding:0 0 0 .75em;
+  }
+  footer ol li {
+    padding-left: .6em;
+  }
+  section p, footer ol li {
+    width: auto;
+  }
+}
