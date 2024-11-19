@@ -2,38 +2,7 @@
   --white: rgb(248, 245, 245);
   --black: rgba(17, 17, 17, 1);
   --light-grey: rgba(250, 250, 250, 1);
-  --background-grey: rgb(2  <script>
-    document.addEventListener('DOMContentLoaded', function() {
-      var emailButton = document.querySelector('a.email');
-      var lastScrollTop = 0;
-  
-      function handleScroll() {
-        var scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-  
-        if (scrollTop > window.innerHeight * 1.5) { // 150vh
-          emailButton.classList.add('visible');
-        } else {
-          emailButton.classList.remove('visible');
-        }
-  
-        lastScrollTop = scrollTop <= 0 ? 0 : scrollTop; // For Mobile or negative scrolling
-      }
-  
-      function checkScreenWidth() {
-        if (window.innerWidth <= 600) {
-          emailButton.classList.add('mobile-hidden');
-          window.addEventListener('scroll', handleScroll);
-        } else {
-          emailButton.classList.remove('mobile-hidden');
-          window.removeEventListener('scroll', handleScroll);
-          emailButton.classList.add('visible');
-        }
-      }
-  
-      checkScreenWidth();
-      window.addEventListener('resize', checkScreenWidth);
-    });
-  </script>35, 235, 235);
+  --background-grey: rgb(235, 235, 235);
   --pink: rgba(238, 107, 255, 1);
   --serif: Fanwood, serif;
   --sans: Spartan, sans-serif;
@@ -313,7 +282,6 @@ footer ol li::marker {
     transform: translateX(50%);
     opacity: 0; /* Initially hidden on mobile */
     pointer-events: none; /* Prevent interaction when hidden */
-    bottom:8px;
   }
 
   a.email.visible {
