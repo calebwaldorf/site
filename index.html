@@ -32,6 +32,38 @@
 
       gtag('config', 'G-8LE5VHD5TX');
     </script>
+    <script>
+     document.addEventListener('DOMContentLoaded', function() {
+       var emailButton = document.querySelector('a.email');
+       var lastScrollTop = 0;
+       var buttonVisible = false;
+   
+       function handleScroll() {
+         var scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+   
+         if (scrollTop > window.innerHeight * .5 && !buttonVisible) { // 50vh
+           emailButton.classList.add('visible');
+           buttonVisible = true;
+         }
+   
+         lastScrollTop = scrollTop <= 0 ? 0 : scrollTop; // For Mobile or negative scrolling
+       }
+   
+       function checkScreenWidth() {
+         if (window.innerWidth <= 600) {
+           emailButton.classList.add('mobile-hidden');
+           window.addEventListener('scroll', handleScroll);
+         } else {
+           emailButton.classList.remove('mobile-hidden');
+           window.removeEventListener('scroll', handleScroll);
+           emailButton.classList.add('visible');
+         }
+       }
+   
+       checkScreenWidth();
+       window.addEventListener('resize', checkScreenWidth);
+     });
+   </script>
 </head>
 <body>
 <section>
