@@ -7,7 +7,7 @@
   --serif: Fanwood, serif;
   --sans: Spartan, sans-serif;
   --system: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  --email-button-padding: .2em 3em 1em 3em;
+  --email-button-padding: .2em 2.5em 1em 2.5em;
   --email-button-bg: #FFFFFF;
   --email-button-shadow: 0 0 10px 0 rgba(0,0,0,0.11);
   --email-button-radius: 26.5px;
@@ -263,4 +263,45 @@ footer ol li::marker {
    right: 50%;
    transform: translateX(50%);
  }
+}
+
+/* Small mobile adjustments  */
+@media (max-width: 600px) {
+  a.email {
+    right: 50%;
+    transform: translateX(50%);
+  }
+}
+
+/* Night mode styles */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --white: rgba(17, 17, 17, 1);
+    --black: rgb(248, 245, 245);
+    --background-grey: rgb(35, 35, 35);
+    --light-grey: rgba(50, 50, 50, 1);
+  }
+
+  body {
+    background-color: var(--background-grey);
+    color: var(--black);
+  }
+
+  a {
+    color: var(--black);
+  }
+
+  a:hover {
+    color: var(--pink);
+  }
+
+  a.email {
+    background: var(--black);
+    color: var(--white);
+  }
+
+  a.email:hover {
+    background: var(--pink);
+    color: var(--black);
+  }
 }
