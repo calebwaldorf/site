@@ -7,9 +7,10 @@
  --serif: Fanwood, serif;
  --sans: Spartan, sans-serif;
  --system: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
- --email-button-padding: .2em 2.5em 1em 2.5em;
+ --email-button-padding: .2em 3em 1em 3em;
  --email-button-bg: #FFFFFF;
  --email-button-shadow: 0 0 10px 0 rgba(0,0,0,0.11);
+ --email-button-shadow-night: 0 0 10px 0 rgba(210, 210, 210, 0.181);
  --email-button-radius: 26.5px;
  --email-button-font-size: .55rem;
  --icon-padding-right: 5px;
@@ -314,8 +315,9 @@ footer ol li::marker {
  }
 
  a.email {
-   background: var(--black);
-   color: var(--white);
+   background: var(--background-grey);
+   color: var(--black);
+   box-shadow: var(--email-button-shadow-night);
  }
 
  a.email:hover {
